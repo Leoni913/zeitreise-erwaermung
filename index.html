@@ -71,6 +71,76 @@
   footer{padding:4rem 7vw;border-top:1px solid var(--line);color:var(--muted);font-size:.8rem;font-weight:300;line-height:1.8}
   footer b{color:var(--ink);font-weight:600}
   .akt-bg{background:linear-gradient(180deg,var(--navy) 0%, var(--navy-2) 50%, var(--navy) 100%)}
+
+  /* ---- Glassmorphism & Tiefe ---- */
+  .card{background:rgba(255,255,255,.04);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.08);border-radius:14px;box-shadow:0 20px 80px rgba(0,0,0,.35)}
+  .chart-wrap,.map-wrap,.fan-wrap{padding:1.6rem clamp(1rem,2.5vw,2rem)}
+  svg{filter:drop-shadow(0 14px 40px rgba(0,0,0,.28))}
+  .tip{box-shadow:0 14px 40px rgba(0,0,0,.45);backdrop-filter:blur(6px);background:rgba(14,41,64,.92)}
+
+  /* ---- Hero: animierte Klimastreifen als Vollbild ---- */
+  #prolog .herostripes{position:absolute;inset:0;z-index:0;opacity:.32;background-size:200% 100%;animation:heroDrift 40s linear infinite}
+  @keyframes heroDrift{0%{background-position:0% 0}100%{background-position:50% 0}}
+  #prolog .herofade{position:absolute;inset:0;z-index:0;background:radial-gradient(ellipse at center,rgba(6,22,38,.45) 0%,rgba(6,22,38,.82) 70%,var(--navy) 100%)}
+  .legendmini{margin-top:1.6rem;display:flex;align-items:center;gap:.8rem;justify-content:center;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+  .legendmini .bar{width:160px;height:9px;border-radius:5px;background:linear-gradient(90deg,#2244aa,#4987C1,#f4f4f4,#E89A3C,#F5002E)}
+
+  /* ---- Prolog-Kennzahlen ---- */
+  .pstats{margin-top:2.6rem;display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;width:100%;max-width:760px}
+  .pstat{padding:1.3rem 1rem;text-align:center}
+  .pstat .v{font-weight:800;font-size:clamp(1.6rem,4vw,2.4rem);line-height:1;letter-spacing:-.02em}
+  .pstat .v.r{color:var(--rot)} .pstat .v.o{color:var(--orange)} .pstat .v.b{color:var(--blau)}
+  .pstat .l{margin-top:.6rem;font-size:.74rem;color:var(--muted);font-weight:300;line-height:1.4}
+
+  /* ---- Persönlicher Klima-Lebensweg ---- */
+  #lifepath{margin-top:2.4rem;opacity:0;transform:translateY(14px);transition:opacity .8s .3s,transform .8s .3s;width:100%;max-width:780px}
+  #lifepath.on{opacity:1;transform:none}
+  .lp-title{font-size:.74rem;letter-spacing:.3em;text-transform:uppercase;color:var(--muted);margin-bottom:1.4rem}
+  .lp-track{display:grid;grid-template-columns:repeat(4,1fr);gap:.7rem;position:relative}
+  .lp-track:before{content:"";position:absolute;left:6%;right:6%;top:38px;height:2px;background:linear-gradient(90deg,var(--blau),var(--orange),var(--rot));opacity:.5}
+  .lp-node{position:relative;text-align:center;padding-top:0}
+  .lp-node .yr{font-size:.78rem;color:var(--muted);font-weight:600;letter-spacing:.05em}
+  .lp-node .dot{width:14px;height:14px;border-radius:50%;margin:.9rem auto;border:3px solid var(--navy);position:relative;z-index:1}
+  .lp-node .val{font-weight:800;font-size:clamp(1.1rem,3vw,1.7rem);letter-spacing:-.02em}
+  .lp-node .tag{font-size:.66rem;color:var(--muted);font-weight:300;margin-top:.25rem}
+  .lp-node.future .val{opacity:.85}
+  .lp-note{margin-top:1.4rem;font-size:.74rem;color:var(--muted);font-weight:300;line-height:1.5;max-width:60ch;margin-left:auto;margin-right:auto}
+
+  /* ---- Akt I: Ereignis-Marker & Warming Stripes ---- */
+  .evt-dot{fill:var(--ink);stroke:var(--navy);stroke-width:2;cursor:pointer;transition:r .15s}
+  .evt-line{stroke:var(--muted);stroke-opacity:.35;stroke-dasharray:2 4}
+  .evt-label{fill:var(--muted);font-size:10px;font-family:inherit;font-weight:600}
+  .stripes-wrap{margin-top:1.4rem;width:100%;max-width:1100px}
+  .stripes-wrap .lbl{display:flex;justify-content:space-between;font-size:.72rem;color:var(--muted);font-weight:600;letter-spacing:.05em;margin-bottom:.5rem}
+  .stripes-cap{font-size:.74rem;color:var(--muted);font-weight:300;margin-top:.7rem;line-height:1.5}
+
+  /* ---- Akt II: Ranking & Pro-Kopf-Toggle ---- */
+  .map-layout{display:grid;grid-template-columns:1fr;gap:1.4rem}
+  @media(min-width:860px){.map-layout{grid-template-columns:1fr 230px}}
+  .rank-panel{padding:1.2rem 1.3rem;align-self:start}
+  .rank-panel h4{font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:1rem}
+  .rank-row{display:flex;align-items:center;gap:.7rem;padding:.55rem 0;border-bottom:1px solid rgba(255,255,255,.06);font-size:.92rem}
+  .rank-row:last-child{border-bottom:none}
+  .rank-row .pos{color:var(--muted);font-weight:700;width:1.4ch;flex:0 0 auto}
+  .rank-row .nm{flex:1;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .rank-row .vl{color:var(--blau);font-weight:700;font-size:.82rem;flex:0 0 auto}
+  .toggle{display:inline-flex;background:var(--navy-3);border:1px solid var(--line);border-radius:30px;padding:3px;gap:2px}
+  .toggle button{background:transparent;color:var(--muted);border:none;cursor:pointer;font-family:inherit;font-size:.8rem;font-weight:600;padding:.5rem 1rem;border-radius:30px;transition:all .2s}
+  .toggle button.active{background:var(--rot);color:#fff}
+  .mode-cap{font-size:.74rem;color:var(--muted);font-weight:300;margin-left:.4rem}
+
+  /* ---- Akt IV ---- */
+  #akt4{background:linear-gradient(180deg,var(--navy) 0%,#0b0508 55%,var(--navy) 100%)}
+  .conseq{margin-top:2.6rem;display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1.1rem;width:100%;max-width:1000px}
+  .conseq .c{padding:1.6rem 1.4rem}
+  .conseq .c .ic{font-size:1.6rem;margin-bottom:.7rem;display:block}
+  .conseq .c .ct{font-weight:700;font-size:1.05rem;margin-bottom:.4rem}
+  .conseq .c .cd{font-size:.84rem;color:var(--muted);font-weight:300;line-height:1.5}
+  .closing{margin-top:3.2rem;max-width:30ch}
+  .closing .big{font-weight:800;font-size:clamp(1.6rem,4vw,2.6rem);line-height:1.15;letter-spacing:-.02em}
+  .closing .big em{color:var(--rot);font-style:normal}
+  .closing p{margin-top:1.2rem;font-weight:300;color:#c2d2e2;font-size:1.05rem;line-height:1.6;max-width:46ch}
+  @media(max-width:600px){.lp-track:before{top:30px}}
 </style>
 </head>
 <body>
@@ -80,8 +150,11 @@
   <a href="#akt1" data-t="akt1"><span>Vergangenheit</span><span class="dot"></span></a>
   <a href="#akt2" data-t="akt2"><span>Gegenwart</span><span class="dot"></span></a>
   <a href="#akt3" data-t="akt3"><span>Zukunft</span><span class="dot"></span></a>
+  <a href="#akt4" data-t="akt4"><span>Bedeutung</span><span class="dot"></span></a>
 </nav>
 <section id="prolog">
+  <div class="herostripes" id="herostripes"></div>
+  <div class="herofade"></div>
   <svg class="pstripes" id="pstripes" preserveAspectRatio="none"></svg>
   <div class="pcontent">
     <div class="kicker">Eine Zeitreise durch die globale Erw&auml;rmung</div>
@@ -91,9 +164,21 @@
       <button id="go" disabled>Zeig es mir</button>
     </div>
     <div class="hint">Tippe ein Jahr zwischen 1880 und 2025 ein.</div>
+    <div class="legendmini"><span>K&auml;lter</span><span class="bar"></span><span>W&auml;rmer</span></div>
+    <div class="pstats">
+      <div class="pstat card"><div class="v r" id="ps-delta">+1,2&deg;C</div><div class="l">globale Erw&auml;rmung seit 1880</div></div>
+      <div class="pstat card"><div class="v o">+51&nbsp;%</div><div class="l">mehr CO&#8322; in der Atmosph&auml;re seit der Industrialisierung</div></div>
+      <div class="pstat card"><div class="v b" id="ps-warm">10</div><div class="l">w&auml;rmsten Jahre lagen allesamt in den letzten 11&nbsp;Jahren</div></div>
+      <div class="pstat card"><div class="v r">2024</div><div class="l">w&auml;rmstes Jahr der Messgeschichte</div></div>
+    </div>
     <div id="presult">
       <div class="big"><span id="delta">+0,0</span><span class="unit">&deg;C</span></div>
       <p class="sentence" id="sentence"></p>
+    </div>
+    <div id="lifepath">
+      <div class="lp-title">Dein pers&ouml;nlicher Klima-Lebensweg</div>
+      <div class="lp-track" id="lpTrack"></div>
+      <p class="lp-note">Werte als Abweichung vom Mittel 1951&ndash;1980. Die beiden letzten Punkte sind <b>Projektionen</b> f&uuml;r ein Szenario mit weiterhin hohen Emissionen &mdash; sie sind kein Schicksal, sondern eine von vielen m&ouml;glichen Zukunft.</p>
     </div>
   </div>
   <a href="#akt1" class="scrollcue">&darr; Weiter zur Reise</a>
@@ -102,33 +187,50 @@
   <div class="reveal">
     <div class="kicker"><span class="akt-no">Akt I</span> &nbsp;&middot;&nbsp; Die Vergangenheit</div>
     <h2>146 Jahre, in einer Linie.</h2>
-    <p class="body">Seit 1880 misst die NASA die globale Durchschnitts&shy;temperatur. Jede Schwankung ist hier ein Jahr &mdash; und der Anstieg der letzten Jahrzehnte ist un&uuml;bersehbar. Die Nulllinie markiert das Mittel der Jahre 1951&ndash;1980.</p>
+    <p class="body">Seit 1880 misst die NASA die globale Durchschnitts&shy;temperatur. Jede Schwankung ist hier ein Jahr &mdash; und der Anstieg der letzten Jahrzehnte ist un&uuml;bersehbar. Die Nulllinie markiert das Mittel der Jahre 1951&ndash;1980. Fahre &uuml;ber die Punkte, um wichtige Wegmarken zu sehen.</p>
   </div>
-  <div class="chart-wrap reveal"><svg id="chart-temp" viewBox="0 0 1100 460"></svg></div>
+  <div class="chart-wrap card reveal"><svg id="chart-temp" viewBox="0 0 1100 460"></svg></div>
+  <div class="stripes-wrap reveal">
+    <div class="lbl"><span>1880</span><span>Warming Stripes &middot; ein Streifen je Jahr</span><span>2025</span></div>
+    <svg id="chart-stripes" viewBox="0 0 1100 70" preserveAspectRatio="none"></svg>
+    <p class="stripes-cap">Dieselben Daten ohne Achsen: Jeder Streifen ist ein Jahr, die Farbe seine Temperatur. Von tiefem Blau zu sattem Rot &mdash; die Klimaerw&auml;rmung auf einen Blick.</p>
+  </div>
 </section>
 <section id="akt2" class="akt-bg">
   <div class="reveal">
     <div class="kicker"><span class="akt-no">Akt II</span> &nbsp;&middot;&nbsp; Die Gegenwart</div>
     <h2>Wer heizt der Erde ein?</h2>
-    <p class="body">Treibhausgas-Emissionen pro Land in MtCO&#8322;e. Bewege den Regler oder dr&uuml;cke Play, um die Entwicklung von 1990 bis 2023 zu durchlaufen. Je dunkler ein Land, desto mehr st&ouml;&szlig;t es aus (logarithmische Skala).</p>
+    <p class="body">Treibhausgas-Emissionen pro Land. Bewege den Regler oder dr&uuml;cke Play, um die Entwicklung von 1990 bis 2023 zu durchlaufen. Wechsle zwischen <b>Gesamt&shy;ausstoß</b> und <b>Pro&nbsp;Kopf</b> &mdash; das ver&auml;ndert das Bild dramatisch.</p>
   </div>
-  <div class="map-wrap reveal" id="akt2-wrap">
+  <div class="map-wrap card reveal" id="akt2-wrap">
     <div class="map-controls">
       <button id="playBtn" aria-label="Abspielen">&#9654;</button>
       <span id="yearLabel">1990</span>
       <input id="yearSlider" type="range" min="1990" max="2023" value="1990" step="1">
+      <div class="toggle" role="group" aria-label="Darstellungsmodus">
+        <button id="modeTotal" class="active">Gesamt</button>
+        <button id="modePer">Pro Kopf</button>
+      </div>
     </div>
-    <svg id="chart-map" viewBox="0 0 1100 560"></svg>
-    <div class="map-status" id="mapStatus"></div>
+    <div class="map-layout">
+      <div>
+        <svg id="chart-map" viewBox="0 0 1100 560"></svg>
+        <div class="map-status" id="mapStatus"></div>
+      </div>
+      <div class="rank-panel card">
+        <h4 id="rankTitle">Top 5 &middot; 1990</h4>
+        <div id="rankList"></div>
+      </div>
+    </div>
   </div>
 </section>
 <section id="akt3">
   <div class="reveal">
     <div class="kicker"><span class="akt-no">Akt III</span> &nbsp;&middot;&nbsp; Die Zukunft</div>
     <h2>Welche Zukunft w&auml;hlen wir?</h2>
-    <p class="body">W&auml;hle ein Land und sieh, wie warm es im Jahresmittel wird &mdash; unter drei Emissionspfaden, vom gem&auml;&szlig;igten bis zum hohen Szenario. Das schattierte Band zeigt die Unsicherheit (5.&ndash;95.&nbsp;Perzentil), die Linie den Median.</p>
+    <p class="body">W&auml;hle ein Land und sieh, wie warm es im Jahresmittel wird &mdash; unter drei m&ouml;glichen Pfaden: <b style="color:var(--blau)">Klimaschutz</b>, <b style="color:var(--orange)">Mittlerer&nbsp;Pfad</b> und <b style="color:var(--rot)">Hohe&nbsp;Emissionen</b>. Das schattierte Band zeigt die Unsicherheit, die Linie den wahrscheinlichsten Wert.</p>
   </div>
-  <div class="fan-wrap reveal" id="akt3-wrap">
+  <div class="fan-wrap card reveal" id="akt3-wrap">
     <div class="fan-controls">
       <label for="countrySelect">Land</label>
       <select id="countrySelect"></select>
@@ -136,6 +238,23 @@
     <div class="fan-legend" id="fanLegend"></div>
     <svg id="chart-fan" viewBox="0 0 1100 500"></svg>
     <p id="fanSentence"></p>
+  </div>
+</section>
+<section id="akt4">
+  <div class="reveal">
+    <div class="kicker"><span class="akt-no">Akt IV</span> &nbsp;&middot;&nbsp; Was bedeutet das f&uuml;r uns?</div>
+    <h2>Mehr als eine Zahl auf einer Skala.</h2>
+    <p class="body">Jedes Zehntelgrad ver&auml;ndert, wie wir leben. Steigen die Emissionen ungebremst weiter und steuern wir auf eine Welt zu, die rund <b style="color:var(--rot)">4&nbsp;&deg;C</b> w&auml;rmer ist als vor der Industrialisierung, bedeutet das konkret:</p>
+    <div class="conseq">
+      <div class="c card"><span class="ic">&#127777;</span><div class="ct">Mehr Hitzetage</div><div class="cd">Hitzewellen werden l&auml;nger, h&auml;ufiger und gef&auml;hrlicher &mdash; besonders f&uuml;r St&auml;dte und &auml;ltere Menschen.</div></div>
+      <div class="c card"><span class="ic">&#127759;</span><div class="ct">Mehr D&uuml;rren</div><div class="cd">Trockenperioden bedrohen Ernten, Trinkwasser und ganze &Ouml;kosysteme &mdash; auch in Mitteleuropa.</div></div>
+      <div class="c card"><span class="ic">&#127783;</span><div class="ct">Mehr Starkregen</div><div class="cd">W&auml;rmere Luft speichert mehr Feuchtigkeit. Die Folge: heftigere Unwetter und &Uuml;berflutungen.</div></div>
+      <div class="c card"><span class="ic">&#127754;</span><div class="ct">Steigender Meeresspiegel</div><div class="cd">Schmelzendes Eis l&auml;sst die Ozeane steigen und bedroht K&uuml;sten, in denen Millionen Menschen leben.</div></div>
+    </div>
+    <div class="closing reveal">
+      <div class="big">Die Zukunft ist <em>nicht festgeschrieben.</em></div>
+      <p>Jeder der gezeigten Pfade ist eine Entscheidung &mdash; getroffen in den kommenden Jahren und Jahrzehnten. Welche Linie am Ende Wirklichkeit wird, h&auml;ngt von uns ab.</p>
+    </div>
   </div>
 </section>
 <footer>
@@ -165,6 +284,9 @@ const stripeColor=d3.scaleDiverging(t=>d3.interpolateRdBu(1-t)).domain([-0.5,0.3
 const de=(n,dec=1)=>(n>=0?"+":"\u2212")+Math.abs(n).toFixed(dec).replace(".",",");
 const num=(n,dec=1)=>n.toFixed(dec).replace(".",",");
 const tip=document.getElementById("tip");
+const POP={"AFG":42.2,"AGO":36.7,"ALB":2.8,"AND":0.08,"ARE":9.4,"ARG":45.5,"ARM":2.8,"ATG":0.09,"AUS":26.4,"AUT":9.1,"AZE":10.3,"BDI":13.2,"BEL":11.7,"BEN":13.7,"BFA":23.3,"BGD":172.9,"BGR":6.4,"BHR":1.5,"BHS":0.41,"BIH":3.2,"BLR":9.2,"BLZ":0.41,"BOL":12.4,"BRA":216.4,"BRB":0.28,"BRN":0.45,"BTN":0.78,"BWA":2.5,"CAF":5.2,"CAN":40.1,"CHE":8.8,"CHL":19.6,"CHN":1410.7,"CIV":28.9,"CMR":28.6,"COD":102.3,"COG":6.1,"COK":0.017,"COL":52.1,"COM":0.85,"CPV":0.6,"CRI":5.2,"CUB":11.0,"CYP":1.3,"CZE":10.9,"DEU":84.5,"DJI":1.1,"DMA":0.073,"DNK":5.9,"DOM":11.3,"DZA":45.6,"ECU":18.0,"EGY":112.7,"ERI":3.7,"ESP":48.4,"EST":1.4,"ETH":126.5,"FIN":5.6,"FJI":0.94,"FRA":68.2,"FSM":0.11,"GAB":2.4,"GBR":67.7,"GEO":3.7,"GHA":34.1,"GIN":14.2,"GMB":2.8,"GNB":2.2,"GNQ":1.7,"GRC":10.4,"GRD":0.13,"GTM":18.1,"GUY":0.81,"HND":10.6,"HRV":3.9,"HTI":11.7,"HUN":9.6,"IDN":277.5,"IND":1428.6,"IRL":5.3,"IRN":89.2,"IRQ":45.5,"ISL":0.39,"ISR":9.8,"ITA":58.9,"JAM":2.8,"JOR":11.3,"JPN":124.5,"KAZ":19.6,"KEN":55.1,"KGZ":7.0,"KHM":16.9,"KIR":0.13,"KNA":0.047,"KOR":51.7,"KWT":4.3,"LAO":7.6,"LBN":5.4,"LBR":5.4,"LBY":6.9,"LCA":0.18,"LIE":0.04,"LKA":21.9,"LSO":2.3,"LTU":2.7,"LUX":0.66,"LVA":1.8,"MAR":37.1,"MDA":3.4,"MDG":30.3,"MDV":0.52,"MEX":128.5,"MHL":0.042,"MKD":2.1,"MLI":23.3,"MLT":0.53,"MMR":54.6,"MNE":0.62,"MNG":3.4,"MOZ":33.9,"MRT":4.9,"MUS":1.3,"MWI":20.9,"MYS":34.3,"NAM":2.6,"NER":26.2,"NGA":223.8,"NIC":7.0,"NIU":0.0019,"NLD":17.8,"NOR":5.5,"NPL":30.9,"NRU":0.012,"NZL":5.2,"OMN":4.6,"PAK":240.5,"PAN":4.5,"PER":34.4,"PHL":117.3,"PLW":0.018,"PNG":10.3,"POL":36.8,"PRK":26.2,"PRT":10.5,"PRY":6.9,"PSE":5.4,"QAT":2.7,"ROU":19.0,"RUS":143.8,"RWA":14.1,"SAU":36.9,"SDN":48.1,"SEN":17.8,"SGP":5.9,"SLB":0.74,"SLE":8.6,"SLV":6.4,"SOM":18.1,"SRB":6.6,"SSD":11.1,"STP":0.23,"SUR":0.62,"SVK":5.4,"SVN":2.1,"SWE":10.6,"SWZ":1.2,"SYC":0.13,"SYR":23.2,"TCD":18.3,"TGO":9.1,"THA":71.8,"TJK":10.1,"TKM":6.5,"TLS":1.4,"TON":0.1,"TTO":1.5,"TUN":12.5,"TUR":85.3,"TUV":0.011,"TZA":67.4,"UGA":48.6,"UKR":36.7,"URY":3.4,"USA":334.9,"UZB":35.6,"VCT":0.1,"VEN":28.8,"VNM":98.9,"VUT":0.33,"WSM":0.22,"YEM":34.4,"ZAF":60.4,"ZMB":20.6,"ZWE":16.7};
+/* Pro-Kopf in tCO2e/Kopf = MtCO2e * 1e6 / (Mio Einw * 1e6) = MtCO2e / Mio Einw */
+function perCapita(iso,mt){const p=POP[iso];return (p&&p>0)?mt/p:null;}
 
 /* PROLOG */
 const yearInput=document.getElementById("year"),goBtn=document.getElementById("go"),
@@ -176,9 +298,40 @@ function revealProlog(){
   const birth=+yearInput.value,delta=byYear.get(LAST)-byYear.get(birth),years=LAST-birth;
   drawPrologStripes(birth);
   document.getElementById("delta").textContent=de(delta);
-  document.getElementById("sentence").innerHTML="In den <b>"+years+" Jahren</b> deines Lebens ist die globale Durchschnitts&shy;temperatur um <b>"+de(delta).replace("+","")+"\u00A0\u00B0C</b> gestiegen \u2014 gegen\u00FCber deinem Geburtsjahr <b>"+birth+"</b>.";
+  const childWord = years<=1 ? "Ein heute geborenes Kind k\u00F6nnte eine Welt erleben, die <b>2 bis 3&nbsp;\u00B0C w\u00E4rmer</b> ist als heute."
+    : "Die letzten zehn Jahre waren die <b>w\u00E4rmsten seit Beginn der Messungen</b> \u2014 und sie fielen alle in deine Lebenszeit.";
+  document.getElementById("sentence").innerHTML="In den <b>"+years+" Jahren</b> deines Lebens ist die globale Durchschnitts&shy;temperatur um <b>"+de(delta).replace("+","")+"\u00A0\u00B0C</b> gestiegen \u2014 gegen\u00FCber deinem Geburtsjahr <b>"+birth+"</b>. "+childWord;
   presult.classList.add("on");
+  buildLifePath(birth);
 }
+function buildLifePath(birth){
+  const bv=byYear.get(birth), nv=byYear.get(LAST);
+  /* Projektionen (hohe Emissionen) als Abweichung zum Mittel 1951\u20131980 \u2014 illustrativ */
+  const nodes=[
+    {yr:birth,val:bv,tag:"Geburt",future:false},
+    {yr:LAST,val:nv,tag:"Heute",future:false},
+    {yr:2050,val:2.1,tag:"Projektion",future:true},
+    {yr:2080,val:3.3,tag:"Projektion",future:true}
+  ];
+  const t=document.getElementById("lpTrack");t.innerHTML="";
+  nodes.forEach(n=>{
+    const c=stripeColor(n.val);
+    const d=document.createElement("div");
+    d.className="lp-node"+(n.future?" future":"");
+    d.innerHTML='<div class="yr">'+n.yr+'</div>'+
+      '<div class="dot" style="background:'+c+';box-shadow:0 0 22px '+c+'66"></div>'+
+      '<div class="val" style="color:'+c+'">'+de(n.val)+'\u00B0</div>'+
+      '<div class="tag">'+n.tag+'</div>';
+    t.appendChild(d);
+  });
+  document.getElementById("lifepath").classList.add("on");
+}
+/* Animierter Klimastreifen-Hintergrund im Hero (gesamte Messreihe) */
+function drawHeroStripes(){
+  const stops=TEMP.map((d,i)=>stripeColor(d[1])+" "+((i/(TEMP.length-1))*100).toFixed(2)+"%");
+  document.getElementById("herostripes").style.backgroundImage="linear-gradient(90deg,"+stops.join(",")+")";
+}
+drawHeroStripes();
 function drawPrologStripes(birth){
   const W=1000,H=600;pstripes.attr("viewBox","0 0 "+W+" "+H).selectAll("*").remove();
   const span=TEMP.filter(d=>d[0]>=birth);
@@ -209,17 +362,50 @@ function drawTempChart(){
   svg.append("circle").attr("cx",x(LAST)).attr("cy",y(byYear.get(LAST))).attr("r",4).attr("fill","var(--rot)").attr("opacity",0).transition().delay(2200).duration(400).attr("opacity",1);
   svg.append("text").attr("x",x(LAST)).attr("y",y(byYear.get(LAST))-12).attr("text-anchor","end").attr("fill","var(--ink)").attr("font-size",13).attr("font-weight",600).text(LAST+": "+de(byYear.get(LAST))+" \u00B0C").attr("opacity",0).transition().delay(2200).duration(400).attr("opacity",1);
   svg.append("rect").attr("x",m.l).attr("y",m.t).attr("width",W-m.l-m.r).attr("height",H-m.t-m.b).attr("fill","transparent").on("mousemove",function(ev){const yr=Math.round(x.invert(d3.pointer(ev,svg.node())[0]));if(!byYear.has(yr))return;tip.innerHTML="<b>"+yr+"</b> &nbsp; "+de(byYear.get(yr))+" \u00B0C";tip.style.left=(ev.clientX+14)+"px";tip.style.top=(ev.clientY-10)+"px";tip.style.opacity=1;}).on("mouseleave",()=>tip.style.opacity=0);
+  /* Ereignis-Marker */
+  const EVENTS=[
+    [1958,"Mauna-Loa-Messreihe","Charles Keeling beginnt, die CO\u2082-Konzentration kontinuierlich zu messen \u2014 die ber\u00FChmte \u201EKeeling-Kurve\u201C entsteht."],
+    [1988,"Gr\u00FCndung des IPCC","Die Vereinten Nationen rufen den Weltklimarat ins Leben, um den Forschungsstand zur Erderw\u00E4rmung zu b\u00FCndeln."],
+    [1997,"Kyoto-Protokoll","Erstmals verpflichten sich Industriestaaten v\u00F6lkerrechtlich zur Reduktion ihrer Treibhausgase."],
+    [2015,"Pariser Klimaabkommen","195 Staaten beschlie\u00DFen, die Erw\u00E4rmung deutlich unter 2&nbsp;\u00B0C \u2014 m\u00F6glichst auf 1,5&nbsp;\u00B0C \u2014 zu begrenzen."],
+    [2024,"W\u00E4rmstes Jahr","2024 wird das hei\u00DFeste je gemessene Jahr und durchbricht erstmals die 1,5-\u00B0C-Marke gegen\u00FCber vorindustrieller Zeit."]
+  ];
+  const eg=svg.append("g");
+  EVENTS.forEach(e=>{const yr=e[0];if(!byYear.has(yr))return;const px=x(yr),py=y(byYear.get(yr));
+    eg.append("line").attr("class","evt-line").attr("x1",px).attr("x2",px).attr("y1",py).attr("y2",H-m.b);
+    eg.append("text").attr("class","evt-label").attr("x",px).attr("y",py-14).attr("text-anchor","middle").text(yr).attr("opacity",0).transition().delay(2400).duration(500).attr("opacity",1);
+    eg.append("circle").attr("class","evt-dot").attr("cx",px).attr("cy",py).attr("r",0)
+      .on("mouseenter",function(ev){d3.select(this).attr("r",7);tip.innerHTML="<b style='color:var(--ink)'>"+yr+" \u00B7 "+e[1]+"</b><br><span style='display:block;max-width:240px;margin-top:4px;color:#c2d2e2;font-weight:300'>"+e[2]+"</span>";tip.style.opacity=1;})
+      .on("mousemove",function(ev){tip.style.left=(ev.clientX+14)+"px";tip.style.top=(ev.clientY-10)+"px";})
+      .on("mouseleave",function(){d3.select(this).attr("r",5);tip.style.opacity=0;})
+      .transition().delay(2400).duration(500).attr("r",5);
+  });
+  drawStripeStrip();
+}
+/* Warming Stripes: ein Streifen je Jahr, ohne Achsen */
+function drawStripeStrip(){
+  const svg=d3.select("#chart-stripes");if(!svg.selectAll("*").empty())return;
+  const W=1100,H=70;const x=d3.scaleBand().domain(TEMP.map(d=>d[0])).range([0,W]).padding(0);
+  svg.selectAll("rect").data(TEMP).join("rect")
+    .attr("x",d=>x(d[0])).attr("y",0).attr("width",x.bandwidth()+1).attr("height",H)
+    .attr("fill",d=>stripeColor(d[1])).attr("opacity",0)
+    .transition().duration(700).delay((d,i)=>i*(900/TEMP.length)).attr("opacity",1);
 }
 
 /* AKT 2 (offline) */
-let mapInit=false,mapData=null,emByYearIso=null,playTimer=null,colScale=null;
+let mapInit=false,mapData=null,emByYearIso=null,playTimer=null,colTotal=null,colPer=null,mapMode="total";
+/* gibt den im aktuellen Modus relevanten Wert zur\u00FCck */
+function modeVal(iso,mt){return mapMode==="per"?perCapita(iso,mt):mt;}
+function curScale(){return mapMode==="per"?colPer:colTotal;}
 function initMap(){
   if(mapInit)return;mapInit=true;
   try{
     mapData=topojson.feature(WORLD,WORLD.objects.countries).features;
     emByYearIso=d3.rollup(EMISSIONS,v=>v[0].emissions,d=>d.year,d=>d.iso);
-    const vals=EMISSIONS.map(d=>d.emissions).filter(v=>v>0);
-    colScale=d3.scaleSequentialLog(d3.interpolateYlOrRd).domain([d3.min(vals),d3.max(vals)]);
+    const totVals=EMISSIONS.map(d=>d.emissions).filter(v=>v>0);
+    const perVals=EMISSIONS.map(d=>perCapita(d.iso,d.emissions)).filter(v=>v!=null&&v>0);
+    colTotal=d3.scaleSequentialLog(d3.interpolateYlOrRd).domain([d3.min(totVals),d3.max(totVals)]);
+    colPer=d3.scaleSequentialLog(d3.interpolateYlOrRd).domain([d3.min(perVals),d3.quantile(perVals.sort(d3.ascending),0.985)]);
     drawMapBase();drawLegend();updateMap(+document.getElementById("yearSlider").value);
   }catch(err){document.getElementById("mapStatus").textContent="Karte konnte nicht initialisiert werden: "+err.message;}
 }
@@ -228,28 +414,52 @@ function drawMapBase(){
   const proj=d3.geoNaturalEarth1().fitSize([W,H-30],{type:"FeatureCollection",features:mapData});
   const path=d3.geoPath(proj);
   svg.append("g").selectAll("path").data(mapData).join("path").attr("class","country nodata").attr("d",path)
-    .on("mousemove",function(ev,d){const iso=NUM2ISO[+d.id],yr=+document.getElementById("yearSlider").value;const v=emByYearIso.get(yr)&&emByYearIso.get(yr).get(iso);tip.innerHTML="<b>"+d.properties.name+"</b><br>"+(v!=null?d3.format(",.0f")(v)+" MtCO\u2082e":"keine Daten");tip.style.left=(ev.clientX+14)+"px";tip.style.top=(ev.clientY-10)+"px";tip.style.opacity=1;}).on("mouseleave",()=>tip.style.opacity=0);
+    .on("mousemove",function(ev,d){const iso=NUM2ISO[+d.id],yr=+document.getElementById("yearSlider").value;const mt=emByYearIso.get(yr)&&emByYearIso.get(yr).get(iso);const v=(mt!=null)?modeVal(iso,mt):null;const unit=mapMode==="per"?" tCO\u2082e pro Kopf":" MtCO\u2082e";const fmt=mapMode==="per"?".1f":",.0f";tip.innerHTML="<b>"+d.properties.name+"</b><br>"+(v!=null?d3.format(fmt)(v)+unit:"keine Daten");tip.style.left=(ev.clientX+14)+"px";tip.style.top=(ev.clientY-10)+"px";tip.style.opacity=1;}).on("mouseleave",()=>tip.style.opacity=0);
 }
 function updateMap(year){
   document.getElementById("yearLabel").textContent=year;document.getElementById("yearSlider").value=year;
-  const yr=emByYearIso.get(year);
-  d3.select("#chart-map").selectAll(".country").attr("fill",d=>{const v=yr&&yr.get(NUM2ISO[+d.id]);return (v!=null&&v>0)?colScale(v):null;}).classed("nodata",d=>{const v=yr&&yr.get(NUM2ISO[+d.id]);return !(v!=null&&v>0);});
+  const yr=emByYearIso.get(year),sc=curScale();
+  d3.select("#chart-map").selectAll(".country").attr("fill",d=>{const iso=NUM2ISO[+d.id];const mt=yr&&yr.get(iso);const v=(mt!=null&&mt>0)?modeVal(iso,mt):null;return (v!=null&&v>0)?sc(Math.min(v,sc.domain()[1])):null;}).classed("nodata",d=>{const iso=NUM2ISO[+d.id];const mt=yr&&yr.get(iso);const v=(mt!=null&&mt>0)?modeVal(iso,mt):null;return !(v!=null&&v>0);});
+  updateRanking(year);
+}
+function updateRanking(year){
+  const yr=emByYearIso.get(year);if(!yr)return;
+  const rows=[];
+  yr.forEach((mt,iso)=>{if(mt==null||mt<=0)return;const v=modeVal(iso,mt);if(v==null||!isFinite(v))return;rows.push([iso,v]);});
+  rows.sort((a,b)=>b[1]-a[1]);
+  const top=rows.slice(0,5);
+  document.getElementById("rankTitle").textContent="Top 5 \u00B7 "+year;
+  const unit=mapMode==="per"?" t":"",fmt=mapMode==="per"?".1f":",.0f";
+  document.getElementById("rankList").innerHTML=top.map((r,i)=>{
+    const name=NAMES[r[0]]&&NAMES[r[0]].length>3?NAMES[r[0]]:r[0];
+    return '<div class="rank-row"><span class="pos">'+(i+1)+'</span><span class="nm">'+name+'</span><span class="vl">'+d3.format(fmt)(r[1])+unit+'</span></div>';
+  }).join("");
 }
 function drawLegend(){
-  const svg=d3.select("#chart-map");const W=1100,lx=W-260,ly=525,lw=230,lh=10;
-  const g=svg.append("defs").append("linearGradient").attr("id","legGrad");
+  const svg=d3.select("#chart-map");svg.selectAll(".legend").remove();svg.select("#legGrad").remove();
+  const W=1100,lx=W-300,ly=525,lw=270,lh=10;
+  const defs=svg.select("defs").empty()?svg.append("defs"):svg.select("defs");
+  const g=defs.append("linearGradient").attr("id","legGrad");
   d3.range(0,1.01,0.1).forEach(t=>g.append("stop").attr("offset",(t*100)+"%").attr("stop-color",d3.interpolateYlOrRd(t)));
   const lg=svg.append("g").attr("class","legend");
   lg.append("rect").attr("x",lx).attr("y",ly).attr("width",lw).attr("height",lh).attr("fill","url(#legGrad)");
   lg.append("text").attr("x",lx).attr("y",ly-6).text("weniger");
-  lg.append("text").attr("x",lx+lw).attr("y",ly-6).attr("text-anchor","end").text("mehr Emissionen (MtCO\u2082e)");
+  lg.append("text").attr("x",lx+lw).attr("y",ly-6).attr("text-anchor","end").text(mapMode==="per"?"mehr (tCO\u2082e pro Kopf)":"mehr Emissionen (MtCO\u2082e)");
 }
+function setMode(m){
+  if(mapMode===m||!mapData)return;mapMode=m;
+  document.getElementById("modeTotal").classList.toggle("active",m==="total");
+  document.getElementById("modePer").classList.toggle("active",m==="per");
+  drawLegend();updateMap(+document.getElementById("yearSlider").value);
+}
+document.getElementById("modeTotal").addEventListener("click",()=>setMode("total"));
+document.getElementById("modePer").addEventListener("click",()=>setMode("per"));
 const slider=document.getElementById("yearSlider"),playBtn=document.getElementById("playBtn");
 slider.addEventListener("input",()=>{if(mapData)updateMap(+slider.value);});
 playBtn.addEventListener("click",()=>{if(playTimer){clearInterval(playTimer);playTimer=null;playBtn.innerHTML="\u25B6";return;}playBtn.innerHTML="\u23F8";playTimer=setInterval(()=>{let y=+slider.value;y=y>=2023?1990:y+1;if(mapData)updateMap(y);},550);});
 
 /* AKT 3 : Szenario-Fächer */
-const SCEN=[["ssp2-45","Gem\u00E4\u00DFigt \u00B7 SSP2-4.5","#4987C1"],["ssp3-70","Mittel \u00B7 SSP3-7.0","#E89A3C"],["ssp5-85","Hoch \u00B7 SSP5-8.5","#F5002E"]];
+const SCEN=[["ssp2-45","Klimaschutz \u00B7 SSP2-4.5","#4987C1"],["ssp3-70","Mittlerer Pfad \u00B7 SSP3-7.0","#E89A3C"],["ssp5-85","Hohe Emissionen \u00B7 SSP5-8.5","#F5002E"]];
 const PER=[["historical_1986_2005",1995,"1986\u20132005"],["next_decades_2020_2039",2030,"2020\u20132039"],["midcentury_2040_2059",2050,"2040\u20132059"],["endcentury_2080_2099",2090,"2080\u20132099"]];
 let fanInit=false;
 function initFan(){
@@ -292,10 +502,14 @@ function drawFan(iso){
   // Satz
   const h=data["ssp2-45"]&&data["ssp2-45"]["historical_1986_2005"];
   const worst=data["ssp5-85"]&&data["ssp5-85"]["endcentury_2080_2099"];
+  const best=data["ssp2-45"]&&data["ssp2-45"]["endcentury_2080_2099"];
   if(h&&worst){
-    document.getElementById("fanSentence").innerHTML=
-      "In <b style='color:var(--ink)'>"+NAMES[iso]+"</b> lag die Jahresmitteltemperatur 1986\u20132005 bei rund "+num(h[1],1)+"\u00B0C. "+
-      "Im Hochszenario (SSP5-8.5) steigt sie bis 2080\u20132099 auf bis zu <b>"+num(worst[2],1)+"\u00B0C</b> \u2014 ein Plus von bis zu <b>"+num(worst[2]-h[1],1)+"\u00B0C</b>.";
+    let s="In <b style='color:var(--ink)'>"+NAMES[iso]+"</b> lag die Jahresmitteltemperatur 1986\u20132005 bei rund "+num(h[1],1)+"\u00B0C. "+
+      "Bei <b>hohen Emissionen</b> steigt sie bis 2080\u20132099 auf bis zu <b>"+num(worst[2],1)+"\u00B0C</b> \u2014 ein Plus von bis zu <b>"+num(worst[2]-h[1],1)+"\u00B0C</b>.";
+    if(best){
+      s+=" Mit konsequentem <b style='color:var(--blau)'>Klimaschutz</b> lie\u00DFe sich der Anstieg auf rund <b style='color:var(--blau)'>"+num(best[1]-h[1],1)+"\u00B0C</b> begrenzen. Diese Differenz von <b>"+num(worst[2]-best[1],1)+"\u00B0C</b> ist keine Statistik \u2014 sie entscheidet \u00FCber Hitze, Ernten und Lebensqualit\u00E4t einer ganzen Generation.";
+    }
+    document.getElementById("fanSentence").innerHTML=s;
   } else { document.getElementById("fanSentence").textContent=""; }
 }
 

@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zeitreise durch die globale Erwärmung</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,800;1,300&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<style>
+  :root{
+    --navy:#061626; --navy-2:#0a2034; --navy-3:#0e2940;
+    --rot:#F5002E; --blau:#4987C1;
+    --ink:#eaf1f8; --muted:#7e92a6; --line:#1c3148;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{font-family:'Montserrat',sans-serif;background:var(--navy);color:var(--ink);overflow-x:hidden}
+  section{position:relative;min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:8vh 7vw}
+  .kicker{font-size:.74rem;letter-spacing:.4em;text-transform:uppercase;color:var(--muted);margin-bottom:1.6rem}
+  h2{font-weight:800;font-size:clamp(2rem,5vw,3.6rem);letter-spacing:-.02em;line-height:1.05;max-width:18ch}
+  .akt-no{color:var(--rot)}
+  p.body{font-weight:300;font-size:clamp(1rem,1.6vw,1.25rem);line-height:1.6;max-width:52ch;color:#c2d2e2;margin-top:1.4rem}
+
+  nav{position:fixed;top:0;right:0;z-index:50;display:flex;flex-direction:column;gap:1rem;padding:2.2rem 2rem;align-items:flex-end}
+  nav a{display:flex;align-items:center;gap:.7rem;text-decoration:none;color:var(--muted);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;transition:color .25s}
+  nav a .dot{width:8px;height:8px;border-radius:50%;background:var(--line);transition:background .25s,transform .25s}
+  nav a:hover,nav a.active{color:var(--ink)}
+  nav a.active .dot{background:var(--rot);transform:scale(1.4)}
+
+  /* ===== PROLOG ===== */
+  #prolog{align-items:center;text-align:center;overflow:hidden}
+  #prolog .pstripes{position:absolute;inset:0;opacity:0;transition:opacity 1.2s ease;z-index:0}
+  #prolog .pstripes.on{opacity:.5}
+  #prolog .pcontent{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;width:100%}
+  #prolog h1{font-weight:800;font-size:clamp(2.2rem,6vw,4.6rem);line-height:1.05;max-width:16ch;letter-spacing:-.02em}
+  .input-wrap{margin-top:3rem;display:flex;align-items:center;gap:1rem}
+  #year{width:7ch;background:transparent;border:none;border-bottom:3px solid var(--blau);color:var(--ink);font-family:inherit;font-weight:800;font-size:clamp(2.2rem,7vw,3.6rem);text-align:center;outline:none}
+  #year::-webkit-outer-spin-button,#year::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+  #year::placeholder{color:#2f4358}
+  #go{background:var(--rot);color:#fff;border:none;cursor:pointer;font-family:inherit;font-weight:600;font-size:.95rem;padding:1rem 1.7rem;border-radius:2px;letter-spacing:.03em;transition:transform .2s,box-shadow .2s}
+  #go:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 10px 30px rgba(245,0,46,.35)}
+  #go:disabled{opacity:.3;cursor:not-allowed}
+  .hint{margin-top:1.3rem;font-size:.78rem;color:var(--muted);font-weight:300}
+  #presult{margin-top:2.6rem;opacity:0;transform:translateY(14px);transition:opacity .8s,transform .8s;pointer-events:none}
+  #presult.on{opacity:1;transform:none}
+  #presult .big{font-weight:800;font-size:clamp(3rem,12vw,8rem);line-height:.95;color:var(--rot);letter-spacing:-.03em;text-shadow:0 0 60px rgba(245,0,46,.25)}
+  #presult .big .unit{font-size:.3em;font-weight:600;color:var(--ink);vertical-align:.5em}
+  #presult .sentence{font-weight:300;font-size:clamp(1rem,2.2vw,1.4rem);max-width:34ch;line-height:1.5;margin:.6rem auto 0}
+  #presult .sentence b{font-weight:600;color:var(--blau)}
+  .scrollcue{position:absolute;bottom:2rem;left:50%;transform:translateX(-50%);font-size:.7rem;letter-spacing:.3em;text-transform:uppercase;color:var(--muted);font-weight:300;animation:bob 2s ease-in-out infinite;text-decoration:none}
+  @keyframes bob{0%,100%{transform:translate(-50%,0)}50%{transform:translate(-50%,8px)}}
+
+  /* ===== CHART (Akt 1) ===== */
+  .chart-wrap{margin-top:3rem;width:100%;max-width:1100px}
+  svg{width:100%;height:auto;display:block}
+  .axis text{fill:var(--muted);font-size:11px;font-family:inherit}
+  .axis line,.axis path{stroke:var(--line)}
+  .grid line{stroke:var(--line);stroke-opacity:.5}
+  .baseline{stroke:var(--muted);stroke-dasharray:3 4;stroke-width:1}
+  .tline{fill:none;stroke:var(--rot);stroke-width:2.5}
+  .tip{position:fixed;pointer-events:none;background:var(--navy-3);border:1px solid var(--line);padding:.5rem .7rem;border-radius:3px;font-size:.8rem;opacity:0;transition:opacity .15s;z-index:60}
+  .tip b{color:var(--blau)}
+
+  /* ===== MAP (Akt 2) ===== */
+  .map-wrap{margin-top:2.4rem;width:100%;max-width:1100px}
+  .map-controls{display:flex;align-items:center;gap:1.4rem;margin-bottom:1.2rem;flex-wrap:wrap}
+  #playBtn{background:var(--rot);color:#fff;border:none;width:46px;height:46px;border-radius:50%;cursor:pointer;font-size:1rem;display:flex;align-items:center;justify-content:center;flex:0 0 auto;transition:transform .2s}
+  #playBtn:hover{transform:scale(1.08)}
+  #yearLabel{font-weight:800;font-size:2.2rem;min-width:3.5ch;color:var(--ink)}
+  #yearSlider{flex:1;min-width:160px;accent-color:var(--rot);height:4px}
+  .country{stroke:var(--navy);stroke-width:.4px}
+  .country.nodata{fill:#16263a}
+  .legend text{fill:var(--muted);font-size:10px;font-family:inherit}
+  .map-status{color:var(--muted);font-weight:300;font-size:.9rem;margin-top:1rem}
+
+  .placeholder{margin-top:2.6rem;width:100%;max-width:1100px;min-height:46vh;border:1px dashed var(--line);border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.8rem;color:var(--muted);text-align:center;padding:2rem;background:linear-gradient(180deg,var(--navy-2),transparent)}
+  .placeholder .tag{font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;border:1px solid var(--line);padding:.3rem .7rem;border-radius:2px}
+  .placeholder .note{font-weight:300;font-size:.9rem;max-width:46ch;line-height:1.5}
+  .placeholder code{color:var(--blau);background:rgba(73,135,193,.12);padding:.1rem .4rem;border-radius:2px;font-size:.85em}
+
+  .reveal{opacity:0;transform:translateY(30px);transition:opacity .9s,transform .9s}
+  .reveal.in{opacity:1;transform:none}
+  footer{padding:4rem 7vw;border-top:1px solid var(--line);color:var(--muted);font-size:.8rem;font-weight:300;line-height:1.8}
+  footer b{color:var(--ink);font-weight:600}
+  .akt-bg{background:linear-gradient(180deg,var(--navy) 0%, var(--navy-2) 50%, var(--navy) 100%)}
+</style>
+</head>
+<body>
+
+<nav id="nav">
+  <a href="#prolog" data-t="prolog"><span>Prolog</span><span class="dot"></span></a>
+  <a href="#akt1" data-t="akt1"><span>Vergangenheit</span><span class="dot"></span></a>
+  <a href="#akt2" data-t="akt2"><span>Gegenwart</span><span class="dot"></span></a>
+  <a href="#akt3" data-t="akt3"><span>Zukunft</span><span class="dot"></span></a>
+</nav>
+
+<!-- ============ PROLOG ============ -->
+<section id="prolog">
+  <svg class="pstripes" id="pstripes" preserveAspectRatio="none"></svg>
+  <div class="pcontent">
+    <div class="kicker">Eine Zeitreise durch die globale Erwärmung</div>
+    <h1>In welchem Jahr bist du geboren?</h1>
+    <div class="input-wrap">
+      <input id="year" type="number" min="1880" max="2025" placeholder="19__" inputmode="numeric">
+      <button id="go" disabled>Zeig es mir</button>
+    </div>
+    <div class="hint">Tippe ein Jahr zwischen 1880 und 2025 ein.</div>
+    <div id="presult">
+      <div class="big"><span id="delta">+0,0</span><span class="unit">°C</span></div>
+      <p class="sentence" id="sentence"></p>
+    </div>
+  </div>
+  <a href="#akt1" class="scrollcue">↓ Weiter zur Reise</a>
+</section>
+
+<!-- ============ AKT 1 — VERGANGENHEIT ============ -->
+<section id="akt1">
+  <div class="reveal">
+    <div class="kicker"><span class="akt-no">Akt I</span> &nbsp;·&nbsp; Die Vergangenheit</div>
+    <h2>146 Jahre, in einer Linie.</h2>
+    <p class="body">Seit 1880 misst die NASA die globale Durchschnitts&shy;temperatur. Jede Schwankung ist hier ein Jahr — und der Anstieg der letzten Jahrzehnte ist unübersehbar. Die Nulllinie markiert das Mittel der Jahre 1951–1980.</p>
+  </div>
+  <div class="chart-wrap reveal">
+    <svg id="chart-temp" viewBox="0 0 1100 460"></svg>
+  </div>
+</section>
+
+<!-- ============ AKT 2 — GEGENWART ============ -->
+<section id="akt2" class="akt-bg">
+  <div class="reveal">
+    <div class="kicker"><span class="akt-no">Akt II</span> &nbsp;·&nbsp; Die Gegenwart</div>
+    <h2>Wer heizt der Erde ein?</h2>
+    <p class="body">Treibhausgas-Emissionen pro Land in MtCO₂e. Bewege den Regler oder drücke Play, um die Entwicklung von 1990 bis 2023 zu durchlaufen. Je dunkler ein Land, desto mehr stößt es aus (logarithmische Skala).</p>
+  </div>
+  <div class="map-wrap reveal" id="akt2-wrap">
+    <div class="map-controls">
+      <button id="playBtn" aria-label="Abspielen">▶</button>
+      <span id="yearLabel">1990</span>
+      <input id="yearSlider" type="range" min="1990" max="2023" value="1990" step="1">
+    </div>
+    <svg id="chart-map" viewBox="0 0 1100 560"></svg>
+    <div class="map-status" id="mapStatus"></div>
+  </div>
+</section>
+
+<!-- ============ AKT 3 — ZUKUNFT ============ -->
+<section id="akt3">
+  <div class="reveal">
+    <div class="kicker"><span class="akt-no">Akt III</span> &nbsp;·&nbsp; Die Zukunft</div>
+    <h2>Welche Zukunft wählen wir?</h2>
+    <p class="body">Drei Szenarien, ein Fächer-Diagramm: vom gemäßigten bis zum hohen Emissionspfad, mit Unsicherheitsband bis zum Jahr 2099. Die Zukunft hängt an den Entscheidungen von heute.</p>
+  </div>
+  <div class="placeholder reveal" id="mount-akt3">
+    <span class="tag">Nächster Schritt</span>
+    <div class="note">Hier kommt das Szenario-Fächerdiagramm aus <code>data/projections_temperature.json</code> mit Szenario-Umschalter. Mount-Punkt: <code>// MOUNT AKT 3</code>.</div>
+  </div>
+</section>
+
+<footer>
+  <b>Datenquellen:</b> NASA GISTEMP v4 · NOAA (CO₂ Mauna Loa, Billion-Dollar Disasters) · ClimateWatch / World Bank (Emissionen) · Climate Impact Lab (Schäden &amp; Projektionen) · Our World in Data · Ländergrenzen: world-atlas (Natural Earth).<br>
+  Erstellt für CONLAB · Visionary Hub — Projekt „Zeitreise durch die globale Erwärmung".
+</footer>
+
+<div class="tip" id="tip"></div>
+
+<script>
+// ============================================================
+//  EINGEBETTETE DATEN (Prolog + Akt 1): GISTEMP v4 [Jahr, Anomalie °C]
+//  In Produktion ersetzbar durch: d3.json("data/gistemp_annual.json")
+// ============================================================
+const TEMP = [[1880,-0.18],[1881,-0.09],[1882,-0.11],[1883,-0.17],[1884,-0.28],[1885,-0.34],[1886,-0.32],[1887,-0.37],[1888,-0.18],[1889,-0.11],[1890,-0.36],[1891,-0.22],[1892,-0.27],[1893,-0.31],[1894,-0.31],[1895,-0.23],[1896,-0.12],[1897,-0.11],[1898,-0.28],[1899,-0.18],[1900,-0.09],[1901,-0.16],[1902,-0.28],[1903,-0.37],[1904,-0.47],[1905,-0.26],[1906,-0.22],[1907,-0.39],[1908,-0.43],[1909,-0.49],[1910,-0.44],[1911,-0.45],[1912,-0.37],[1913,-0.35],[1914,-0.15],[1915,-0.14],[1916,-0.36],[1917,-0.46],[1918,-0.3],[1919,-0.28],[1920,-0.28],[1921,-0.19],[1922,-0.28],[1923,-0.27],[1924,-0.27],[1925,-0.22],[1926,-0.11],[1927,-0.22],[1928,-0.2],[1929,-0.36],[1930,-0.16],[1931,-0.09],[1932,-0.16],[1933,-0.29],[1934,-0.13],[1935,-0.2],[1936,-0.15],[1937,-0.03],[1938,0.0],[1939,-0.02],[1940,0.12],[1941,0.18],[1942,0.06],[1943,0.09],[1944,0.2],[1945,0.09],[1946,-0.07],[1947,-0.03],[1948,-0.11],[1949,-0.11],[1950,-0.18],[1951,-0.07],[1952,0.01],[1953,0.08],[1954,-0.13],[1955,-0.14],[1956,-0.19],[1957,0.05],[1958,0.06],[1959,0.03],[1960,-0.02],[1961,0.06],[1962,0.03],[1963,0.05],[1964,-0.2],[1965,-0.11],[1966,-0.06],[1967,-0.02],[1968,-0.08],[1969,0.05],[1970,0.03],[1971,-0.08],[1972,0.01],[1973,0.16],[1974,-0.07],[1975,-0.01],[1976,-0.1],[1977,0.18],[1978,0.07],[1979,0.16],[1980,0.26],[1981,0.32],[1982,0.14],[1983,0.31],[1984,0.16],[1985,0.12],[1986,0.18],[1987,0.32],[1988,0.39],[1989,0.27],[1990,0.45],[1991,0.4],[1992,0.22],[1993,0.23],[1994,0.31],[1995,0.44],[1996,0.33],[1997,0.46],[1998,0.61],[1999,0.38],[2000,0.39],[2001,0.53],[2002,0.63],[2003,0.61],[2004,0.53],[2005,0.68],[2006,0.64],[2007,0.66],[2008,0.54],[2009,0.66],[2010,0.72],[2011,0.61],[2012,0.64],[2013,0.68],[2014,0.75],[2015,0.9],[2016,1.01],[2017,0.92],[2018,0.85],[2019,0.98],[2020,1.01],[2021,0.85],[2022,0.89],[2023,1.17],[2024,1.29],[2025,1.19]];
+
+// Numerischer ISO-Code -> ISO3 (für den Karten-Join Weltkarte <-> Emissionsdaten)
+const NUM2ISO = {"533":"ABW","4":"AFG","24":"AGO","660":"AIA","248":"ALA","8":"ALB","20":"AND","784":"ARE","32":"ARG","51":"ARM","16":"ASM","10":"ATA","260":"ATF","28":"ATG","36":"AUS","40":"AUT","31":"AZE","108":"BDI","56":"BEL","204":"BEN","535":"BES","854":"BFA","50":"BGD","100":"BGR","48":"BHR","44":"BHS","70":"BIH","652":"BLM","112":"BLR","84":"BLZ","60":"BMU","68":"BOL","76":"BRA","52":"BRB","96":"BRN","64":"BTN","74":"BVT","72":"BWA","140":"CAF","124":"CAN","166":"CCK","756":"CHE","152":"CHL","156":"CHN","384":"CIV","120":"CMR","180":"COD","178":"COG","184":"COK","170":"COL","174":"COM","132":"CPV","188":"CRI","192":"CUB","531":"CUW","162":"CXR","136":"CYM","196":"CYP","203":"CZE","276":"DEU","262":"DJI","212":"DMA","208":"DNK","214":"DOM","12":"DZA","218":"ECU","818":"EGY","232":"ERI","732":"ESH","724":"ESP","233":"EST","231":"ETH","246":"FIN","242":"FJI","238":"FLK","250":"FRA","234":"FRO","583":"FSM","266":"GAB","826":"GBR","268":"GEO","831":"GGY","288":"GHA","292":"GIB","324":"GIN","312":"GLP","270":"GMB","624":"GNB","226":"GNQ","300":"GRC","308":"GRD","304":"GRL","320":"GTM","254":"GUF","316":"GUM","328":"GUY","344":"HKG","334":"HMD","340":"HND","191":"HRV","332":"HTI","348":"HUN","360":"IDN","833":"IMN","356":"IND","86":"IOT","372":"IRL","364":"IRN","368":"IRQ","352":"ISL","376":"ISR","380":"ITA","388":"JAM","832":"JEY","400":"JOR","392":"JPN","398":"KAZ","404":"KEN","417":"KGZ","116":"KHM","296":"KIR","659":"KNA","410":"KOR","414":"KWT","418":"LAO","422":"LBN","430":"LBR","434":"LBY","662":"LCA","438":"LIE","144":"LKA","426":"LSO","440":"LTU","442":"LUX","428":"LVA","446":"MAC","663":"MAF","504":"MAR","492":"MCO","498":"MDA","450":"MDG","462":"MDV","484":"MEX","584":"MHL","807":"MKD","466":"MLI","470":"MLT","104":"MMR","499":"MNE","496":"MNG","580":"MNP","508":"MOZ","478":"MRT","500":"MSR","474":"MTQ","480":"MUS","454":"MWI","458":"MYS","175":"MYT","516":"NAM","540":"NCL","562":"NER","574":"NFK","566":"NGA","558":"NIC","570":"NIU","528":"NLD","578":"NOR","524":"NPL","520":"NRU","554":"NZL","512":"OMN","586":"PAK","591":"PAN","612":"PCN","604":"PER","608":"PHL","585":"PLW","598":"PNG","616":"POL","630":"PRI","408":"PRK","620":"PRT","600":"PRY","275":"PSE","258":"PYF","634":"QAT","638":"REU","642":"ROU","643":"RUS","646":"RWA","682":"SAU","729":"SDN","686":"SEN","702":"SGP","239":"SGS","654":"SHN","744":"SJM","90":"SLB","694":"SLE","222":"SLV","674":"SMR","706":"SOM","666":"SPM","688":"SRB","728":"SSD","678":"STP","740":"SUR","703":"SVK","705":"SVN","752":"SWE","748":"SWZ","534":"SXM","690":"SYC","760":"SYR","796":"TCA","148":"TCD","768":"TGO","764":"THA","762":"TJK","772":"TKL","795":"TKM","626":"TLS","776":"TON","780":"TTO","788":"TUN","792":"TUR","798":"TUV","158":"TWN","834":"TZA","800":"UGA","804":"UKR","581":"UMI","858":"URY","840":"USA","860":"UZB","336":"VAT","670":"VCT","862":"VEN","92":"VGB","850":"VIR","704":"VNM","548":"VUT","876":"WLF","882":"WSM","887":"YEM","710":"ZAF","894":"ZMB","716":"ZWE"};
+
+const byYear = new Map(TEMP);
+const FIRST = TEMP[0][0], LAST = TEMP[TEMP.length-1][0];
+const stripeColor = d3.scaleDiverging(t => d3.interpolateRdBu(1 - t)).domain([-0.5, 0.3, 1.3]);
+const de = (n, dec=1) => (n>=0?"+":"−") + Math.abs(n).toFixed(dec).replace(".", ",");
+const tip = document.getElementById("tip");
+
+/* ---------- PROLOG ---------- */
+const yearInput = document.getElementById("year");
+const goBtn = document.getElementById("go");
+const presult = document.getElementById("presult");
+const pstripes = d3.select("#pstripes");
+yearInput.addEventListener("input", () => { const v=+yearInput.value; goBtn.disabled=!(v>=FIRST&&v<=LAST); });
+yearInput.addEventListener("keydown", e => { if(e.key==="Enter" && !goBtn.disabled) revealProlog(); });
+goBtn.addEventListener("click", revealProlog);
+function revealProlog(){
+  const birth=+yearInput.value, delta=byYear.get(LAST)-byYear.get(birth), years=LAST-birth;
+  drawPrologStripes(birth);
+  document.getElementById("delta").textContent=de(delta);
+  document.getElementById("sentence").innerHTML=
+    `In den <b>${years} Jahren</b> deines Lebens ist die globale Durchschnitts&shy;temperatur `+
+    `um <b>${de(delta).replace("+","")}\u00A0°C</b> gestiegen — gegenüber deinem Geburtsjahr <b>${birth}</b>.`;
+  presult.classList.add("on");
+}
+function drawPrologStripes(birth){
+  const W=1000,H=600;
+  pstripes.attr("viewBox",`0 0 ${W} ${H}`).selectAll("*").remove();
+  const span=TEMP.filter(d=>d[0]>=birth);
+  const x=d3.scaleBand().domain(span.map(d=>d[0])).range([0,W]).padding(0);
+  pstripes.classed("on",true);
+  pstripes.selectAll("rect").data(span).join("rect")
+    .attr("x",d=>x(d[0])).attr("y",0).attr("width",x.bandwidth()+1).attr("height",H)
+    .attr("fill",d=>stripeColor(d[1])).attr("opacity",0)
+    .transition().duration(900).delay((d,i)=>i*(700/span.length)).attr("opacity",1);
+}
+
+/* ---------- AKT 1 : Temperatur-Zeitreihe ---------- */
+function drawTempChart(){
+  const svg=d3.select("#chart-temp");
+  if(!svg.selectAll("*").empty()) return;
+  const W=1100,H=460,m={t:20,r:30,b:40,l:50};
+  const x=d3.scaleLinear().domain([FIRST,LAST]).range([m.l,W-m.r]);
+  const y=d3.scaleLinear().domain([-0.6,1.4]).range([H-m.b,m.t]);
+  svg.append("g").attr("class","grid").attr("transform",`translate(${m.l},0)`)
+    .call(d3.axisLeft(y).tickSize(-(W-m.l-m.r)).tickFormat("")).select(".domain").remove();
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-m.b})`)
+    .call(d3.axisBottom(x).tickFormat(d3.format("d")).ticks(8));
+  svg.append("g").attr("class","axis").attr("transform",`translate(${m.l},0)`)
+    .call(d3.axisLeft(y).tickFormat(d=>de(d)).ticks(6));
+  svg.append("line").attr("class","baseline").attr("x1",m.l).attr("x2",W-m.r).attr("y1",y(0)).attr("y2",y(0));
+  const grad=svg.append("defs").append("linearGradient").attr("id","tg").attr("x1",0).attr("y1",0).attr("x2",0).attr("y2",1);
+  grad.append("stop").attr("offset","0%").attr("stop-color","var(--rot)").attr("stop-opacity",.35);
+  grad.append("stop").attr("offset","100%").attr("stop-color","var(--rot)").attr("stop-opacity",0);
+  const area=d3.area().x(d=>x(d[0])).y0(y(0)).y1(d=>y(d[1])).curve(d3.curveMonotoneX);
+  svg.append("path").datum(TEMP).attr("fill","url(#tg)").attr("d",area);
+  const line=d3.line().x(d=>x(d[0])).y(d=>y(d[1])).curve(d3.curveMonotoneX);
+  const path=svg.append("path").datum(TEMP).attr("class","tline").attr("d",line);
+  const len=path.node().getTotalLength();
+  path.attr("stroke-dasharray",`${len} ${len}`).attr("stroke-dashoffset",len)
+    .transition().duration(2200).ease(d3.easeCubicInOut).attr("stroke-dashoffset",0);
+  svg.append("circle").attr("cx",x(LAST)).attr("cy",y(byYear.get(LAST))).attr("r",4).attr("fill","var(--rot)").attr("opacity",0)
+    .transition().delay(2200).duration(400).attr("opacity",1);
+  svg.append("text").attr("x",x(LAST)).attr("y",y(byYear.get(LAST))-12).attr("text-anchor","end")
+    .attr("fill","var(--ink)").attr("font-size",13).attr("font-weight",600).text(`${LAST}: ${de(byYear.get(LAST))} °C`).attr("opacity",0)
+    .transition().delay(2200).duration(400).attr("opacity",1);
+  svg.append("rect").attr("x",m.l).attr("y",m.t).attr("width",W-m.l-m.r).attr("height",H-m.t-m.b).attr("fill","transparent")
+    .on("mousemove",function(ev){
+      const yr=Math.round(x.invert(d3.pointer(ev,svg.node())[0]));
+      if(!byYear.has(yr)) return;
+      tip.innerHTML=`<b>${yr}</b> &nbsp; ${de(byYear.get(yr))} °C`;
+      tip.style.left=(ev.clientX+14)+"px"; tip.style.top=(ev.clientY-10)+"px"; tip.style.opacity=1;
+    }).on("mouseleave",()=>tip.style.opacity=0);
+}
+
+/* ---------- AKT 2 : Emissions-Weltkarte ---------- */
+let mapReady=false, mapData=null, emByYearIso=null, playTimer=null, colScale=null;
+const WORLD_URL="https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
+
+async function initMap(){
+  if(mapReady) return; mapReady=true;
+  const status=document.getElementById("mapStatus");
+  status.textContent="Lade Weltkarte und Emissionsdaten …";
+  try{
+    const [topo, emissions] = await Promise.all([
+      d3.json(WORLD_URL),
+      d3.json("data/ghg_emissions.json")   // <- euer bereinigtes JSON
+    ]);
+    mapData = topojson.feature(topo, topo.objects.countries).features;
+    // Lookup: year -> iso -> emissions
+    emByYearIso = d3.rollup(emissions, v=>v[0].emissions, d=>d.year, d=>d.iso);
+    const vals = emissions.map(d=>d.emissions).filter(v=>v>0);
+    colScale = d3.scaleSequentialLog(d3.interpolateYlOrRd).domain([d3.min(vals), d3.max(vals)]);
+    status.textContent="";
+    drawMapBase();
+    drawLegend();
+    updateMap(+document.getElementById("yearSlider").value);
+  }catch(err){
+    status.innerHTML='Daten konnten nicht geladen werden. Das ist <b>in der lokalen Vorschau normal</b> — '+
+      'auf GitHub Pages (mit dem <code style="color:var(--blau)">data/</code>-Ordner) lädt die Karte korrekt.';
+  }
+}
+function drawMapBase(){
+  const svg=d3.select("#chart-map"); svg.selectAll("*").remove();
+  const W=1100,H=560;
+  const proj=d3.geoNaturalEarth1().fitSize([W,H-30], {type:"FeatureCollection",features:mapData});
+  const path=d3.geoPath(proj);
+  svg.append("g").attr("class","countries").selectAll("path").data(mapData).join("path")
+    .attr("class","country nodata").attr("d",path)
+    .on("mousemove",function(ev,d){
+      const iso=NUM2ISO[+d.id], yr=+document.getElementById("yearSlider").value;
+      const v=emByYearIso.get(yr)?.get(iso);
+      tip.innerHTML=`<b>${d.properties.name}</b><br>${v!=null?d3.format(",.0f")(v)+" MtCO₂e":"keine Daten"}`;
+      tip.style.left=(ev.clientX+14)+"px"; tip.style.top=(ev.clientY-10)+"px"; tip.style.opacity=1;
+    }).on("mouseleave",()=>tip.style.opacity=0);
+}
+function updateMap(year){
+  document.getElementById("yearLabel").textContent=year;
+  document.getElementById("yearSlider").value=year;
+  const yr=emByYearIso.get(year);
+  d3.select("#chart-map").selectAll(".country")
+    .attr("fill",d=>{ const v=yr?.get(NUM2ISO[+d.id]); return (v!=null&&v>0)?colScale(v):null; })
+    .classed("nodata",d=>{ const v=yr?.get(NUM2ISO[+d.id]); return !(v!=null&&v>0); });
+}
+function drawLegend(){
+  const svg=d3.select("#chart-map");
+  const W=1100, lx=W-260, ly=525, lw=230, lh=10;
+  const defs=svg.append("defs"); const g=defs.append("linearGradient").attr("id","legGrad");
+  d3.range(0,1.01,0.1).forEach(t=>g.append("stop").attr("offset",`${t*100}%`)
+    .attr("stop-color",d3.interpolateYlOrRd(t)));
+  const lg=svg.append("g").attr("class","legend");
+  lg.append("rect").attr("x",lx).attr("y",ly).attr("width",lw).attr("height",lh).attr("fill","url(#legGrad)");
+  lg.append("text").attr("x",lx).attr("y",ly-6).text("weniger");
+  lg.append("text").attr("x",lx+lw).attr("y",ly-6).attr("text-anchor","end").text("mehr Emissionen (MtCO₂e)");
+}
+// Slider + Play
+const slider=document.getElementById("yearSlider"), playBtn=document.getElementById("playBtn");
+slider.addEventListener("input",()=>{ if(mapData) updateMap(+slider.value); });
+playBtn.addEventListener("click",()=>{
+  if(playTimer){ clearInterval(playTimer); playTimer=null; playBtn.textContent="▶"; return; }
+  playBtn.textContent="⏸";
+  playTimer=setInterval(()=>{
+    let y=+slider.value; y = y>=2023 ? 1990 : y+1;
+    if(mapData) updateMap(y); else slider.value=y;
+  },550);
+});
+
+/* ---------- Scroll-Reveal + Nav + Lazy-Init ---------- */
+const io=new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{ if(e.isIntersecting){
+    e.target.classList.add("in");
+    if(e.target.closest("#akt1")) drawTempChart();
+    if(e.target.closest("#akt2")) initMap();
+  }});
+},{threshold:.2});
+document.querySelectorAll(".reveal").forEach(el=>io.observe(el));
+
+const navLinks=document.querySelectorAll("nav a");
+const navIO=new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{ if(e.isIntersecting)
+    navLinks.forEach(a=>a.classList.toggle("active", a.dataset.t===e.target.id)); });
+},{threshold:.5});
+document.querySelectorAll("section").forEach(s=>navIO.observe(s));
+
+/* ============================================================
+   MOUNT AKT 3 — Szenario-Fächerdiagramm (nächster Schritt)
+     const proj = await d3.json("data/projections_temperature.json");
+     // filter variable==="mean_temp" & season==="annual"
+   ============================================================ */
+yearInput.focus();
+</script>
+</body>
+</html>

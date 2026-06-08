@@ -1,0 +1,4250 @@
+[
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1850,
+    "anomaly_c": -0.073777415,
+    "lower_c": -0.2820567,
+    "upper_c": 0.13450183
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1851,
+    "anomaly_c": 0.098980926,
+    "lower_c": -0.113960214,
+    "upper_c": 0.31192204
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1852,
+    "anomaly_c": 0.15589593,
+    "lower_c": -0.053691905,
+    "upper_c": 0.36548376
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1853,
+    "anomaly_c": 0.14953533,
+    "lower_c": -0.06640691,
+    "upper_c": 0.3654776
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1854,
+    "anomaly_c": 0.20109834,
+    "lower_c": 0.0060110292,
+    "upper_c": 0.39618564
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1855,
+    "anomaly_c": 0.1444341,
+    "lower_c": -0.05689944,
+    "upper_c": 0.34576765
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1856,
+    "anomaly_c": 0.03352334,
+    "lower_c": -0.17273279,
+    "upper_c": 0.23977944
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1857,
+    "anomaly_c": -0.07050068,
+    "lower_c": -0.27881312,
+    "upper_c": 0.13781177
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1858,
+    "anomaly_c": 0.005781611,
+    "lower_c": -0.20603754,
+    "upper_c": 0.21760075
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1859,
+    "anomaly_c": 0.109285735,
+    "lower_c": -0.087557085,
+    "upper_c": 0.30612853
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1860,
+    "anomaly_c": -0.111092575,
+    "lower_c": -0.31254852,
+    "upper_c": 0.090363376
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1861,
+    "anomaly_c": -0.08937735,
+    "lower_c": -0.3436792,
+    "upper_c": 0.16492452
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1862,
+    "anomaly_c": -0.35464358,
+    "lower_c": -0.60478747,
+    "upper_c": -0.104499705
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1863,
+    "anomaly_c": 0.0070293746,
+    "lower_c": -0.27610385,
+    "upper_c": 0.29016265
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1864,
+    "anomaly_c": -0.13273264,
+    "lower_c": -0.39719528,
+    "upper_c": 0.13173003
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1865,
+    "anomaly_c": -0.09758232,
+    "lower_c": -0.39972246,
+    "upper_c": 0.2045578
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1866,
+    "anomaly_c": -0.10075755,
+    "lower_c": -0.37695986,
+    "upper_c": 0.17544478
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1867,
+    "anomaly_c": -0.100052066,
+    "lower_c": -0.3935631,
+    "upper_c": 0.19345896
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1868,
+    "anomaly_c": 0.0028171742,
+    "lower_c": -0.26178837,
+    "upper_c": 0.26742277
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1869,
+    "anomaly_c": 0.12987994,
+    "lower_c": -0.10100079,
+    "upper_c": 0.3607607
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1870,
+    "anomaly_c": 0.07078218,
+    "lower_c": -0.14560153,
+    "upper_c": 0.28716582
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1871,
+    "anomaly_c": -0.06779022,
+    "lower_c": -0.29296684,
+    "upper_c": 0.1573864
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1872,
+    "anomaly_c": 0.061329264,
+    "lower_c": -0.1496823,
+    "upper_c": 0.2723408
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1873,
+    "anomaly_c": 0.044439096,
+    "lower_c": -0.15524693,
+    "upper_c": 0.24412513
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1874,
+    "anomaly_c": 0.10543337,
+    "lower_c": -0.0850623,
+    "upper_c": 0.295929
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1875,
+    "anomaly_c": -0.0830752,
+    "lower_c": -0.27297503,
+    "upper_c": 0.10682466
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1876,
+    "anomaly_c": -0.025279293,
+    "lower_c": -0.21280731,
+    "upper_c": 0.16224873
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1877,
+    "anomaly_c": 0.31682566,
+    "lower_c": 0.14005585,
+    "upper_c": 0.49359548
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1878,
+    "anomaly_c": 0.49567378,
+    "lower_c": 0.32153663,
+    "upper_c": 0.6698109
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1879,
+    "anomaly_c": 0.073232345,
+    "lower_c": -0.108155526,
+    "upper_c": 0.25462022
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1880,
+    "anomaly_c": 0.022857478,
+    "lower_c": -0.15795411,
+    "upper_c": 0.2036691
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1881,
+    "anomaly_c": 0.13360901,
+    "lower_c": -0.03354175,
+    "upper_c": 0.3007598
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1882,
+    "anomaly_c": 0.053339053,
+    "lower_c": -0.12261254,
+    "upper_c": 0.2292907
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1883,
+    "anomaly_c": -0.010645697,
+    "lower_c": -0.1649145,
+    "upper_c": 0.1436231
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1884,
+    "anomaly_c": -0.21724619,
+    "lower_c": -0.36177534,
+    "upper_c": -0.07271702
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1885,
+    "anomaly_c": -0.10243819,
+    "lower_c": -0.24896897,
+    "upper_c": 0.044092584
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1886,
+    "anomaly_c": -0.039460164,
+    "lower_c": -0.19085349,
+    "upper_c": 0.111933134
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1887,
+    "anomaly_c": -0.09168903,
+    "lower_c": -0.24755467,
+    "upper_c": 0.06417658
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1888,
+    "anomaly_c": 0.022743097,
+    "lower_c": -0.14337195,
+    "upper_c": 0.18885812
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1889,
+    "anomaly_c": 0.12757947,
+    "lower_c": -0.03814764,
+    "upper_c": 0.2933066
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1890,
+    "anomaly_c": -0.12365354,
+    "lower_c": -0.29449338,
+    "upper_c": 0.047186304
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1891,
+    "anomaly_c": -0.014844099,
+    "lower_c": -0.18839712,
+    "upper_c": 0.15870889
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1892,
+    "anomaly_c": -0.18340851,
+    "lower_c": -0.3572886,
+    "upper_c": -0.009528348
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1893,
+    "anomaly_c": -0.1652586,
+    "lower_c": -0.33629048,
+    "upper_c": 0.005773296
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1894,
+    "anomaly_c": -0.046401333,
+    "lower_c": -0.21408261,
+    "upper_c": 0.12127995
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1895,
+    "anomaly_c": -0.046637397,
+    "lower_c": -0.21359177,
+    "upper_c": 0.120317034
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1896,
+    "anomaly_c": 0.104054056,
+    "lower_c": -0.054555427,
+    "upper_c": 0.26266354
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1897,
+    "anomaly_c": 0.14531308,
+    "lower_c": -0.015417645,
+    "upper_c": 0.30604383
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1898,
+    "anomaly_c": -0.02368171,
+    "lower_c": -0.17781217,
+    "upper_c": 0.13044874
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1899,
+    "anomaly_c": 0.07397684,
+    "lower_c": -0.080575295,
+    "upper_c": 0.22852898
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1900,
+    "anomaly_c": 0.20433767,
+    "lower_c": 0.051559675,
+    "upper_c": 0.3571157
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1901,
+    "anomaly_c": 0.18384227,
+    "lower_c": 0.031925905,
+    "upper_c": 0.33575863
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1902,
+    "anomaly_c": -0.07051147,
+    "lower_c": -0.22396208,
+    "upper_c": 0.08293911
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1903,
+    "anomaly_c": -0.12279058,
+    "lower_c": -0.26415366,
+    "upper_c": 0.01857253
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1904,
+    "anomaly_c": -0.19010295,
+    "lower_c": -0.33407873,
+    "upper_c": -0.04612724
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1905,
+    "anomaly_c": -0.01179106,
+    "lower_c": -0.14177735,
+    "upper_c": 0.11819523
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1906,
+    "anomaly_c": 0.1338047,
+    "lower_c": -0.01043869,
+    "upper_c": 0.27804807
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1907,
+    "anomaly_c": -0.14339007,
+    "lower_c": -0.27186322,
+    "upper_c": -0.014916996
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1908,
+    "anomaly_c": -0.07848827,
+    "lower_c": -0.21141137,
+    "upper_c": 0.054434825
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1909,
+    "anomaly_c": -0.10194645,
+    "lower_c": -0.22285898,
+    "upper_c": 0.01896607
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1910,
+    "anomaly_c": -0.084480025,
+    "lower_c": -0.20815207,
+    "upper_c": 0.03919201
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1911,
+    "anomaly_c": -0.06706355,
+    "lower_c": -0.18287207,
+    "upper_c": 0.048744965
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1912,
+    "anomaly_c": -0.14384963,
+    "lower_c": -0.25404865,
+    "upper_c": -0.03365056
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1913,
+    "anomaly_c": -0.10025064,
+    "lower_c": -0.21515061,
+    "upper_c": 0.014649382
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1914,
+    "anomaly_c": 0.12209263,
+    "lower_c": 0.013402423,
+    "upper_c": 0.23078282
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1915,
+    "anomaly_c": 0.21285439,
+    "lower_c": 0.10220116,
+    "upper_c": 0.32350764
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1916,
+    "anomaly_c": -0.057961654,
+    "lower_c": -0.16273715,
+    "upper_c": 0.046813834
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1917,
+    "anomaly_c": -0.19494094,
+    "lower_c": -0.30412686,
+    "upper_c": -0.085755
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1918,
+    "anomaly_c": -0.07832254,
+    "lower_c": -0.1787708,
+    "upper_c": 0.022125712
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1919,
+    "anomaly_c": 0.0081692245,
+    "lower_c": -0.10540099,
+    "upper_c": 0.12173944
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1920,
+    "anomaly_c": 0.07509451,
+    "lower_c": -0.035168123,
+    "upper_c": 0.18535717
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1921,
+    "anomaly_c": 0.22816698,
+    "lower_c": 0.12118723,
+    "upper_c": 0.33514675
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1922,
+    "anomaly_c": 0.08795624,
+    "lower_c": -0.017333725,
+    "upper_c": 0.19324623
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1923,
+    "anomaly_c": 0.14310461,
+    "lower_c": 0.04481988,
+    "upper_c": 0.24138935
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1924,
+    "anomaly_c": 0.20498978,
+    "lower_c": 0.11086341,
+    "upper_c": 0.29911616
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1925,
+    "anomaly_c": 0.21961543,
+    "lower_c": 0.12874214,
+    "upper_c": 0.31048873
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1926,
+    "anomaly_c": 0.38472545,
+    "lower_c": 0.2875201,
+    "upper_c": 0.4819308
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1927,
+    "anomaly_c": 0.2849049,
+    "lower_c": 0.1995111,
+    "upper_c": 0.37029868
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1928,
+    "anomaly_c": 0.2972249,
+    "lower_c": 0.1987684,
+    "upper_c": 0.3956814
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1929,
+    "anomaly_c": 0.056118328,
+    "lower_c": -0.022349605,
+    "upper_c": 0.13458629
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1930,
+    "anomaly_c": 0.3670836,
+    "lower_c": 0.28729567,
+    "upper_c": 0.44687158
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1931,
+    "anomaly_c": 0.42698085,
+    "lower_c": 0.3444039,
+    "upper_c": 0.5095578
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1932,
+    "anomaly_c": 0.34266478,
+    "lower_c": 0.260731,
+    "upper_c": 0.42459854
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1933,
+    "anomaly_c": 0.111682706,
+    "lower_c": 0.034610886,
+    "upper_c": 0.18875451
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1934,
+    "anomaly_c": 0.33137807,
+    "lower_c": 0.25251135,
+    "upper_c": 0.41024476
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1935,
+    "anomaly_c": 0.28793383,
+    "lower_c": 0.2144707,
+    "upper_c": 0.36139694
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1936,
+    "anomaly_c": 0.32406855,
+    "lower_c": 0.24709505,
+    "upper_c": 0.40104204
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1937,
+    "anomaly_c": 0.5144944,
+    "lower_c": 0.4355287,
+    "upper_c": 0.5934602
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1938,
+    "anomaly_c": 0.5438074,
+    "lower_c": 0.47092932,
+    "upper_c": 0.6166855
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1939,
+    "anomaly_c": 0.43821496,
+    "lower_c": 0.3654806,
+    "upper_c": 0.5109493
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1940,
+    "anomaly_c": 0.50391626,
+    "lower_c": 0.4166342,
+    "upper_c": 0.59119827
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1941,
+    "anomaly_c": 0.46105433,
+    "lower_c": 0.29796007,
+    "upper_c": 0.6241486
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1942,
+    "anomaly_c": 0.4485491,
+    "lower_c": 0.2858634,
+    "upper_c": 0.6112347
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1943,
+    "anomaly_c": 0.5046825,
+    "lower_c": 0.34833568,
+    "upper_c": 0.66102934
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1944,
+    "anomaly_c": 0.613337,
+    "lower_c": 0.4594372,
+    "upper_c": 0.7672367
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1945,
+    "anomaly_c": 0.4768613,
+    "lower_c": 0.32530272,
+    "upper_c": 0.6284199
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1946,
+    "anomaly_c": 0.3781811,
+    "lower_c": 0.26765847,
+    "upper_c": 0.48870376
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1947,
+    "anomaly_c": 0.43241307,
+    "lower_c": 0.336592,
+    "upper_c": 0.5282342
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1948,
+    "anomaly_c": 0.38890228,
+    "lower_c": 0.29857317,
+    "upper_c": 0.47923142
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1949,
+    "anomaly_c": 0.3188045,
+    "lower_c": 0.244323,
+    "upper_c": 0.393286
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1950,
+    "anomaly_c": 0.19303454,
+    "lower_c": 0.13298617,
+    "upper_c": 0.25308293
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1951,
+    "anomaly_c": 0.4374271,
+    "lower_c": 0.3837262,
+    "upper_c": 0.49112803
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1952,
+    "anomaly_c": 0.45554984,
+    "lower_c": 0.39403462,
+    "upper_c": 0.51706505
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1953,
+    "anomaly_c": 0.59430516,
+    "lower_c": 0.5356155,
+    "upper_c": 0.6529949
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1954,
+    "anomaly_c": 0.3561638,
+    "lower_c": 0.3036252,
+    "upper_c": 0.4087024
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1955,
+    "anomaly_c": 0.2611475,
+    "lower_c": 0.20314379,
+    "upper_c": 0.31915122
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1956,
+    "anomaly_c": 0.107248984,
+    "lower_c": 0.05444159,
+    "upper_c": 0.16005637
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1957,
+    "anomaly_c": 0.35430348,
+    "lower_c": 0.3064137,
+    "upper_c": 0.40219322
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1958,
+    "anomaly_c": 0.47330314,
+    "lower_c": 0.4254836,
+    "upper_c": 0.5211227
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1959,
+    "anomaly_c": 0.43771437,
+    "lower_c": 0.3909252,
+    "upper_c": 0.48450354
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1960,
+    "anomaly_c": 0.3923116,
+    "lower_c": 0.35397288,
+    "upper_c": 0.4306503
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1961,
+    "anomaly_c": 0.38800123,
+    "lower_c": 0.3509081,
+    "upper_c": 0.42509437
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1962,
+    "anomaly_c": 0.4422632,
+    "lower_c": 0.40490067,
+    "upper_c": 0.47962567
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1963,
+    "anomaly_c": 0.4658189,
+    "lower_c": 0.42604905,
+    "upper_c": 0.50558877
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1964,
+    "anomaly_c": 0.1334417,
+    "lower_c": 0.09321474,
+    "upper_c": 0.17366865
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1965,
+    "anomaly_c": 0.19689219,
+    "lower_c": 0.1563444,
+    "upper_c": 0.23743996
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1966,
+    "anomaly_c": 0.3045283,
+    "lower_c": 0.26388744,
+    "upper_c": 0.3451692
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1967,
+    "anomaly_c": 0.3519342,
+    "lower_c": 0.31603134,
+    "upper_c": 0.38783705
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1968,
+    "anomaly_c": 0.25333112,
+    "lower_c": 0.22326244,
+    "upper_c": 0.28339982
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1969,
+    "anomaly_c": 0.2908729,
+    "lower_c": 0.2621795,
+    "upper_c": 0.31956634
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1970,
+    "anomaly_c": 0.2672872,
+    "lower_c": 0.23893034,
+    "upper_c": 0.29564407
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1971,
+    "anomaly_c": 0.16236106,
+    "lower_c": 0.13321792,
+    "upper_c": 0.1915042
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1972,
+    "anomaly_c": 0.14221987,
+    "lower_c": 0.114659004,
+    "upper_c": 0.16978073
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1973,
+    "anomaly_c": 0.4121075,
+    "lower_c": 0.3841795,
+    "upper_c": 0.44003552
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1974,
+    "anomaly_c": 0.14185503,
+    "lower_c": 0.11116596,
+    "upper_c": 0.17254409
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1975,
+    "anomaly_c": 0.28194356,
+    "lower_c": 0.25555018,
+    "upper_c": 0.30833697
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1976,
+    "anomaly_c": 0.14057425,
+    "lower_c": 0.11249193,
+    "upper_c": 0.16865656
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1977,
+    "anomaly_c": 0.46957895,
+    "lower_c": 0.43971154,
+    "upper_c": 0.4994464
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1978,
+    "anomaly_c": 0.3771396,
+    "lower_c": 0.3486444,
+    "upper_c": 0.4056348
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1979,
+    "anomaly_c": 0.41843748,
+    "lower_c": 0.3923384,
+    "upper_c": 0.4445366
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1980,
+    "anomaly_c": 0.5246844,
+    "lower_c": 0.4981176,
+    "upper_c": 0.55125123
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1981,
+    "anomaly_c": 0.72648335,
+    "lower_c": 0.696597,
+    "upper_c": 0.7563697
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1982,
+    "anomaly_c": 0.37698454,
+    "lower_c": 0.3476528,
+    "upper_c": 0.40631628
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1983,
+    "anomaly_c": 0.58082676,
+    "lower_c": 0.55315274,
+    "upper_c": 0.6085007
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1984,
+    "anomaly_c": 0.35952732,
+    "lower_c": 0.3327074,
+    "upper_c": 0.38634723
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1985,
+    "anomaly_c": 0.33307272,
+    "lower_c": 0.3027954,
+    "upper_c": 0.36335003
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1986,
+    "anomaly_c": 0.4482446,
+    "lower_c": 0.42171776,
+    "upper_c": 0.47477144
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1987,
+    "anomaly_c": 0.58128345,
+    "lower_c": 0.55190885,
+    "upper_c": 0.61065805
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1988,
+    "anomaly_c": 0.701321,
+    "lower_c": 0.6737561,
+    "upper_c": 0.7288858
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1989,
+    "anomaly_c": 0.6031248,
+    "lower_c": 0.5733538,
+    "upper_c": 0.63289577
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1990,
+    "anomaly_c": 0.8480298,
+    "lower_c": 0.81903434,
+    "upper_c": 0.8770252
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1991,
+    "anomaly_c": 0.770439,
+    "lower_c": 0.7413427,
+    "upper_c": 0.79953533
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1992,
+    "anomaly_c": 0.48302796,
+    "lower_c": 0.45525151,
+    "upper_c": 0.5108044
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1993,
+    "anomaly_c": 0.5785844,
+    "lower_c": 0.5504512,
+    "upper_c": 0.6067175
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1994,
+    "anomaly_c": 0.708672,
+    "lower_c": 0.6792088,
+    "upper_c": 0.7381352
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1995,
+    "anomaly_c": 0.9531224,
+    "lower_c": 0.9232935,
+    "upper_c": 0.9829512
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1996,
+    "anomaly_c": 0.674822,
+    "lower_c": 0.64495355,
+    "upper_c": 0.7046904
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1997,
+    "anomaly_c": 0.916534,
+    "lower_c": 0.88660747,
+    "upper_c": 0.9464605
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1998,
+    "anomaly_c": 1.098279,
+    "lower_c": 1.0672991,
+    "upper_c": 1.129259
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 1999,
+    "anomaly_c": 0.85800934,
+    "lower_c": 0.8263251,
+    "upper_c": 0.88969356
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2000,
+    "anomaly_c": 0.8705044,
+    "lower_c": 0.83968884,
+    "upper_c": 0.9013199
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2001,
+    "anomaly_c": 1.0121015,
+    "lower_c": 0.9799091,
+    "upper_c": 1.0442939
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2002,
+    "anomaly_c": 1.0533533,
+    "lower_c": 1.0218394,
+    "upper_c": 1.0848672
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2003,
+    "anomaly_c": 1.1038861,
+    "lower_c": 1.0731487,
+    "upper_c": 1.1346234
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2004,
+    "anomaly_c": 1.0190924,
+    "lower_c": 0.9878144,
+    "upper_c": 1.0503705
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2005,
+    "anomaly_c": 1.2179996,
+    "lower_c": 1.1847502,
+    "upper_c": 1.2512491
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2006,
+    "anomaly_c": 1.1769745,
+    "lower_c": 1.1447948,
+    "upper_c": 1.2091544
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2007,
+    "anomaly_c": 1.214709,
+    "lower_c": 1.1839418,
+    "upper_c": 1.2454762
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2008,
+    "anomaly_c": 1.0535644,
+    "lower_c": 1.0242481,
+    "upper_c": 1.0828806
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2009,
+    "anomaly_c": 1.0882735,
+    "lower_c": 1.0556754,
+    "upper_c": 1.1208717
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2010,
+    "anomaly_c": 1.301561,
+    "lower_c": 1.2700651,
+    "upper_c": 1.3330569
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2011,
+    "anomaly_c": 1.1100304,
+    "lower_c": 1.07894,
+    "upper_c": 1.1411208
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2012,
+    "anomaly_c": 1.1659653,
+    "lower_c": 1.1354038,
+    "upper_c": 1.1965269
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2013,
+    "anomaly_c": 1.1607151,
+    "lower_c": 1.1287202,
+    "upper_c": 1.1927102
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2014,
+    "anomaly_c": 1.2920917,
+    "lower_c": 1.2600284,
+    "upper_c": 1.324155
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2015,
+    "anomaly_c": 1.5121058,
+    "lower_c": 1.4776133,
+    "upper_c": 1.5465982
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2016,
+    "anomaly_c": 1.6336992,
+    "lower_c": 1.6020511,
+    "upper_c": 1.6653472
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2017,
+    "anomaly_c": 1.4960476,
+    "lower_c": 1.4651899,
+    "upper_c": 1.5269053
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2018,
+    "anomaly_c": 1.3412789,
+    "lower_c": 1.3081236,
+    "upper_c": 1.3744342
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2019,
+    "anomaly_c": 1.5428567,
+    "lower_c": 1.5090313,
+    "upper_c": 1.5766821
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2020,
+    "anomaly_c": 1.6665239,
+    "lower_c": 1.6299633,
+    "upper_c": 1.7030846
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2021,
+    "anomaly_c": 1.4791758,
+    "lower_c": 1.4434086,
+    "upper_c": 1.5149429
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2022,
+    "anomaly_c": 1.4952878,
+    "lower_c": 1.4571283,
+    "upper_c": 1.5334474
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2023,
+    "anomaly_c": 1.8109429,
+    "lower_c": 1.7737389,
+    "upper_c": 1.8481469
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2024,
+    "anomaly_c": 1.9189415,
+    "lower_c": 1.8728492,
+    "upper_c": 1.9650337
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2025,
+    "anomaly_c": 1.7227703,
+    "lower_c": 1.6726049,
+    "upper_c": 1.7729357
+  },
+  {
+    "entity": "Northern Hemisphere",
+    "code": "OWID_NH",
+    "year": 2026,
+    "anomaly_c": 1.6828276,
+    "lower_c": 1.4381812,
+    "upper_c": 1.9274739
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1850,
+    "anomaly_c": -0.05126908,
+    "lower_c": -0.28442237,
+    "upper_c": 0.18188424
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1851,
+    "anomaly_c": 0.10190218,
+    "lower_c": -0.13428953,
+    "upper_c": 0.33809388
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1852,
+    "anomaly_c": 0.12391793,
+    "lower_c": -0.09428143,
+    "upper_c": 0.34211728
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1853,
+    "anomaly_c": 0.05368683,
+    "lower_c": -0.13828519,
+    "upper_c": 0.24565886
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1854,
+    "anomaly_c": -0.06034675,
+    "lower_c": -0.22618476,
+    "upper_c": 0.10549129
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1855,
+    "anomaly_c": 0.0007126966,
+    "lower_c": -0.16178128,
+    "upper_c": 0.16320664
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1856,
+    "anomaly_c": 0.0382157,
+    "lower_c": -0.12543124,
+    "upper_c": 0.20186265
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1857,
+    "anomaly_c": -0.13329145,
+    "lower_c": -0.30063543,
+    "upper_c": 0.034052555
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1858,
+    "anomaly_c": -0.07137411,
+    "lower_c": -0.23588642,
+    "upper_c": 0.09313824
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1859,
+    "anomaly_c": 0.034679357,
+    "lower_c": -0.13115078,
+    "upper_c": 0.2005095
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1860,
+    "anomaly_c": 0.024753604,
+    "lower_c": -0.14985353,
+    "upper_c": 0.19936073
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1861,
+    "anomaly_c": -0.11009612,
+    "lower_c": -0.28813013,
+    "upper_c": 0.06793789
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1862,
+    "anomaly_c": -0.027087506,
+    "lower_c": -0.20726582,
+    "upper_c": 0.15309082
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1863,
+    "anomaly_c": -0.04480269,
+    "lower_c": -0.24184445,
+    "upper_c": 0.15223904
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1864,
+    "anomaly_c": -0.12762165,
+    "lower_c": -0.33015528,
+    "upper_c": 0.07491196
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1865,
+    "anomaly_c": 0.0410187,
+    "lower_c": -0.15678921,
+    "upper_c": 0.23882662
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1866,
+    "anomaly_c": 0.028353456,
+    "lower_c": -0.18649003,
+    "upper_c": 0.24319695
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1867,
+    "anomaly_c": 0.029142622,
+    "lower_c": -0.17706421,
+    "upper_c": 0.23534949
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1868,
+    "anomaly_c": -0.0011389813,
+    "lower_c": -0.1923925,
+    "upper_c": 0.19011453
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1869,
+    "anomaly_c": -0.0390045,
+    "lower_c": -0.21230158,
+    "upper_c": 0.13429262
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1870,
+    "anomaly_c": 0.0015751162,
+    "lower_c": -0.14820632,
+    "upper_c": 0.15135652
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1871,
+    "anomaly_c": 0.048863504,
+    "lower_c": -0.097416334,
+    "upper_c": 0.19514333
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1872,
+    "anomaly_c": 0.04768801,
+    "lower_c": -0.10009881,
+    "upper_c": 0.19547482
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1873,
+    "anomaly_c": 0.04112417,
+    "lower_c": -0.09809124,
+    "upper_c": 0.18033956
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1874,
+    "anomaly_c": -0.10833611,
+    "lower_c": -0.25453475,
+    "upper_c": 0.037862543
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1875,
+    "anomaly_c": 0.077499755,
+    "lower_c": -0.07480436,
+    "upper_c": 0.22980389
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1876,
+    "anomaly_c": -0.06849372,
+    "lower_c": -0.22151825,
+    "upper_c": 0.08453087
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1877,
+    "anomaly_c": 0.24624538,
+    "lower_c": 0.095279686,
+    "upper_c": 0.39721107
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1878,
+    "anomaly_c": 0.25287396,
+    "lower_c": 0.10481509,
+    "upper_c": 0.40093285
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1879,
+    "anomaly_c": 0.077216245,
+    "lower_c": -0.06427487,
+    "upper_c": 0.21870737
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1880,
+    "anomaly_c": 0.098715045,
+    "lower_c": -0.035206523,
+    "upper_c": 0.2326366
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1881,
+    "anomaly_c": 0.1682881,
+    "lower_c": 0.01995391,
+    "upper_c": 0.31662232
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1882,
+    "anomaly_c": 0.1303649,
+    "lower_c": -0.004112955,
+    "upper_c": 0.26484275
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1883,
+    "anomaly_c": 0.08345122,
+    "lower_c": -0.047511455,
+    "upper_c": 0.2144139
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1884,
+    "anomaly_c": -0.0037323793,
+    "lower_c": -0.13488463,
+    "upper_c": 0.12741984
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1885,
+    "anomaly_c": -0.08590677,
+    "lower_c": -0.2183908,
+    "upper_c": 0.04657728
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1886,
+    "anomaly_c": -0.048967507,
+    "lower_c": -0.17824939,
+    "upper_c": 0.080314375
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1887,
+    "anomaly_c": -0.15707436,
+    "lower_c": -0.29025194,
+    "upper_c": -0.02389678
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1888,
+    "anomaly_c": -0.039997753,
+    "lower_c": -0.16987523,
+    "upper_c": 0.08987976
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1889,
+    "anomaly_c": 0.09953625,
+    "lower_c": -0.041333165,
+    "upper_c": 0.24040566
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1890,
+    "anomaly_c": -0.14892688,
+    "lower_c": -0.2849677,
+    "upper_c": -0.012886103
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1891,
+    "anomaly_c": -0.052302953,
+    "lower_c": -0.2056754,
+    "upper_c": 0.10106946
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1892,
+    "anomaly_c": -0.101807795,
+    "lower_c": -0.26063797,
+    "upper_c": 0.057022396
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1893,
+    "anomaly_c": -0.09671398,
+    "lower_c": -0.2556043,
+    "upper_c": 0.06217635
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1894,
+    "anomaly_c": -0.1831713,
+    "lower_c": -0.34686968,
+    "upper_c": -0.019472953
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1895,
+    "anomaly_c": -0.10911574,
+    "lower_c": -0.26774243,
+    "upper_c": 0.04951093
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1896,
+    "anomaly_c": 0.0666768,
+    "lower_c": -0.089246236,
+    "upper_c": 0.22259982
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1897,
+    "anomaly_c": 0.073305346,
+    "lower_c": -0.092290215,
+    "upper_c": 0.23890091
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1898,
+    "anomaly_c": -0.1964818,
+    "lower_c": -0.3617181,
+    "upper_c": -0.031245496
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1899,
+    "anomaly_c": -0.034670945,
+    "lower_c": -0.19152144,
+    "upper_c": 0.122179516
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1900,
+    "anomaly_c": 0.06326104,
+    "lower_c": -0.10068872,
+    "upper_c": 0.2272108
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1901,
+    "anomaly_c": -0.030228283,
+    "lower_c": -0.1916829,
+    "upper_c": 0.1312263
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1902,
+    "anomaly_c": -0.076356225,
+    "lower_c": -0.22908762,
+    "upper_c": 0.076375164
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1903,
+    "anomaly_c": -0.21971437,
+    "lower_c": -0.37403992,
+    "upper_c": -0.06538879
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1904,
+    "anomaly_c": -0.27611044,
+    "lower_c": -0.4322454,
+    "upper_c": -0.1199755
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1905,
+    "anomaly_c": -0.07217782,
+    "lower_c": -0.22326729,
+    "upper_c": 0.07891167
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1906,
+    "anomaly_c": -0.0366258,
+    "lower_c": -0.18361923,
+    "upper_c": 0.11036763
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1907,
+    "anomaly_c": -0.12765214,
+    "lower_c": -0.28279516,
+    "upper_c": 0.027490888
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1908,
+    "anomaly_c": -0.20669803,
+    "lower_c": -0.35483518,
+    "upper_c": -0.058560815
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1909,
+    "anomaly_c": -0.23594025,
+    "lower_c": -0.38188598,
+    "upper_c": -0.08999457
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1910,
+    "anomaly_c": -0.23176578,
+    "lower_c": -0.37780276,
+    "upper_c": -0.08572873
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1911,
+    "anomaly_c": -0.284609,
+    "lower_c": -0.42992857,
+    "upper_c": -0.13928947
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1912,
+    "anomaly_c": -0.08052253,
+    "lower_c": -0.21670452,
+    "upper_c": 0.055659447
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1913,
+    "anomaly_c": -0.09886535,
+    "lower_c": -0.253616,
+    "upper_c": 0.05588526
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1914,
+    "anomaly_c": 0.086919196,
+    "lower_c": -0.0704922,
+    "upper_c": 0.24433061
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1915,
+    "anomaly_c": 0.13389425,
+    "lower_c": -0.042152997,
+    "upper_c": 0.30994153
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1916,
+    "anomaly_c": -0.054565456,
+    "lower_c": -0.24276665,
+    "upper_c": 0.13363573
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1917,
+    "anomaly_c": -0.16492626,
+    "lower_c": -0.3654565,
+    "upper_c": 0.035603974
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1918,
+    "anomaly_c": -0.045821812,
+    "lower_c": -0.27205774,
+    "upper_c": 0.18041411
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1919,
+    "anomaly_c": 0.054964844,
+    "lower_c": -0.16196963,
+    "upper_c": 0.27189934
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1920,
+    "anomaly_c": 0.044038776,
+    "lower_c": -0.15210384,
+    "upper_c": 0.24018142
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1921,
+    "anomaly_c": 0.016965602,
+    "lower_c": -0.16452053,
+    "upper_c": 0.1984517
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1922,
+    "anomaly_c": -0.036297467,
+    "lower_c": -0.19888374,
+    "upper_c": 0.12628876
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1923,
+    "anomaly_c": -0.044289734,
+    "lower_c": -0.20589253,
+    "upper_c": 0.11731302
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1924,
+    "anomaly_c": -0.09407499,
+    "lower_c": -0.2588161,
+    "upper_c": 0.07066611
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1925,
+    "anomaly_c": -0.050892558,
+    "lower_c": -0.21711138,
+    "upper_c": 0.1153262
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1926,
+    "anomaly_c": 0.09893746,
+    "lower_c": -0.061550613,
+    "upper_c": 0.25942552
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1927,
+    "anomaly_c": -0.008656319,
+    "lower_c": -0.17329314,
+    "upper_c": 0.15598044
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1928,
+    "anomaly_c": 0.013866726,
+    "lower_c": -0.15354502,
+    "upper_c": 0.18127848
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1929,
+    "anomaly_c": -0.108824216,
+    "lower_c": -0.28172764,
+    "upper_c": 0.06407917
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1930,
+    "anomaly_c": 0.021070842,
+    "lower_c": -0.15244019,
+    "upper_c": 0.19458187
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1931,
+    "anomaly_c": 0.08930149,
+    "lower_c": -0.0790902,
+    "upper_c": 0.25769317
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1932,
+    "anomaly_c": 0.08529077,
+    "lower_c": -0.07066985,
+    "upper_c": 0.24125141
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1933,
+    "anomaly_c": -0.04038286,
+    "lower_c": -0.1923689,
+    "upper_c": 0.11160316
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1934,
+    "anomaly_c": 0.042449,
+    "lower_c": -0.11255499,
+    "upper_c": 0.19745298
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1935,
+    "anomaly_c": 0.014246676,
+    "lower_c": -0.138446,
+    "upper_c": 0.16693935
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1936,
+    "anomaly_c": 0.061906938,
+    "lower_c": -0.08394142,
+    "upper_c": 0.20775527
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1937,
+    "anomaly_c": 0.18133003,
+    "lower_c": 0.032084826,
+    "upper_c": 0.33057526
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1938,
+    "anomaly_c": 0.1583271,
+    "lower_c": 0.005939845,
+    "upper_c": 0.31071436
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1939,
+    "anomaly_c": 0.20610058,
+    "lower_c": 0.04662213,
+    "upper_c": 0.36557904
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1940,
+    "anomaly_c": 0.37165424,
+    "lower_c": 0.18022773,
+    "upper_c": 0.5630807
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1941,
+    "anomaly_c": 0.3355712,
+    "lower_c": 0.057267223,
+    "upper_c": 0.61387515
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1942,
+    "anomaly_c": 0.2783482,
+    "lower_c": -0.0055511855,
+    "upper_c": 0.56224763
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1943,
+    "anomaly_c": 0.23595634,
+    "lower_c": -0.046103533,
+    "upper_c": 0.5180162
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1944,
+    "anomaly_c": 0.40383923,
+    "lower_c": 0.111328,
+    "upper_c": 0.6963505
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1945,
+    "anomaly_c": 0.3368696,
+    "lower_c": 0.047711734,
+    "upper_c": 0.6260274
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1946,
+    "anomaly_c": 0.104267545,
+    "lower_c": -0.10122671,
+    "upper_c": 0.3097618
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1947,
+    "anomaly_c": 0.10351775,
+    "lower_c": -0.09433108,
+    "upper_c": 0.30136657
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1948,
+    "anomaly_c": 0.08067957,
+    "lower_c": -0.10810333,
+    "upper_c": 0.26946253
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1949,
+    "anomaly_c": 0.101372115,
+    "lower_c": -0.08244153,
+    "upper_c": 0.28518575
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1950,
+    "anomaly_c": 0.055572692,
+    "lower_c": -0.114309214,
+    "upper_c": 0.2254546
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1951,
+    "anomaly_c": 0.146731,
+    "lower_c": -0.011726048,
+    "upper_c": 0.3051881
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1952,
+    "anomaly_c": 0.293988,
+    "lower_c": 0.124112405,
+    "upper_c": 0.46386355
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1953,
+    "anomaly_c": 0.28756085,
+    "lower_c": 0.12026072,
+    "upper_c": 0.454861
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1954,
+    "anomaly_c": 0.13669334,
+    "lower_c": -0.016193207,
+    "upper_c": 0.2895799
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1955,
+    "anomaly_c": 0.06940738,
+    "lower_c": -0.08114948,
+    "upper_c": 0.21996424
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1956,
+    "anomaly_c": 0.09073434,
+    "lower_c": -0.029807862,
+    "upper_c": 0.21127655
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1957,
+    "anomaly_c": 0.30378273,
+    "lower_c": 0.20078667,
+    "upper_c": 0.4067788
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1958,
+    "anomaly_c": 0.22166654,
+    "lower_c": 0.12123863,
+    "upper_c": 0.32209447
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1959,
+    "anomaly_c": 0.19715157,
+    "lower_c": 0.0913124,
+    "upper_c": 0.30299073
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1960,
+    "anomaly_c": 0.10886698,
+    "lower_c": 0.018407289,
+    "upper_c": 0.19932668
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1961,
+    "anomaly_c": 0.31111664,
+    "lower_c": 0.22838433,
+    "upper_c": 0.39384893
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1962,
+    "anomaly_c": 0.16798447,
+    "lower_c": 0.079762675,
+    "upper_c": 0.25620627
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1963,
+    "anomaly_c": 0.19929512,
+    "lower_c": 0.11150039,
+    "upper_c": 0.28708988
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1964,
+    "anomaly_c": -0.009760287,
+    "lower_c": -0.08188989,
+    "upper_c": 0.06236932
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1965,
+    "anomaly_c": 0.12643115,
+    "lower_c": 0.043870334,
+    "upper_c": 0.20899196
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1966,
+    "anomaly_c": 0.13266405,
+    "lower_c": 0.055893574,
+    "upper_c": 0.20943452
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1967,
+    "anomaly_c": 0.1445704,
+    "lower_c": 0.07292066,
+    "upper_c": 0.21622016
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1968,
+    "anomaly_c": 0.14666179,
+    "lower_c": 0.06674475,
+    "upper_c": 0.22657885
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1969,
+    "anomaly_c": 0.38145617,
+    "lower_c": 0.31271487,
+    "upper_c": 0.45019746
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1970,
+    "anomaly_c": 0.29260132,
+    "lower_c": 0.22409011,
+    "upper_c": 0.3611125
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1971,
+    "anomaly_c": 0.15739568,
+    "lower_c": 0.091218926,
+    "upper_c": 0.22357243
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1972,
+    "anomaly_c": 0.40534267,
+    "lower_c": 0.34012657,
+    "upper_c": 0.47055876
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1973,
+    "anomaly_c": 0.4207657,
+    "lower_c": 0.35402197,
+    "upper_c": 0.48750943
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1974,
+    "anomaly_c": 0.24869901,
+    "lower_c": 0.18144913,
+    "upper_c": 0.3159489
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1975,
+    "anomaly_c": 0.23402885,
+    "lower_c": 0.16584349,
+    "upper_c": 0.3022142
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1976,
+    "anomaly_c": 0.16573451,
+    "lower_c": 0.092019655,
+    "upper_c": 0.23944938
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1977,
+    "anomaly_c": 0.46853185,
+    "lower_c": 0.39653662,
+    "upper_c": 0.54052705
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1978,
+    "anomaly_c": 0.36178967,
+    "lower_c": 0.29246172,
+    "upper_c": 0.43111762
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1979,
+    "anomaly_c": 0.48569003,
+    "lower_c": 0.43747047,
+    "upper_c": 0.5339096
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1980,
+    "anomaly_c": 0.5862801,
+    "lower_c": 0.5294978,
+    "upper_c": 0.6430624
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1981,
+    "anomaly_c": 0.49536952,
+    "lower_c": 0.44201115,
+    "upper_c": 0.5487279
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1982,
+    "anomaly_c": 0.41286936,
+    "lower_c": 0.34318942,
+    "upper_c": 0.4825493
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1983,
+    "anomaly_c": 0.5887851,
+    "lower_c": 0.5288385,
+    "upper_c": 0.6487317
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1984,
+    "anomaly_c": 0.46046805,
+    "lower_c": 0.4022416,
+    "upper_c": 0.5186946
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1985,
+    "anomaly_c": 0.48682344,
+    "lower_c": 0.43104365,
+    "upper_c": 0.5426032
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1986,
+    "anomaly_c": 0.46431714,
+    "lower_c": 0.41099578,
+    "upper_c": 0.5176385
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1987,
+    "anomaly_c": 0.6230396,
+    "lower_c": 0.5725091,
+    "upper_c": 0.6735701
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1988,
+    "anomaly_c": 0.58182245,
+    "lower_c": 0.5227909,
+    "upper_c": 0.64085406
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1989,
+    "anomaly_c": 0.47458738,
+    "lower_c": 0.4156786,
+    "upper_c": 0.5334962
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1990,
+    "anomaly_c": 0.58997643,
+    "lower_c": 0.52895916,
+    "upper_c": 0.65099376
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1991,
+    "anomaly_c": 0.62509996,
+    "lower_c": 0.5658938,
+    "upper_c": 0.684306
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1992,
+    "anomaly_c": 0.48494393,
+    "lower_c": 0.42679304,
+    "upper_c": 0.5430948
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1993,
+    "anomaly_c": 0.47151807,
+    "lower_c": 0.4055947,
+    "upper_c": 0.53744143
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1994,
+    "anomaly_c": 0.47412825,
+    "lower_c": 0.41518837,
+    "upper_c": 0.53306806
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1995,
+    "anomaly_c": 0.5170627,
+    "lower_c": 0.46351963,
+    "upper_c": 0.5706058
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1996,
+    "anomaly_c": 0.59477675,
+    "lower_c": 0.54196686,
+    "upper_c": 0.64758664
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1997,
+    "anomaly_c": 0.6415284,
+    "lower_c": 0.58926255,
+    "upper_c": 0.69379425
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1998,
+    "anomaly_c": 0.7735626,
+    "lower_c": 0.72037095,
+    "upper_c": 0.8267543
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 1999,
+    "anomaly_c": 0.505986,
+    "lower_c": 0.4541389,
+    "upper_c": 0.5578331
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2000,
+    "anomaly_c": 0.508433,
+    "lower_c": 0.45545152,
+    "upper_c": 0.5614145
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2001,
+    "anomaly_c": 0.6827191,
+    "lower_c": 0.6268688,
+    "upper_c": 0.7385695
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2002,
+    "anomaly_c": 0.7488842,
+    "lower_c": 0.6986433,
+    "upper_c": 0.7991251
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2003,
+    "anomaly_c": 0.7005926,
+    "lower_c": 0.6442559,
+    "upper_c": 0.75692934
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2004,
+    "anomaly_c": 0.6336776,
+    "lower_c": 0.58526343,
+    "upper_c": 0.6820917
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2005,
+    "anomaly_c": 0.71453464,
+    "lower_c": 0.6684701,
+    "upper_c": 0.76059926
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2006,
+    "anomaly_c": 0.6835939,
+    "lower_c": 0.6346392,
+    "upper_c": 0.73254865
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2007,
+    "anomaly_c": 0.68423903,
+    "lower_c": 0.6349283,
+    "upper_c": 0.7335497
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2008,
+    "anomaly_c": 0.5927347,
+    "lower_c": 0.5407321,
+    "upper_c": 0.6447373
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2009,
+    "anomaly_c": 0.81966156,
+    "lower_c": 0.7738078,
+    "upper_c": 0.8655153
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2010,
+    "anomaly_c": 0.77365375,
+    "lower_c": 0.7271047,
+    "upper_c": 0.82020277
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2011,
+    "anomaly_c": 0.68312347,
+    "lower_c": 0.63663155,
+    "upper_c": 0.72961533
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2012,
+    "anomaly_c": 0.70497787,
+    "lower_c": 0.6521199,
+    "upper_c": 0.7578358
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2013,
+    "anomaly_c": 0.80449116,
+    "lower_c": 0.7490237,
+    "upper_c": 0.85995865
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2014,
+    "anomaly_c": 0.7715462,
+    "lower_c": 0.72007054,
+    "upper_c": 0.8230218
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2015,
+    "anomaly_c": 0.85171485,
+    "lower_c": 0.80134934,
+    "upper_c": 0.90208036
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2016,
+    "anomaly_c": 0.943859,
+    "lower_c": 0.89554805,
+    "upper_c": 0.99216986
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2017,
+    "anomaly_c": 0.90478563,
+    "lower_c": 0.85409623,
+    "upper_c": 0.955475
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2018,
+    "anomaly_c": 0.8930379,
+    "lower_c": 0.8463378,
+    "upper_c": 0.9397381
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2019,
+    "anomaly_c": 0.95974946,
+    "lower_c": 0.90983653,
+    "upper_c": 1.0096624
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2020,
+    "anomaly_c": 0.89388347,
+    "lower_c": 0.84273356,
+    "upper_c": 0.9450333
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2021,
+    "anomaly_c": 0.7833693,
+    "lower_c": 0.7307064,
+    "upper_c": 0.8360323
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2022,
+    "anomaly_c": 0.83631855,
+    "lower_c": 0.7775342,
+    "upper_c": 0.895103
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2023,
+    "anomaly_c": 1.136586,
+    "lower_c": 1.0791737,
+    "upper_c": 1.1939981
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2024,
+    "anomaly_c": 1.1479493,
+    "lower_c": 1.0969259,
+    "upper_c": 1.1989727
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2025,
+    "anomaly_c": 1.1047537,
+    "lower_c": 1.0549182,
+    "upper_c": 1.1545892
+  },
+  {
+    "entity": "Southern Hemisphere",
+    "code": "OWID_SH",
+    "year": 2026,
+    "anomaly_c": 1.1097331,
+    "lower_c": 0.9918221,
+    "upper_c": 1.2276441
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1850,
+    "anomaly_c": -0.06252327,
+    "lower_c": -0.23564015,
+    "upper_c": 0.110593624
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1851,
+    "anomaly_c": 0.10044155,
+    "lower_c": -0.07380297,
+    "upper_c": 0.27468607
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1852,
+    "anomaly_c": 0.13990693,
+    "lower_c": -0.024693152,
+    "upper_c": 0.30450702
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1853,
+    "anomaly_c": 0.101611085,
+    "lower_c": -0.057469986,
+    "upper_c": 0.26069218
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1854,
+    "anomaly_c": 0.07037581,
+    "lower_c": -0.06758561,
+    "upper_c": 0.20833722
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1855,
+    "anomaly_c": 0.0725734,
+    "lower_c": -0.062847964,
+    "upper_c": 0.20799474
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1856,
+    "anomaly_c": 0.035869516,
+    "lower_c": -0.10835164,
+    "upper_c": 0.18009067
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1857,
+    "anomaly_c": -0.10189607,
+    "lower_c": -0.25372803,
+    "upper_c": 0.049935885
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1858,
+    "anomaly_c": -0.032796256,
+    "lower_c": -0.18350612,
+    "upper_c": 0.11791358
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1859,
+    "anomaly_c": 0.07198254,
+    "lower_c": -0.0702449,
+    "upper_c": 0.21421002
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1860,
+    "anomaly_c": -0.04316949,
+    "lower_c": -0.19423454,
+    "upper_c": 0.10789556
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1861,
+    "anomaly_c": -0.09973674,
+    "lower_c": -0.2702844,
+    "upper_c": 0.07081095
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1862,
+    "anomaly_c": -0.19086556,
+    "lower_c": -0.3598417,
+    "upper_c": -0.021889409
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1863,
+    "anomaly_c": -0.018886646,
+    "lower_c": -0.2140082,
+    "upper_c": 0.17623492
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1864,
+    "anomaly_c": -0.13017713,
+    "lower_c": -0.31695038,
+    "upper_c": 0.056596078
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1865,
+    "anomaly_c": -0.028281799,
+    "lower_c": -0.22767155,
+    "upper_c": 0.17110795
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1866,
+    "anomaly_c": -0.036202036,
+    "lower_c": -0.23232661,
+    "upper_c": 0.15992254
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1867,
+    "anomaly_c": -0.035454713,
+    "lower_c": -0.2373287,
+    "upper_c": 0.16641925
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1868,
+    "anomaly_c": 0.0008390935,
+    "lower_c": -0.182635,
+    "upper_c": 0.1843132
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1869,
+    "anomaly_c": 0.04543773,
+    "lower_c": -0.11618047,
+    "upper_c": 0.20705594
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1870,
+    "anomaly_c": 0.036178626,
+    "lower_c": -0.1110759,
+    "upper_c": 0.18343316
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1871,
+    "anomaly_c": -0.0094633605,
+    "lower_c": -0.15962742,
+    "upper_c": 0.1407007
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1872,
+    "anomaly_c": 0.054508634,
+    "lower_c": -0.081856035,
+    "upper_c": 0.19087328
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1873,
+    "anomaly_c": 0.04278163,
+    "lower_c": -0.08742987,
+    "upper_c": 0.17299314
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1874,
+    "anomaly_c": -0.001451364,
+    "lower_c": -0.1335081,
+    "upper_c": 0.13060537
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1875,
+    "anomaly_c": -0.00278773,
+    "lower_c": -0.13947873,
+    "upper_c": 0.13390332
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1876,
+    "anomaly_c": -0.046886496,
+    "lower_c": -0.18599264,
+    "upper_c": 0.09221966
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1877,
+    "anomaly_c": 0.28153554,
+    "lower_c": 0.15366279,
+    "upper_c": 0.40940827
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1878,
+    "anomaly_c": 0.37427387,
+    "lower_c": 0.25116238,
+    "upper_c": 0.49738535
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1879,
+    "anomaly_c": 0.07522429,
+    "lower_c": -0.056616865,
+    "upper_c": 0.20706546
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1880,
+    "anomaly_c": 0.060786255,
+    "lower_c": -0.06173613,
+    "upper_c": 0.18330865
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1881,
+    "anomaly_c": 0.15094857,
+    "lower_c": 0.025931248,
+    "upper_c": 0.27596587
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1882,
+    "anomaly_c": 0.09185199,
+    "lower_c": -0.03333866,
+    "upper_c": 0.21704261
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1883,
+    "anomaly_c": 0.03640274,
+    "lower_c": -0.07523092,
+    "upper_c": 0.14803644
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1884,
+    "anomaly_c": -0.11048927,
+    "lower_c": -0.21954362,
+    "upper_c": -0.0014349727
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1885,
+    "anomaly_c": -0.09417247,
+    "lower_c": -0.2035198,
+    "upper_c": 0.015174845
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1886,
+    "anomaly_c": -0.044213854,
+    "lower_c": -0.1488369,
+    "upper_c": 0.060409196
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1887,
+    "anomaly_c": -0.12438171,
+    "lower_c": -0.23906486,
+    "upper_c": -0.009698501
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1888,
+    "anomaly_c": -0.008627316,
+    "lower_c": -0.12612046,
+    "upper_c": 0.108865805
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1889,
+    "anomaly_c": 0.11355785,
+    "lower_c": -0.010100653,
+    "upper_c": 0.23721638
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1890,
+    "anomaly_c": -0.13629024,
+    "lower_c": -0.2608838,
+    "upper_c": -0.011696657
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1891,
+    "anomaly_c": -0.03357353,
+    "lower_c": -0.17018043,
+    "upper_c": 0.10303334
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1892,
+    "anomaly_c": -0.14260815,
+    "lower_c": -0.28065705,
+    "upper_c": -0.0045592394
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1893,
+    "anomaly_c": -0.13098629,
+    "lower_c": -0.2659973,
+    "upper_c": 0.0040247235
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1894,
+    "anomaly_c": -0.11478632,
+    "lower_c": -0.258179,
+    "upper_c": 0.028606305
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1895,
+    "anomaly_c": -0.07787656,
+    "lower_c": -0.21693264,
+    "upper_c": 0.061179467
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1896,
+    "anomaly_c": 0.08536542,
+    "lower_c": -0.04644259,
+    "upper_c": 0.21717344
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1897,
+    "anomaly_c": 0.109309204,
+    "lower_c": -0.02871119,
+    "upper_c": 0.24732961
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1898,
+    "anomaly_c": -0.110081755,
+    "lower_c": -0.24544589,
+    "upper_c": 0.025282392
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1899,
+    "anomaly_c": 0.019652942,
+    "lower_c": -0.11072015,
+    "upper_c": 0.15002604
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1900,
+    "anomaly_c": 0.13379936,
+    "lower_c": 0.00025049766,
+    "upper_c": 0.2673482
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1901,
+    "anomaly_c": 0.076807,
+    "lower_c": -0.055596255,
+    "upper_c": 0.20921025
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1902,
+    "anomaly_c": -0.07343387,
+    "lower_c": -0.2052205,
+    "upper_c": 0.058352776
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1903,
+    "anomaly_c": -0.17125247,
+    "lower_c": -0.2940092,
+    "upper_c": -0.048495732
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1904,
+    "anomaly_c": -0.23310672,
+    "lower_c": -0.36032057,
+    "upper_c": -0.10589286
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1905,
+    "anomaly_c": -0.04198443,
+    "lower_c": -0.16078793,
+    "upper_c": 0.07681904
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1906,
+    "anomaly_c": 0.048589446,
+    "lower_c": -0.07290112,
+    "upper_c": 0.17008
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1907,
+    "anomaly_c": -0.1355211,
+    "lower_c": -0.25400954,
+    "upper_c": -0.017032703
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1908,
+    "anomaly_c": -0.14259313,
+    "lower_c": -0.26068556,
+    "upper_c": -0.024500718
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1909,
+    "anomaly_c": -0.16894333,
+    "lower_c": -0.28019816,
+    "upper_c": -0.057688557
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1910,
+    "anomaly_c": -0.15812288,
+    "lower_c": -0.2715884,
+    "upper_c": -0.044657372
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1911,
+    "anomaly_c": -0.17583631,
+    "lower_c": -0.28575146,
+    "upper_c": -0.06592115
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1912,
+    "anomaly_c": -0.11218607,
+    "lower_c": -0.2136315,
+    "upper_c": -0.010740599
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1913,
+    "anomaly_c": -0.09955799,
+    "lower_c": -0.20894615,
+    "upper_c": 0.009830127
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1914,
+    "anomaly_c": 0.104505904,
+    "lower_c": -0.0032959192,
+    "upper_c": 0.21230775
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1915,
+    "anomaly_c": 0.17337433,
+    "lower_c": 0.055861004,
+    "upper_c": 0.29088765
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1916,
+    "anomaly_c": -0.05626356,
+    "lower_c": -0.17665534,
+    "upper_c": 0.06412826
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1917,
+    "anomaly_c": -0.1799336,
+    "lower_c": -0.30941504,
+    "upper_c": -0.050452165
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1918,
+    "anomaly_c": -0.06207218,
+    "lower_c": -0.2007743,
+    "upper_c": 0.076629974
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1919,
+    "anomaly_c": 0.031567015,
+    "lower_c": -0.1052972,
+    "upper_c": 0.16843127
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1920,
+    "anomaly_c": 0.059566654,
+    "lower_c": -0.07021289,
+    "upper_c": 0.18934622
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1921,
+    "anomaly_c": 0.12256629,
+    "lower_c": 0.005072275,
+    "upper_c": 0.24006031
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1922,
+    "anomaly_c": 0.025829384,
+    "lower_c": -0.0818181,
+    "upper_c": 0.13347688
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1923,
+    "anomaly_c": 0.04940743,
+    "lower_c": -0.056283377,
+    "upper_c": 0.15509824
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1924,
+    "anomaly_c": 0.05545739,
+    "lower_c": -0.050066702,
+    "upper_c": 0.16098152
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1925,
+    "anomaly_c": 0.08436141,
+    "lower_c": -0.02336215,
+    "upper_c": 0.19208503
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1926,
+    "anomaly_c": 0.24183145,
+    "lower_c": 0.1328454,
+    "upper_c": 0.3508175
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1927,
+    "anomaly_c": 0.13812429,
+    "lower_c": 0.034809746,
+    "upper_c": 0.24143882
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1928,
+    "anomaly_c": 0.15554583,
+    "lower_c": 0.046397395,
+    "upper_c": 0.26469427
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1929,
+    "anomaly_c": -0.026352962,
+    "lower_c": -0.13408561,
+    "upper_c": 0.08137972
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1930,
+    "anomaly_c": 0.19407724,
+    "lower_c": 0.08732895,
+    "upper_c": 0.3008255
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1931,
+    "anomaly_c": 0.25814116,
+    "lower_c": 0.1525209,
+    "upper_c": 0.36376143
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1932,
+    "anomaly_c": 0.21397778,
+    "lower_c": 0.11471919,
+    "upper_c": 0.31323636
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1933,
+    "anomaly_c": 0.035649903,
+    "lower_c": -0.059692793,
+    "upper_c": 0.13099262
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1934,
+    "anomaly_c": 0.18691353,
+    "lower_c": 0.09142042,
+    "upper_c": 0.28240663
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1935,
+    "anomaly_c": 0.15109025,
+    "lower_c": 0.058787353,
+    "upper_c": 0.24339312
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1936,
+    "anomaly_c": 0.19298774,
+    "lower_c": 0.09765903,
+    "upper_c": 0.28831646
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1937,
+    "anomaly_c": 0.34791222,
+    "lower_c": 0.25434914,
+    "upper_c": 0.44147533
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1938,
+    "anomaly_c": 0.35106725,
+    "lower_c": 0.2567927,
+    "upper_c": 0.44534183
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1939,
+    "anomaly_c": 0.32215777,
+    "lower_c": 0.2275715,
+    "upper_c": 0.41674402
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1940,
+    "anomaly_c": 0.43778524,
+    "lower_c": 0.3199536,
+    "upper_c": 0.55561686
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1941,
+    "anomaly_c": 0.39831275,
+    "lower_c": 0.19186857,
+    "upper_c": 0.60475695
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1942,
+    "anomaly_c": 0.36344865,
+    "lower_c": 0.15471435,
+    "upper_c": 0.57218295
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1943,
+    "anomaly_c": 0.37031943,
+    "lower_c": 0.1671606,
+    "upper_c": 0.5734783
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1944,
+    "anomaly_c": 0.5085881,
+    "lower_c": 0.30361295,
+    "upper_c": 0.7135632
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1945,
+    "anomaly_c": 0.40686545,
+    "lower_c": 0.20608912,
+    "upper_c": 0.60764176
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1946,
+    "anomaly_c": 0.24122432,
+    "lower_c": 0.09923715,
+    "upper_c": 0.3832115
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1947,
+    "anomaly_c": 0.2679654,
+    "lower_c": 0.13323957,
+    "upper_c": 0.40269127
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1948,
+    "anomaly_c": 0.23479094,
+    "lower_c": 0.1095661,
+    "upper_c": 0.36001578
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1949,
+    "anomaly_c": 0.21008831,
+    "lower_c": 0.096191145,
+    "upper_c": 0.32398546
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1950,
+    "anomaly_c": 0.12430362,
+    "lower_c": 0.022803584,
+    "upper_c": 0.22580366
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1951,
+    "anomaly_c": 0.29207906,
+    "lower_c": 0.20015202,
+    "upper_c": 0.3840061
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1952,
+    "anomaly_c": 0.37476888,
+    "lower_c": 0.2747812,
+    "upper_c": 0.4747566
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1953,
+    "anomaly_c": 0.44093302,
+    "lower_c": 0.3418167,
+    "upper_c": 0.5400493
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1954,
+    "anomaly_c": 0.24642856,
+    "lower_c": 0.15708376,
+    "upper_c": 0.33577338
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1955,
+    "anomaly_c": 0.16527745,
+    "lower_c": 0.075161316,
+    "upper_c": 0.25539356
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1956,
+    "anomaly_c": 0.09899167,
+    "lower_c": 0.02246348,
+    "upper_c": 0.17551985
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1957,
+    "anomaly_c": 0.3290431,
+    "lower_c": 0.26195952,
+    "upper_c": 0.39612666
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1958,
+    "anomaly_c": 0.34748483,
+    "lower_c": 0.28323945,
+    "upper_c": 0.41173023
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1959,
+    "anomaly_c": 0.31743297,
+    "lower_c": 0.2519051,
+    "upper_c": 0.38296083
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1960,
+    "anomaly_c": 0.25058928,
+    "lower_c": 0.19510251,
+    "upper_c": 0.30607608
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1961,
+    "anomaly_c": 0.34955892,
+    "lower_c": 0.2991865,
+    "upper_c": 0.39993134
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1962,
+    "anomaly_c": 0.3051238,
+    "lower_c": 0.25138882,
+    "upper_c": 0.35885882
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1963,
+    "anomaly_c": 0.33255702,
+    "lower_c": 0.27989537,
+    "upper_c": 0.38521865
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1964,
+    "anomaly_c": 0.06184069,
+    "lower_c": 0.014659712,
+    "upper_c": 0.1090217
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1965,
+    "anomaly_c": 0.16166167,
+    "lower_c": 0.10973374,
+    "upper_c": 0.2135896
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1966,
+    "anomaly_c": 0.21859619,
+    "lower_c": 0.16899647,
+    "upper_c": 0.2681959
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1967,
+    "anomaly_c": 0.24825229,
+    "lower_c": 0.20347765,
+    "upper_c": 0.29302692
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1968,
+    "anomaly_c": 0.19999647,
+    "lower_c": 0.15364182,
+    "upper_c": 0.24635111
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1969,
+    "anomaly_c": 0.33616453,
+    "lower_c": 0.2957707,
+    "upper_c": 0.37655836
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1970,
+    "anomaly_c": 0.27994427,
+    "lower_c": 0.24161476,
+    "upper_c": 0.31827375
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1971,
+    "anomaly_c": 0.15987837,
+    "lower_c": 0.12165413,
+    "upper_c": 0.1981026
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1972,
+    "anomaly_c": 0.27378127,
+    "lower_c": 0.23690394,
+    "upper_c": 0.3106586
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1973,
+    "anomaly_c": 0.4164366,
+    "lower_c": 0.37840772,
+    "upper_c": 0.45446548
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1974,
+    "anomaly_c": 0.19527704,
+    "lower_c": 0.1570778,
+    "upper_c": 0.23347625
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1975,
+    "anomaly_c": 0.25798622,
+    "lower_c": 0.22046712,
+    "upper_c": 0.2955053
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1976,
+    "anomaly_c": 0.15315439,
+    "lower_c": 0.111947276,
+    "upper_c": 0.1943615
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1977,
+    "anomaly_c": 0.46905538,
+    "lower_c": 0.42693207,
+    "upper_c": 0.51117873
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1978,
+    "anomaly_c": 0.36946464,
+    "lower_c": 0.32980055,
+    "upper_c": 0.40912873
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1979,
+    "anomaly_c": 0.45206377,
+    "lower_c": 0.4232105,
+    "upper_c": 0.48091704
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1980,
+    "anomaly_c": 0.55548227,
+    "lower_c": 0.5229139,
+    "upper_c": 0.5880506
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1981,
+    "anomaly_c": 0.61092645,
+    "lower_c": 0.57968634,
+    "upper_c": 0.64216655
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1982,
+    "anomaly_c": 0.39492694,
+    "lower_c": 0.3544306,
+    "upper_c": 0.4354233
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1983,
+    "anomaly_c": 0.5848059,
+    "lower_c": 0.5492813,
+    "upper_c": 0.6203305
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1984,
+    "anomaly_c": 0.4099977,
+    "lower_c": 0.376012,
+    "upper_c": 0.44398338
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1985,
+    "anomaly_c": 0.40994808,
+    "lower_c": 0.37687367,
+    "upper_c": 0.44302246
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1986,
+    "anomaly_c": 0.45628086,
+    "lower_c": 0.4239302,
+    "upper_c": 0.48863152
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1987,
+    "anomaly_c": 0.6021615,
+    "lower_c": 0.57142776,
+    "upper_c": 0.6328953
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1988,
+    "anomaly_c": 0.64157176,
+    "lower_c": 0.60660774,
+    "upper_c": 0.6765357
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1989,
+    "anomaly_c": 0.5388561,
+    "lower_c": 0.5034881,
+    "upper_c": 0.574224
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1990,
+    "anomaly_c": 0.7190031,
+    "lower_c": 0.68379974,
+    "upper_c": 0.7542065
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1991,
+    "anomaly_c": 0.69776946,
+    "lower_c": 0.6621659,
+    "upper_c": 0.7333731
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1992,
+    "anomaly_c": 0.48398593,
+    "lower_c": 0.45042333,
+    "upper_c": 0.51754856
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1993,
+    "anomaly_c": 0.52505124,
+    "lower_c": 0.48671445,
+    "upper_c": 0.563388
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1994,
+    "anomaly_c": 0.59140015,
+    "lower_c": 0.5550177,
+    "upper_c": 0.6277825
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1995,
+    "anomaly_c": 0.7350925,
+    "lower_c": 0.70191336,
+    "upper_c": 0.76827174
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1996,
+    "anomaly_c": 0.63479936,
+    "lower_c": 0.6025453,
+    "upper_c": 0.6670534
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1997,
+    "anomaly_c": 0.7790312,
+    "lower_c": 0.74655515,
+    "upper_c": 0.8115073
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1998,
+    "anomaly_c": 0.93592083,
+    "lower_c": 0.9028746,
+    "upper_c": 0.968967
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 1999,
+    "anomaly_c": 0.68199766,
+    "lower_c": 0.64938253,
+    "upper_c": 0.7146128
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2000,
+    "anomaly_c": 0.6894687,
+    "lower_c": 0.6567287,
+    "upper_c": 0.7222087
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2001,
+    "anomaly_c": 0.8474103,
+    "lower_c": 0.8136172,
+    "upper_c": 0.88120335
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2002,
+    "anomaly_c": 0.90111876,
+    "lower_c": 0.87089485,
+    "upper_c": 0.93134266
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2003,
+    "anomaly_c": 0.9022393,
+    "lower_c": 0.8687722,
+    "upper_c": 0.9357065
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2004,
+    "anomaly_c": 0.826385,
+    "lower_c": 0.79601645,
+    "upper_c": 0.8567535
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2005,
+    "anomaly_c": 0.9662671,
+    "lower_c": 0.9350287,
+    "upper_c": 0.99750555
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2006,
+    "anomaly_c": 0.93028426,
+    "lower_c": 0.898975,
+    "upper_c": 0.9615935
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2007,
+    "anomaly_c": 0.949474,
+    "lower_c": 0.9175324,
+    "upper_c": 0.9814156
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2008,
+    "anomaly_c": 0.82314956,
+    "lower_c": 0.7906812,
+    "upper_c": 0.85561794
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2009,
+    "anomaly_c": 0.9539675,
+    "lower_c": 0.9231017,
+    "upper_c": 0.9848333
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2010,
+    "anomaly_c": 1.0376073,
+    "lower_c": 1.0069752,
+    "upper_c": 1.0682396
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2011,
+    "anomaly_c": 0.8965769,
+    "lower_c": 0.8656566,
+    "upper_c": 0.9274972
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2012,
+    "anomaly_c": 0.93547153,
+    "lower_c": 0.9037727,
+    "upper_c": 0.9671704
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2013,
+    "anomaly_c": 0.98260313,
+    "lower_c": 0.94711965,
+    "upper_c": 1.0180867
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2014,
+    "anomaly_c": 1.031819,
+    "lower_c": 0.9993273,
+    "upper_c": 1.0643106
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2015,
+    "anomaly_c": 1.1819104,
+    "lower_c": 1.148253,
+    "upper_c": 1.2155677
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2016,
+    "anomaly_c": 1.2887791,
+    "lower_c": 1.2575042,
+    "upper_c": 1.3200539
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2017,
+    "anomaly_c": 1.2004167,
+    "lower_c": 1.1683854,
+    "upper_c": 1.2324479
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2018,
+    "anomaly_c": 1.1171584,
+    "lower_c": 1.0857053,
+    "upper_c": 1.1486115
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2019,
+    "anomaly_c": 1.2513031,
+    "lower_c": 1.2179996,
+    "upper_c": 1.2846066
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2020,
+    "anomaly_c": 1.2802037,
+    "lower_c": 1.2460152,
+    "upper_c": 1.3143922
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2021,
+    "anomaly_c": 1.1312726,
+    "lower_c": 1.0963446,
+    "upper_c": 1.1662005
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2022,
+    "anomaly_c": 1.1658032,
+    "lower_c": 1.1287576,
+    "upper_c": 1.2028489
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2023,
+    "anomaly_c": 1.4737644,
+    "lower_c": 1.4368042,
+    "upper_c": 1.5107247
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2024,
+    "anomaly_c": 1.5334455,
+    "lower_c": 1.4942731,
+    "upper_c": 1.5726179
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2025,
+    "anomaly_c": 1.4137621,
+    "lower_c": 1.3743255,
+    "upper_c": 1.4531987
+  },
+  {
+    "entity": "World",
+    "code": "OWID_WRL",
+    "year": 2026,
+    "anomaly_c": 1.3962804,
+    "lower_c": 1.2677863,
+    "upper_c": 1.5247746
+  }
+]

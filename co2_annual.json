@@ -1,0 +1,337 @@
+[
+  {
+    "year": 1959,
+    "co2_ppm": 315.98,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1960,
+    "co2_ppm": 316.91,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1961,
+    "co2_ppm": 317.64,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1962,
+    "co2_ppm": 318.45,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1963,
+    "co2_ppm": 318.99,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1964,
+    "co2_ppm": 319.62,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1965,
+    "co2_ppm": 320.04,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1966,
+    "co2_ppm": 321.37,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1967,
+    "co2_ppm": 322.18,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1968,
+    "co2_ppm": 323.05,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1969,
+    "co2_ppm": 324.62,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1970,
+    "co2_ppm": 325.68,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1971,
+    "co2_ppm": 326.32,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1972,
+    "co2_ppm": 327.46,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1973,
+    "co2_ppm": 329.68,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1974,
+    "co2_ppm": 330.19,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1975,
+    "co2_ppm": 331.13,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1976,
+    "co2_ppm": 332.03,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1977,
+    "co2_ppm": 333.84,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1978,
+    "co2_ppm": 335.41,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1979,
+    "co2_ppm": 336.84,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1980,
+    "co2_ppm": 338.76,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1981,
+    "co2_ppm": 340.12,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1982,
+    "co2_ppm": 341.48,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1983,
+    "co2_ppm": 343.15,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1984,
+    "co2_ppm": 344.87,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1985,
+    "co2_ppm": 346.35,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1986,
+    "co2_ppm": 347.61,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1987,
+    "co2_ppm": 349.31,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1988,
+    "co2_ppm": 351.69,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1989,
+    "co2_ppm": 353.2,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1990,
+    "co2_ppm": 354.45,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1991,
+    "co2_ppm": 355.7,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1992,
+    "co2_ppm": 356.54,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1993,
+    "co2_ppm": 357.21,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1994,
+    "co2_ppm": 358.96,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1995,
+    "co2_ppm": 360.97,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1996,
+    "co2_ppm": 362.74,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1997,
+    "co2_ppm": 363.88,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1998,
+    "co2_ppm": 366.84,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 1999,
+    "co2_ppm": 368.54,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2000,
+    "co2_ppm": 369.71,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2001,
+    "co2_ppm": 371.32,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2002,
+    "co2_ppm": 373.45,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2003,
+    "co2_ppm": 375.98,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2004,
+    "co2_ppm": 377.7,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2005,
+    "co2_ppm": 379.98,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2006,
+    "co2_ppm": 382.09,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2007,
+    "co2_ppm": 384.02,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2008,
+    "co2_ppm": 385.83,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2009,
+    "co2_ppm": 387.64,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2010,
+    "co2_ppm": 390.1,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2011,
+    "co2_ppm": 391.85,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2012,
+    "co2_ppm": 394.06,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2013,
+    "co2_ppm": 396.74,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2014,
+    "co2_ppm": 398.81,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2015,
+    "co2_ppm": 401.01,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2016,
+    "co2_ppm": 404.41,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2017,
+    "co2_ppm": 406.76,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2018,
+    "co2_ppm": 408.72,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2019,
+    "co2_ppm": 411.65,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2020,
+    "co2_ppm": 414.21,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2021,
+    "co2_ppm": 416.41,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2022,
+    "co2_ppm": 418.53,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2023,
+    "co2_ppm": 421.08,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2024,
+    "co2_ppm": 424.61,
+    "uncertainty_ppm": 0.12
+  },
+  {
+    "year": 2025,
+    "co2_ppm": 427.35,
+    "uncertainty_ppm": 0.12
+  }
+]

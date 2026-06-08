@@ -1,0 +1,164 @@
+{
+  "temperature_anomaly.json": {
+    "rows": 531,
+    "columns": [
+      "entity",
+      "code",
+      "year",
+      "anomaly_c",
+      "lower_c",
+      "upper_c"
+    ],
+    "description": "Globale/hemisphärische Temperaturanomalie (°C) ggü. Referenzperiode, mit Unsicherheitsband",
+    "narrative": "past"
+  },
+  "gistemp_monthly.json": {
+    "rows": 1756,
+    "columns": [
+      "year",
+      "month",
+      "month_num",
+      "anomaly_c"
+    ],
+    "description": "NASA GISTEMP v4 monatliche globale Temperaturanomalie (°C, Basis 1951-1980)",
+    "narrative": "past"
+  },
+  "gistemp_annual.json": {
+    "rows": 146,
+    "columns": [
+      "year",
+      "anomaly_c"
+    ],
+    "description": "NASA GISTEMP v4 Jahresmittel-Anomalie (°C)",
+    "narrative": "past"
+  },
+  "noaa_global_departure.json": {
+    "rows": 177,
+    "columns": [
+      "year",
+      "departure_c"
+    ],
+    "description": "NOAA globale Land+Ozean Temperaturabweichung (°C, Basis 1901-2000)",
+    "narrative": "past"
+  },
+  "co2_annual.json": {
+    "rows": 67,
+    "columns": [
+      "year",
+      "co2_ppm",
+      "uncertainty_ppm"
+    ],
+    "description": "NOAA Mauna Loa atmosphärisches CO2 Jahresmittel (ppm)",
+    "narrative": "past"
+  },
+  "co2_monthly.json": {
+    "rows": 819,
+    "columns": [
+      "year",
+      "month",
+      "decimal_date",
+      "co2_ppm",
+      "co2_deseasonalized_ppm"
+    ],
+    "description": "NOAA Mauna Loa monatliches CO2 (ppm)",
+    "narrative": "past"
+  },
+  "ghg_emissions.json": {
+    "rows": 6582,
+    "columns": [
+      "iso",
+      "country",
+      "unit",
+      "year",
+      "emissions"
+    ],
+    "description": "ClimateWatch Treibhausgas-Emissionen pro Land/Jahr (MtCO2e). iso = ISO3 für Karten-Join",
+    "narrative": "present"
+  },
+  "disaster_cost_by_state.json": {
+    "rows": 385,
+    "columns": [
+      "state",
+      "disaster_type",
+      "cost_million_usd"
+    ],
+    "description": "NOAA Billion-Dollar-Katastrophen Kosten je US-Bundesstaat 1980-2024 (Mio. USD, inflationsbereinigt)",
+    "narrative": "present"
+  },
+  "disaster_freq_by_year.json": {
+    "rows": 2401,
+    "columns": [
+      "year",
+      "state",
+      "disaster_type",
+      "count"
+    ],
+    "description": "NOAA Katastrophen-Häufigkeit je US-Bundesstaat/Jahr/Typ (nur >0)",
+    "narrative": "present"
+  },
+  "county_damages_by_sector.json": {
+    "rows": 3143,
+    "columns": [
+      "state",
+      "county",
+      "fips",
+      "population_2012",
+      "income_2012",
+      "agriculture_pct",
+      "mortality_per_100k",
+      "energy_pct",
+      "labor_lowrisk_pct",
+      "labor_highrisk_pct",
+      "coastal_log10_pct",
+      "property_crime_pct",
+      "violent_crime_pct",
+      "total_damages_pct"
+    ],
+    "description": "Climate Impact Lab US-County Schäden nach Sektor (~+3°C Szenario). fips = 5-stellig für Choropleth",
+    "narrative": "present"
+  },
+  "county_total_damages.json": {
+    "rows": 3143,
+    "columns": [
+      "state",
+      "county",
+      "fips",
+      "population_2012",
+      "income_2012",
+      "p5",
+      "p17",
+      "median",
+      "p83",
+      "p95"
+    ],
+    "description": "Climate Impact Lab County Gesamtschaden (% County-Einkommen) als Perzentil-Verteilung",
+    "narrative": "present"
+  },
+  "decile_distribution.json": {
+    "rows": 10,
+    "columns": [
+      "income_decile",
+      "p5",
+      "p17",
+      "median",
+      "p83",
+      "p95"
+    ],
+    "description": "Schadensverteilung nach Einkommens-Dezil (% Einkommen)",
+    "narrative": "present"
+  },
+  "projections_temperature.json": {
+    "rows": 46440,
+    "columns": [
+      "iso",
+      "variable",
+      "season",
+      "scenario",
+      "period",
+      "percentile",
+      "value"
+    ],
+    "description": "Climate Impact Lab Temperatur-Projektionen je Land/Szenario/Periode/Perzentil (Vergangenheit→Jahrhundertende)",
+    "narrative": "future"
+  }
+}

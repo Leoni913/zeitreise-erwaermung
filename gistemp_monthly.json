@@ -1,0 +1,10538 @@
+[
+  {
+    "year": 1880,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1880,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1880,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1880,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1880,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1880,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1880,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1880,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1880,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1880,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1880,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1880,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1881,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1881,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1881,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1881,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1881,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1881,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1881,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1881,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1881,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1881,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1881,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1881,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1882,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1882,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1882,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1882,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1882,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1882,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1882,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1882,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1882,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1882,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1882,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1882,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1883,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1883,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1883,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1883,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1883,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1883,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1883,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1883,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1883,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1883,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1883,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1883,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1884,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1884,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1884,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1884,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1884,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1884,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1884,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1884,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1884,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1884,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1884,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1884,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1885,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.59
+  },
+  {
+    "year": 1885,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1885,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1885,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1885,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.46
+  },
+  {
+    "year": 1885,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1885,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1885,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1885,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1885,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1885,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1885,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1886,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1886,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1886,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1886,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1886,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1886,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1886,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1886,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1886,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1886,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1886,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1886,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1887,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.72
+  },
+  {
+    "year": 1887,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.57
+  },
+  {
+    "year": 1887,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1887,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1887,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1887,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1887,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1887,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1887,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1887,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1887,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1887,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1888,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1888,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.37
+  },
+  {
+    "year": 1888,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1888,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1888,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1888,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1888,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1888,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1888,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1888,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1888,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1888,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1889,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1889,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1889,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1889,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1889,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1889,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1889,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1889,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1889,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1889,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1889,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1889,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1890,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1890,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1890,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1890,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1890,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1890,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1890,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1890,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1890,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1890,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1890,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1890,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1891,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1891,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.46
+  },
+  {
+    "year": 1891,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1891,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1891,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1891,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1891,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1891,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1891,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1891,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1891,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1891,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1892,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1892,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1892,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1892,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1892,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1892,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1892,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1892,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1892,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1892,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1892,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1892,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1893,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.81
+  },
+  {
+    "year": 1893,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.57
+  },
+  {
+    "year": 1893,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1893,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1893,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1893,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1893,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1893,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1893,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1893,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1893,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1893,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1894,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.53
+  },
+  {
+    "year": 1894,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1894,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1894,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1894,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1894,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1894,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1894,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1894,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1894,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1894,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1894,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1895,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1895,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1895,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1895,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1895,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1895,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1895,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1895,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1895,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1895,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1895,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1895,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1896,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1896,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1896,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1896,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1896,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1896,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1896,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1896,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1896,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1896,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1896,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1896,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1897,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1897,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1897,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1897,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1897,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1897,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1897,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1897,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1897,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1897,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1897,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1897,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1898,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1898,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1898,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1898,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1898,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1898,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1898,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1898,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1898,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1898,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1898,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1898,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1899,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1899,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1899,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1899,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1899,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1899,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1899,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1899,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1899,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1899,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1899,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1899,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1900,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1900,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1900,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1900,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1900,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1900,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1900,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1900,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1900,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1900,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1900,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1900,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1901,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1901,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1901,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1901,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1901,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1901,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1901,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1901,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1901,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1901,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1901,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1901,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1902,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1902,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1902,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1902,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1902,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1902,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1902,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1902,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1902,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1902,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1902,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.37
+  },
+  {
+    "year": 1902,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1903,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1903,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1903,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1903,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1903,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1903,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1903,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1903,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1903,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.49
+  },
+  {
+    "year": 1903,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.46
+  },
+  {
+    "year": 1903,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1903,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1904,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.63
+  },
+  {
+    "year": 1904,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.59
+  },
+  {
+    "year": 1904,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1904,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.5
+  },
+  {
+    "year": 1904,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.52
+  },
+  {
+    "year": 1904,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.48
+  },
+  {
+    "year": 1904,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1904,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.49
+  },
+  {
+    "year": 1904,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.56
+  },
+  {
+    "year": 1904,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1904,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1904,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1905,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1905,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.59
+  },
+  {
+    "year": 1905,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1905,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1905,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1905,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1905,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1905,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1905,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1905,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1905,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1905,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1906,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1906,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1906,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1906,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1906,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1906,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1906,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1906,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1906,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1906,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1906,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1906,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1907,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1907,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1907,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1907,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.37
+  },
+  {
+    "year": 1907,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.46
+  },
+  {
+    "year": 1907,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1907,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1907,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1907,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1907,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1907,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.47
+  },
+  {
+    "year": 1907,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.48
+  },
+  {
+    "year": 1908,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1908,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1908,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.56
+  },
+  {
+    "year": 1908,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1908,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1908,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1908,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1908,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.46
+  },
+  {
+    "year": 1908,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1908,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1908,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.52
+  },
+  {
+    "year": 1908,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.49
+  },
+  {
+    "year": 1909,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.73
+  },
+  {
+    "year": 1909,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.46
+  },
+  {
+    "year": 1909,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.54
+  },
+  {
+    "year": 1909,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.59
+  },
+  {
+    "year": 1909,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.55
+  },
+  {
+    "year": 1909,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.52
+  },
+  {
+    "year": 1909,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1909,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1909,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1909,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1909,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1909,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.56
+  },
+  {
+    "year": 1910,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1910,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1910,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1910,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1910,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1910,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1910,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1910,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.37
+  },
+  {
+    "year": 1910,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1910,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1910,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.57
+  },
+  {
+    "year": 1910,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.68
+  },
+  {
+    "year": 1911,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.62
+  },
+  {
+    "year": 1911,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.58
+  },
+  {
+    "year": 1911,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.61
+  },
+  {
+    "year": 1911,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.54
+  },
+  {
+    "year": 1911,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.52
+  },
+  {
+    "year": 1911,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.51
+  },
+  {
+    "year": 1911,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1911,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1911,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1911,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1911,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1911,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1912,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1912,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1912,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1912,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1912,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1912,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1912,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1912,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.55
+  },
+  {
+    "year": 1912,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.57
+  },
+  {
+    "year": 1912,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.58
+  },
+  {
+    "year": 1912,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1912,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1913,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1913,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1913,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1913,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.4
+  },
+  {
+    "year": 1913,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1913,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1913,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1913,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1913,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1913,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1913,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1913,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1914,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1914,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1914,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1914,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1914,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1914,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1914,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1914,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1914,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1914,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1914,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1914,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1915,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1915,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1915,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1915,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1915,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1915,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1915,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1915,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1915,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1915,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1915,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1915,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1916,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1916,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1916,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1916,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1916,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1916,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.49
+  },
+  {
+    "year": 1916,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1916,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1916,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1916,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1916,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.47
+  },
+  {
+    "year": 1916,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.82
+  },
+  {
+    "year": 1917,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.57
+  },
+  {
+    "year": 1917,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.62
+  },
+  {
+    "year": 1917,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.64
+  },
+  {
+    "year": 1917,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.55
+  },
+  {
+    "year": 1917,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.56
+  },
+  {
+    "year": 1917,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1917,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1917,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1917,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1917,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1917,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1917,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.68
+  },
+  {
+    "year": 1918,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.48
+  },
+  {
+    "year": 1918,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1918,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1918,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1918,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.44
+  },
+  {
+    "year": 1918,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1918,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1918,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1918,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1918,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1918,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1918,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1919,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1919,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1919,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1919,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1919,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1919,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1919,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1919,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1919,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1919,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1919,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1919,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1920,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1920,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1920,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1920,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1920,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1920,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1920,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1920,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1920,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1920,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1920,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1920,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.47
+  },
+  {
+    "year": 1921,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1921,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1921,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1921,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1921,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1921,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1921,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1921,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1921,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1921,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1921,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1921,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1922,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1922,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1922,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1922,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1922,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1922,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1922,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1922,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1922,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1922,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1922,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1922,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1923,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1923,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1923,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1923,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1923,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1923,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1923,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1923,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1923,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1923,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1923,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1923,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1924,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1924,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1924,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1924,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1924,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1924,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1924,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1924,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.36
+  },
+  {
+    "year": 1924,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1924,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1924,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1924,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1925,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1925,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1925,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1925,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1925,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1925,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1925,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1925,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1925,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1925,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1925,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1925,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1926,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1926,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1926,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1926,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1926,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1926,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1926,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1926,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1926,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1926,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1926,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1926,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1927,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1927,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1927,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1927,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1927,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1927,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1927,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1927,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1927,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1927,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1927,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1927,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1928,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1928,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1928,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1928,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1928,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1928,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.39
+  },
+  {
+    "year": 1928,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1928,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1928,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1928,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1928,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1928,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1929,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1929,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.58
+  },
+  {
+    "year": 1929,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.33
+  },
+  {
+    "year": 1929,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.41
+  },
+  {
+    "year": 1929,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1929,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.43
+  },
+  {
+    "year": 1929,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.37
+  },
+  {
+    "year": 1929,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1929,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1929,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1929,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1929,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.54
+  },
+  {
+    "year": 1930,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1930,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1930,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1930,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1930,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1930,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1930,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1930,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1930,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1930,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1930,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1930,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1931,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1931,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1931,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1931,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1931,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1931,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1931,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1931,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1931,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1931,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1931,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1931,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1932,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1932,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1932,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1932,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1932,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1932,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1932,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1932,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1932,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1932,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1932,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1932,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1933,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1933,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1933,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1933,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1933,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1933,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1933,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1933,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1933,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1933,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1933,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1933,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.45
+  },
+  {
+    "year": 1934,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1934,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1934,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1934,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1934,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1934,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1934,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1934,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1934,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1934,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1934,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1934,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1935,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1935,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1935,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1935,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.37
+  },
+  {
+    "year": 1935,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1935,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1935,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1935,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1935,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1935,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1935,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1935,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1936,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1936,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.38
+  },
+  {
+    "year": 1936,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1936,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1936,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1936,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1936,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1936,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1936,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1936,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1936,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1936,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1937,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1937,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1937,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1937,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1937,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1937,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1937,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1937,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1937,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1937,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1937,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1937,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1938,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1938,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1938,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1938,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1938,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1938,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1938,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1938,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1938,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1938,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1938,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1938,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1939,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1939,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1939,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1939,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1939,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1939,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1939,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1939,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1939,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1939,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1939,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1939,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1940,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1940,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1940,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1940,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1940,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1940,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1940,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1940,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1940,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1940,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1940,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1940,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.31
+  },
+  {
+    "year": 1941,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1941,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 1941,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1941,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1941,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1941,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1941,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1941,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1941,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1941,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1941,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1941,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1942,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1942,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1942,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1942,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1942,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1942,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1942,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1942,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1942,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1942,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1942,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1942,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1943,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1943,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1943,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1943,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1943,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1943,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1943,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1943,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1943,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1943,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1943,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1943,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1944,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.36
+  },
+  {
+    "year": 1944,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1944,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1944,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1944,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1944,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1944,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1944,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1944,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 1944,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 1944,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1944,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1945,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1945,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1945,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1945,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1945,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1945,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1945,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1945,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1945,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.2
+  },
+  {
+    "year": 1945,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1945,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1945,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1946,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1946,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1946,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1946,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1946,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1946,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1946,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1946,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1946,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1946,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1946,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1946,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1947,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1947,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1947,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1947,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1947,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1947,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1947,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1947,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1947,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1947,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1947,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1947,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1948,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1948,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1948,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1948,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1948,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1948,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1948,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1948,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1948,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1948,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1948,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1948,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1949,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1949,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1949,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1949,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1949,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1949,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1949,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1949,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1949,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1949,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1949,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1949,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1950,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1950,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1950,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1950,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1950,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1950,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1950,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1950,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1950,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1950,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1950,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1950,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1951,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.34
+  },
+  {
+    "year": 1951,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.42
+  },
+  {
+    "year": 1951,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1951,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1951,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1951,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1951,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1951,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1951,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1951,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1951,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1951,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1952,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1952,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1952,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1952,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1952,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1952,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1952,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1952,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1952,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1952,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1952,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1952,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1953,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1953,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1953,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1953,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1953,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1953,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1953,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1953,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1953,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1953,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1953,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1953,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1954,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1954,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1954,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1954,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1954,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1954,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1954,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1954,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1954,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1954,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1954,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1954,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1955,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1955,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1955,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1955,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1955,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1955,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1955,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1955,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1955,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1955,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1955,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1955,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1956,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1956,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1956,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1956,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.28
+  },
+  {
+    "year": 1956,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1956,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1956,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1956,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1956,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1956,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1956,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1956,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1957,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1957,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1957,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1957,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1957,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1957,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1957,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1957,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1957,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1957,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1957,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1957,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1958,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1958,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1958,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1958,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1958,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1958,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1958,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1958,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1958,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1958,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1958,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1958,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1959,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1959,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1959,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1959,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1959,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1959,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1959,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1959,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1959,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1959,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1959,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1959,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1960,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1960,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1960,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.35
+  },
+  {
+    "year": 1960,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1960,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1960,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1960,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1960,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1960,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1960,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1960,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1960,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1961,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1961,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1961,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1961,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1961,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1961,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1961,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1961,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1961,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1961,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1961,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1961,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1962,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1962,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1962,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1962,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1962,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1962,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1962,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1962,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1962,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1962,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1962,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1962,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1963,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1963,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1963,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1963,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1963,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1963,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1963,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1963,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1963,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1963,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1963,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1963,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1964,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1964,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1964,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1964,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.32
+  },
+  {
+    "year": 1964,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.25
+  },
+  {
+    "year": 1964,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1964,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1964,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.22
+  },
+  {
+    "year": 1964,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.29
+  },
+  {
+    "year": 1964,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.31
+  },
+  {
+    "year": 1964,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1964,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.3
+  },
+  {
+    "year": 1965,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1965,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1965,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1965,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1965,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1965,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1965,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1965,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1965,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1965,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1965,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1965,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1966,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1966,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1966,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1966,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1966,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1966,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1966,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1966,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1966,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1966,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1966,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1966,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1967,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1967,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1967,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1967,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1967,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1967,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1967,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1967,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1967,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1967,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1967,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1967,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1968,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.26
+  },
+  {
+    "year": 1968,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1968,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.2
+  },
+  {
+    "year": 1968,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1968,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1968,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.09
+  },
+  {
+    "year": 1968,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.13
+  },
+  {
+    "year": 1968,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1968,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.19
+  },
+  {
+    "year": 1968,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1968,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1968,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1969,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1969,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1969,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1969,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1969,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1969,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1969,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1969,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1969,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1969,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1969,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1969,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1970,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1970,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1970,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1970,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1970,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1970,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1970,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1970,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1970,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1970,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1970,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1970,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1971,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1971,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.15
+  },
+  {
+    "year": 1971,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1971,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1971,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1971,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.16
+  },
+  {
+    "year": 1971,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1971,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1971,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1971,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1971,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1971,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1972,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.23
+  },
+  {
+    "year": 1972,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.18
+  },
+  {
+    "year": 1972,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1972,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.0
+  },
+  {
+    "year": 1972,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1972,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1972,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.01
+  },
+  {
+    "year": 1972,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1972,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1972,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1972,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1972,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1973,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1973,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1973,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1973,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 1973,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1973,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1973,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1973,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1973,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1973,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1973,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1973,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1974,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1974,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.27
+  },
+  {
+    "year": 1974,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1974,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1974,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1974,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.05
+  },
+  {
+    "year": 1974,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1974,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1974,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1974,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1974,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1974,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.08
+  },
+  {
+    "year": 1975,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1975,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1975,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1975,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1975,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1975,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1975,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1975,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1975,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.02
+  },
+  {
+    "year": 1975,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.11
+  },
+  {
+    "year": 1975,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1975,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.17
+  },
+  {
+    "year": 1976,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": -0.03
+  },
+  {
+    "year": 1976,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1976,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": -0.21
+  },
+  {
+    "year": 1976,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1976,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": -0.2
+  },
+  {
+    "year": 1976,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1976,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1976,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.12
+  },
+  {
+    "year": 1976,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.07
+  },
+  {
+    "year": 1976,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": -0.24
+  },
+  {
+    "year": 1976,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": -0.06
+  },
+  {
+    "year": 1976,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1977,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1977,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1977,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1977,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1977,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1977,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 1977,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.2
+  },
+  {
+    "year": 1977,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1977,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1977,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1977,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1977,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1978,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1978,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1978,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1978,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1978,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1978,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1978,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1978,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": -0.14
+  },
+  {
+    "year": 1978,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1978,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1978,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1978,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1979,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1979,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.1
+  },
+  {
+    "year": 1979,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1979,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1979,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1979,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1979,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1979,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1979,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 1979,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1979,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 1979,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 1980,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1980,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1980,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1980,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 1980,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1980,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.2
+  },
+  {
+    "year": 1980,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1980,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1980,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.2
+  },
+  {
+    "year": 1980,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1980,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1980,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1981,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 1981,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1981,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 1981,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1981,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1981,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1981,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1981,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1981,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1981,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1981,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1981,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.41
+  },
+  {
+    "year": 1982,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1982,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1982,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1982,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1982,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1982,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1982,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1982,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1982,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1982,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1982,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1982,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1983,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 1983,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1983,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1983,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 1983,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1983,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1983,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1983,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.36
+  },
+  {
+    "year": 1983,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1983,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1983,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 1983,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1984,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.31
+  },
+  {
+    "year": 1984,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1984,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1984,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1984,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1984,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1984,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1984,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.19
+  },
+  {
+    "year": 1984,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1984,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1984,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.06
+  },
+  {
+    "year": 1984,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1985,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1985,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": -0.04
+  },
+  {
+    "year": 1985,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1985,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1985,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1985,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1985,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.04
+  },
+  {
+    "year": 1985,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1985,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1985,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1985,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.05
+  },
+  {
+    "year": 1985,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.14
+  },
+  {
+    "year": 1986,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1986,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1986,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 1986,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1986,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1986,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1986,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1986,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.16
+  },
+  {
+    "year": 1986,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1986,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1986,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.1
+  },
+  {
+    "year": 1986,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.13
+  },
+  {
+    "year": 1987,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1987,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1987,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1987,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1987,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 1987,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1987,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 1987,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 1987,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1987,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1987,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1987,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1988,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.57
+  },
+  {
+    "year": 1988,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 1988,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.51
+  },
+  {
+    "year": 1988,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1988,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 1988,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 1988,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1988,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1988,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1988,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1988,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1988,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1989,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.12
+  },
+  {
+    "year": 1989,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 1989,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.36
+  },
+  {
+    "year": 1989,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1989,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.17
+  },
+  {
+    "year": 1989,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.15
+  },
+  {
+    "year": 1989,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1989,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1989,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1989,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1989,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.2
+  },
+  {
+    "year": 1989,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1990,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.41
+  },
+  {
+    "year": 1990,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 1990,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 1990,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.56
+  },
+  {
+    "year": 1990,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 1990,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1990,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1990,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1990,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1990,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 1990,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1990,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 1991,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1991,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.5
+  },
+  {
+    "year": 1991,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1991,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.51
+  },
+  {
+    "year": 1991,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1991,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 1991,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.47
+  },
+  {
+    "year": 1991,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1991,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 1991,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1991,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1991,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1992,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.47
+  },
+  {
+    "year": 1992,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 1992,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 1992,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 1992,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.31
+  },
+  {
+    "year": 1992,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1992,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.09
+  },
+  {
+    "year": 1992,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.08
+  },
+  {
+    "year": 1992,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": -0.01
+  },
+  {
+    "year": 1992,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.07
+  },
+  {
+    "year": 1992,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1992,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1993,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 1993,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1993,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.36
+  },
+  {
+    "year": 1993,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 1993,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 1993,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.23
+  },
+  {
+    "year": 1993,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 1993,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1993,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.11
+  },
+  {
+    "year": 1993,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1993,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.03
+  },
+  {
+    "year": 1993,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.18
+  },
+  {
+    "year": 1994,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1994,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.02
+  },
+  {
+    "year": 1994,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.29
+  },
+  {
+    "year": 1994,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.41
+  },
+  {
+    "year": 1994,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 1994,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1994,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 1994,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.21
+  },
+  {
+    "year": 1994,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.31
+  },
+  {
+    "year": 1994,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1994,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 1994,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1995,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.52
+  },
+  {
+    "year": 1995,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.79
+  },
+  {
+    "year": 1995,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1995,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1995,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 1995,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1995,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 1995,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 1995,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1995,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1995,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 1995,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1996,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.24
+  },
+  {
+    "year": 1996,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.46
+  },
+  {
+    "year": 1996,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1996,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1996,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 1996,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 1996,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.36
+  },
+  {
+    "year": 1996,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 1996,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 1996,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.22
+  },
+  {
+    "year": 1996,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1996,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1997,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1997,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 1997,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.52
+  },
+  {
+    "year": 1997,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.33
+  },
+  {
+    "year": 1997,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1997,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.54
+  },
+  {
+    "year": 1997,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1997,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.41
+  },
+  {
+    "year": 1997,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.52
+  },
+  {
+    "year": 1997,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.61
+  },
+  {
+    "year": 1997,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 1997,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 1998,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.58
+  },
+  {
+    "year": 1998,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 1998,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 1998,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 1998,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.68
+  },
+  {
+    "year": 1998,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.77
+  },
+  {
+    "year": 1998,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.66
+  },
+  {
+    "year": 1998,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.65
+  },
+  {
+    "year": 1998,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1998,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 1998,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 1998,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.54
+  },
+  {
+    "year": 1999,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 1999,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 1999,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1999,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.32
+  },
+  {
+    "year": 1999,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.26
+  },
+  {
+    "year": 1999,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.36
+  },
+  {
+    "year": 1999,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1999,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.31
+  },
+  {
+    "year": 1999,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 1999,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.34
+  },
+  {
+    "year": 1999,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 1999,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 2000,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 2000,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.56
+  },
+  {
+    "year": 2000,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.55
+  },
+  {
+    "year": 2000,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.56
+  },
+  {
+    "year": 2000,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.35
+  },
+  {
+    "year": 2000,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.4
+  },
+  {
+    "year": 2000,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 2000,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.42
+  },
+  {
+    "year": 2000,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.39
+  },
+  {
+    "year": 2000,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.27
+  },
+  {
+    "year": 2000,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 2000,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.28
+  },
+  {
+    "year": 2001,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 2001,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.43
+  },
+  {
+    "year": 2001,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.55
+  },
+  {
+    "year": 2001,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.5
+  },
+  {
+    "year": 2001,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.57
+  },
+  {
+    "year": 2001,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.52
+  },
+  {
+    "year": 2001,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2001,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 2001,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.51
+  },
+  {
+    "year": 2001,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.5
+  },
+  {
+    "year": 2001,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.72
+  },
+  {
+    "year": 2001,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.55
+  },
+  {
+    "year": 2002,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.77
+  },
+  {
+    "year": 2002,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.78
+  },
+  {
+    "year": 2002,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2002,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.58
+  },
+  {
+    "year": 2002,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2002,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2002,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.61
+  },
+  {
+    "year": 2002,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2002,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2002,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.54
+  },
+  {
+    "year": 2002,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2002,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 2003,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2003,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.58
+  },
+  {
+    "year": 2003,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2003,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.55
+  },
+  {
+    "year": 2003,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2003,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.47
+  },
+  {
+    "year": 2003,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.58
+  },
+  {
+    "year": 2003,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2003,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.62
+  },
+  {
+    "year": 2003,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.72
+  },
+  {
+    "year": 2003,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.52
+  },
+  {
+    "year": 2003,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2004,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.57
+  },
+  {
+    "year": 2004,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.72
+  },
+  {
+    "year": 2004,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 2004,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2004,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.37
+  },
+  {
+    "year": 2004,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.44
+  },
+  {
+    "year": 2004,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.25
+  },
+  {
+    "year": 2004,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 2004,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.5
+  },
+  {
+    "year": 2004,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.61
+  },
+  {
+    "year": 2004,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.73
+  },
+  {
+    "year": 2004,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.5
+  },
+  {
+    "year": 2005,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.75
+  },
+  {
+    "year": 2005,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2005,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2005,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2005,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.62
+  },
+  {
+    "year": 2005,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2005,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.61
+  },
+  {
+    "year": 2005,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2005,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.71
+  },
+  {
+    "year": 2005,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.76
+  },
+  {
+    "year": 2005,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2005,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2006,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.56
+  },
+  {
+    "year": 2006,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2006,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 2006,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.47
+  },
+  {
+    "year": 2006,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 2006,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.66
+  },
+  {
+    "year": 2006,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.54
+  },
+  {
+    "year": 2006,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.71
+  },
+  {
+    "year": 2006,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.66
+  },
+  {
+    "year": 2006,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.7
+  },
+  {
+    "year": 2006,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.73
+  },
+  {
+    "year": 2006,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.79
+  },
+  {
+    "year": 2007,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.01
+  },
+  {
+    "year": 2007,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.7
+  },
+  {
+    "year": 2007,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.71
+  },
+  {
+    "year": 2007,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.77
+  },
+  {
+    "year": 2007,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.69
+  },
+  {
+    "year": 2007,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.61
+  },
+  {
+    "year": 2007,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2007,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2007,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2007,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2007,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2007,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.49
+  },
+  {
+    "year": 2008,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.3
+  },
+  {
+    "year": 2008,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.38
+  },
+  {
+    "year": 2008,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.75
+  },
+  {
+    "year": 2008,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.54
+  },
+  {
+    "year": 2008,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.5
+  },
+  {
+    "year": 2008,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.49
+  },
+  {
+    "year": 2008,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2008,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 2008,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2008,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2008,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.69
+  },
+  {
+    "year": 2008,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.54
+  },
+  {
+    "year": 2009,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.65
+  },
+  {
+    "year": 2009,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2009,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2009,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.61
+  },
+  {
+    "year": 2009,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.65
+  },
+  {
+    "year": 2009,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2009,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2009,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.69
+  },
+  {
+    "year": 2009,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.72
+  },
+  {
+    "year": 2009,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.65
+  },
+  {
+    "year": 2009,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2009,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2010,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.75
+  },
+  {
+    "year": 2010,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.84
+  },
+  {
+    "year": 2010,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.92
+  },
+  {
+    "year": 2010,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.85
+  },
+  {
+    "year": 2010,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.75
+  },
+  {
+    "year": 2010,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2010,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 2010,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2010,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 2010,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.71
+  },
+  {
+    "year": 2010,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.81
+  },
+  {
+    "year": 2010,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.45
+  },
+  {
+    "year": 2011,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.52
+  },
+  {
+    "year": 2011,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.47
+  },
+  {
+    "year": 2011,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.66
+  },
+  {
+    "year": 2011,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2011,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2011,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.63
+  },
+  {
+    "year": 2011,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.7
+  },
+  {
+    "year": 2011,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.75
+  },
+  {
+    "year": 2011,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.56
+  },
+  {
+    "year": 2011,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.65
+  },
+  {
+    "year": 2011,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2011,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2012,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.47
+  },
+  {
+    "year": 2012,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.48
+  },
+  {
+    "year": 2012,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.57
+  },
+  {
+    "year": 2012,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.73
+  },
+  {
+    "year": 2012,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.78
+  },
+  {
+    "year": 2012,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2012,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.59
+  },
+  {
+    "year": 2012,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.66
+  },
+  {
+    "year": 2012,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.72
+  },
+  {
+    "year": 2012,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.79
+  },
+  {
+    "year": 2012,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.78
+  },
+  {
+    "year": 2012,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2013,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.71
+  },
+  {
+    "year": 2013,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.62
+  },
+  {
+    "year": 2013,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2013,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.53
+  },
+  {
+    "year": 2013,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2013,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.69
+  },
+  {
+    "year": 2013,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.6
+  },
+  {
+    "year": 2013,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.7
+  },
+  {
+    "year": 2013,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.76
+  },
+  {
+    "year": 2013,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.69
+  },
+  {
+    "year": 2013,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.83
+  },
+  {
+    "year": 2013,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.7
+  },
+  {
+    "year": 2014,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.76
+  },
+  {
+    "year": 2014,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.55
+  },
+  {
+    "year": 2014,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.78
+  },
+  {
+    "year": 2014,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.81
+  },
+  {
+    "year": 2014,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.86
+  },
+  {
+    "year": 2014,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2014,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.58
+  },
+  {
+    "year": 2014,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.83
+  },
+  {
+    "year": 2014,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2014,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2014,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.67
+  },
+  {
+    "year": 2014,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.79
+  },
+  {
+    "year": 2015,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.86
+  },
+  {
+    "year": 2015,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.91
+  },
+  {
+    "year": 2015,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.96
+  },
+  {
+    "year": 2015,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.75
+  },
+  {
+    "year": 2015,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2015,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.81
+  },
+  {
+    "year": 2015,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.73
+  },
+  {
+    "year": 2015,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2015,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.84
+  },
+  {
+    "year": 2015,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 1.07
+  },
+  {
+    "year": 2015,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 1.06
+  },
+  {
+    "year": 2015,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 1.17
+  },
+  {
+    "year": 2016,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.18
+  },
+  {
+    "year": 2016,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 1.37
+  },
+  {
+    "year": 2016,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.35
+  },
+  {
+    "year": 2016,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 1.09
+  },
+  {
+    "year": 2016,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.95
+  },
+  {
+    "year": 2016,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.81
+  },
+  {
+    "year": 2016,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.84
+  },
+  {
+    "year": 2016,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 1.01
+  },
+  {
+    "year": 2016,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.9
+  },
+  {
+    "year": 2016,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.87
+  },
+  {
+    "year": 2016,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.91
+  },
+  {
+    "year": 2016,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.86
+  },
+  {
+    "year": 2017,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.02
+  },
+  {
+    "year": 2017,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 1.13
+  },
+  {
+    "year": 2017,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.16
+  },
+  {
+    "year": 2017,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.93
+  },
+  {
+    "year": 2017,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.91
+  },
+  {
+    "year": 2017,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.71
+  },
+  {
+    "year": 2017,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.82
+  },
+  {
+    "year": 2017,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.87
+  },
+  {
+    "year": 2017,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.74
+  },
+  {
+    "year": 2017,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2017,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.87
+  },
+  {
+    "year": 2017,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.93
+  },
+  {
+    "year": 2018,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.82
+  },
+  {
+    "year": 2018,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.85
+  },
+  {
+    "year": 2018,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2018,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2018,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.81
+  },
+  {
+    "year": 2018,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.76
+  },
+  {
+    "year": 2018,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.83
+  },
+  {
+    "year": 2018,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.78
+  },
+  {
+    "year": 2018,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2018,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 1.02
+  },
+  {
+    "year": 2018,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.83
+  },
+  {
+    "year": 2018,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.93
+  },
+  {
+    "year": 2019,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.93
+  },
+  {
+    "year": 2019,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.95
+  },
+  {
+    "year": 2019,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.17
+  },
+  {
+    "year": 2019,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 1.01
+  },
+  {
+    "year": 2019,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.86
+  },
+  {
+    "year": 2019,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.9
+  },
+  {
+    "year": 2019,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.94
+  },
+  {
+    "year": 2019,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.95
+  },
+  {
+    "year": 2019,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.93
+  },
+  {
+    "year": 2019,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 1.0
+  },
+  {
+    "year": 2019,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.99
+  },
+  {
+    "year": 2019,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 1.11
+  },
+  {
+    "year": 2020,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.18
+  },
+  {
+    "year": 2020,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 1.24
+  },
+  {
+    "year": 2020,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.18
+  },
+  {
+    "year": 2020,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 1.12
+  },
+  {
+    "year": 2020,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.99
+  },
+  {
+    "year": 2020,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.91
+  },
+  {
+    "year": 2020,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.89
+  },
+  {
+    "year": 2020,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.86
+  },
+  {
+    "year": 2020,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.97
+  },
+  {
+    "year": 2020,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.87
+  },
+  {
+    "year": 2020,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 1.09
+  },
+  {
+    "year": 2020,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2021,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.82
+  },
+  {
+    "year": 2021,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.64
+  },
+  {
+    "year": 2021,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 0.89
+  },
+  {
+    "year": 2021,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.76
+  },
+  {
+    "year": 2021,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.79
+  },
+  {
+    "year": 2021,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.85
+  },
+  {
+    "year": 2021,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.92
+  },
+  {
+    "year": 2021,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.81
+  },
+  {
+    "year": 2021,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.92
+  },
+  {
+    "year": 2021,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.98
+  },
+  {
+    "year": 2021,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.92
+  },
+  {
+    "year": 2021,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2022,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.91
+  },
+  {
+    "year": 2022,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.89
+  },
+  {
+    "year": 2022,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.04
+  },
+  {
+    "year": 2022,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.83
+  },
+  {
+    "year": 2022,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.84
+  },
+  {
+    "year": 2022,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 0.92
+  },
+  {
+    "year": 2022,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 0.94
+  },
+  {
+    "year": 2022,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 0.95
+  },
+  {
+    "year": 2022,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 0.89
+  },
+  {
+    "year": 2022,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 0.97
+  },
+  {
+    "year": 2022,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 0.73
+  },
+  {
+    "year": 2022,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 0.8
+  },
+  {
+    "year": 2023,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 0.88
+  },
+  {
+    "year": 2023,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 0.97
+  },
+  {
+    "year": 2023,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.23
+  },
+  {
+    "year": 2023,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 0.99
+  },
+  {
+    "year": 2023,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 0.94
+  },
+  {
+    "year": 2023,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 1.08
+  },
+  {
+    "year": 2023,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 1.19
+  },
+  {
+    "year": 2023,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 1.19
+  },
+  {
+    "year": 2023,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 1.48
+  },
+  {
+    "year": 2023,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 1.34
+  },
+  {
+    "year": 2023,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 1.4
+  },
+  {
+    "year": 2023,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 1.36
+  },
+  {
+    "year": 2024,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.25
+  },
+  {
+    "year": 2024,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 1.43
+  },
+  {
+    "year": 2024,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.39
+  },
+  {
+    "year": 2024,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 1.31
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 1.16
+  },
+  {
+    "year": 2024,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 1.24
+  },
+  {
+    "year": 2024,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 1.2
+  },
+  {
+    "year": 2024,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 1.3
+  },
+  {
+    "year": 2024,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 1.23
+  },
+  {
+    "year": 2024,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 1.35
+  },
+  {
+    "year": 2024,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 1.29
+  },
+  {
+    "year": 2024,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 1.27
+  },
+  {
+    "year": 2025,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.38
+  },
+  {
+    "year": 2025,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 1.27
+  },
+  {
+    "year": 2025,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.38
+  },
+  {
+    "year": 2025,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 1.24
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "month_num": 5,
+    "anomaly_c": 1.08
+  },
+  {
+    "year": 2025,
+    "month": "Jun",
+    "month_num": 6,
+    "anomaly_c": 1.06
+  },
+  {
+    "year": 2025,
+    "month": "Jul",
+    "month_num": 7,
+    "anomaly_c": 1.02
+  },
+  {
+    "year": 2025,
+    "month": "Aug",
+    "month_num": 8,
+    "anomaly_c": 1.17
+  },
+  {
+    "year": 2025,
+    "month": "Sep",
+    "month_num": 9,
+    "anomaly_c": 1.25
+  },
+  {
+    "year": 2025,
+    "month": "Oct",
+    "month_num": 10,
+    "anomaly_c": 1.19
+  },
+  {
+    "year": 2025,
+    "month": "Nov",
+    "month_num": 11,
+    "anomaly_c": 1.2
+  },
+  {
+    "year": 2025,
+    "month": "Dec",
+    "month_num": 12,
+    "anomaly_c": 1.07
+  },
+  {
+    "year": 2026,
+    "month": "Jan",
+    "month_num": 1,
+    "anomaly_c": 1.08
+  },
+  {
+    "year": 2026,
+    "month": "Feb",
+    "month_num": 2,
+    "anomaly_c": 1.24
+  },
+  {
+    "year": 2026,
+    "month": "Mar",
+    "month_num": 3,
+    "anomaly_c": 1.3
+  },
+  {
+    "year": 2026,
+    "month": "Apr",
+    "month_num": 4,
+    "anomaly_c": 1.18
+  }
+]

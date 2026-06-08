@@ -1,0 +1,1927 @@
+[
+  {
+    "state": "AK",
+    "disaster_type": "drought",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AL",
+    "disaster_type": "drought",
+    "cost_million_usd": 6938.1
+  },
+  {
+    "state": "AR",
+    "disaster_type": "drought",
+    "cost_million_usd": 6893.5
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "drought",
+    "cost_million_usd": 1607.2
+  },
+  {
+    "state": "CA",
+    "disaster_type": "drought",
+    "cost_million_usd": 16558.0
+  },
+  {
+    "state": "CO",
+    "disaster_type": "drought",
+    "cost_million_usd": 7342.7
+  },
+  {
+    "state": "CT",
+    "disaster_type": "drought",
+    "cost_million_usd": 13.3
+  },
+  {
+    "state": "DC",
+    "disaster_type": "drought",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "drought",
+    "cost_million_usd": 887.0
+  },
+  {
+    "state": "FL",
+    "disaster_type": "drought",
+    "cost_million_usd": 1531.8
+  },
+  {
+    "state": "GA",
+    "disaster_type": "drought",
+    "cost_million_usd": 8401.7
+  },
+  {
+    "state": "GU",
+    "disaster_type": "drought",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "drought",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "drought",
+    "cost_million_usd": 16507.2
+  },
+  {
+    "state": "ID",
+    "disaster_type": "drought",
+    "cost_million_usd": 3592.6
+  },
+  {
+    "state": "IL",
+    "disaster_type": "drought",
+    "cost_million_usd": 17502.3
+  },
+  {
+    "state": "IN",
+    "disaster_type": "drought",
+    "cost_million_usd": 8794.5
+  },
+  {
+    "state": "KS",
+    "disaster_type": "drought",
+    "cost_million_usd": 27046.8
+  },
+  {
+    "state": "KY",
+    "disaster_type": "drought",
+    "cost_million_usd": 7902.5
+  },
+  {
+    "state": "LA",
+    "disaster_type": "drought",
+    "cost_million_usd": 7074.3
+  },
+  {
+    "state": "MA",
+    "disaster_type": "drought",
+    "cost_million_usd": 20.0
+  },
+  {
+    "state": "MD",
+    "disaster_type": "drought",
+    "cost_million_usd": 3446.8
+  },
+  {
+    "state": "ME",
+    "disaster_type": "drought",
+    "cost_million_usd": 13.3
+  },
+  {
+    "state": "MI",
+    "disaster_type": "drought",
+    "cost_million_usd": 3301.5
+  },
+  {
+    "state": "MN",
+    "disaster_type": "drought",
+    "cost_million_usd": 10260.7
+  },
+  {
+    "state": "MO",
+    "disaster_type": "drought",
+    "cost_million_usd": 12652.1
+  },
+  {
+    "state": "MS",
+    "disaster_type": "drought",
+    "cost_million_usd": 9029.1
+  },
+  {
+    "state": "MT",
+    "disaster_type": "drought",
+    "cost_million_usd": 13883.9
+  },
+  {
+    "state": "NC",
+    "disaster_type": "drought",
+    "cost_million_usd": 10759.0
+  },
+  {
+    "state": "ND",
+    "disaster_type": "drought",
+    "cost_million_usd": 24073.2
+  },
+  {
+    "state": "NE",
+    "disaster_type": "drought",
+    "cost_million_usd": 17442.9
+  },
+  {
+    "state": "NH",
+    "disaster_type": "drought",
+    "cost_million_usd": 13.3
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "drought",
+    "cost_million_usd": 513.6
+  },
+  {
+    "state": "NM",
+    "disaster_type": "drought",
+    "cost_million_usd": 3421.6
+  },
+  {
+    "state": "NV",
+    "disaster_type": "drought",
+    "cost_million_usd": 445.9
+  },
+  {
+    "state": "NY",
+    "disaster_type": "drought",
+    "cost_million_usd": 631.9
+  },
+  {
+    "state": "OH",
+    "disaster_type": "drought",
+    "cost_million_usd": 6633.8
+  },
+  {
+    "state": "OK",
+    "disaster_type": "drought",
+    "cost_million_usd": 13450.5
+  },
+  {
+    "state": "OR",
+    "disaster_type": "drought",
+    "cost_million_usd": 4458.3
+  },
+  {
+    "state": "PA",
+    "disaster_type": "drought",
+    "cost_million_usd": 2591.3
+  },
+  {
+    "state": "PR",
+    "disaster_type": "drought",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "RI",
+    "disaster_type": "drought",
+    "cost_million_usd": 13.3
+  },
+  {
+    "state": "SC",
+    "disaster_type": "drought",
+    "cost_million_usd": 4457.7
+  },
+  {
+    "state": "SD",
+    "disaster_type": "drought",
+    "cost_million_usd": 14729.1
+  },
+  {
+    "state": "TN",
+    "disaster_type": "drought",
+    "cost_million_usd": 7508.8
+  },
+  {
+    "state": "TX",
+    "disaster_type": "drought",
+    "cost_million_usd": 44129.3
+  },
+  {
+    "state": "US",
+    "disaster_type": "drought",
+    "cost_million_usd": 367808.0
+  },
+  {
+    "state": "UT",
+    "disaster_type": "drought",
+    "cost_million_usd": 530.1
+  },
+  {
+    "state": "VA",
+    "disaster_type": "drought",
+    "cost_million_usd": 4841.2
+  },
+  {
+    "state": "VI",
+    "disaster_type": "drought",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VT",
+    "disaster_type": "drought",
+    "cost_million_usd": 13.3
+  },
+  {
+    "state": "WA",
+    "disaster_type": "drought",
+    "cost_million_usd": 4909.0
+  },
+  {
+    "state": "WI",
+    "disaster_type": "drought",
+    "cost_million_usd": 5869.3
+  },
+  {
+    "state": "WV",
+    "disaster_type": "drought",
+    "cost_million_usd": 2337.4
+  },
+  {
+    "state": "WY",
+    "disaster_type": "drought",
+    "cost_million_usd": 2833.3
+  },
+  {
+    "state": "AK",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AL",
+    "disaster_type": "flooding",
+    "cost_million_usd": 137.7
+  },
+  {
+    "state": "AR",
+    "disaster_type": "flooding",
+    "cost_million_usd": 4703.9
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1922.4
+  },
+  {
+    "state": "CA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 19214.9
+  },
+  {
+    "state": "CO",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2082.1
+  },
+  {
+    "state": "CT",
+    "disaster_type": "flooding",
+    "cost_million_usd": 612.2
+  },
+  {
+    "state": "DC",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "flooding",
+    "cost_million_usd": 34.7
+  },
+  {
+    "state": "FL",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2944.1
+  },
+  {
+    "state": "GA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1418.6
+  },
+  {
+    "state": "GU",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 24791.5
+  },
+  {
+    "state": "ID",
+    "disaster_type": "flooding",
+    "cost_million_usd": 586.3
+  },
+  {
+    "state": "IL",
+    "disaster_type": "flooding",
+    "cost_million_usd": 10169.4
+  },
+  {
+    "state": "IN",
+    "disaster_type": "flooding",
+    "cost_million_usd": 5541.3
+  },
+  {
+    "state": "KS",
+    "disaster_type": "flooding",
+    "cost_million_usd": 3659.5
+  },
+  {
+    "state": "KY",
+    "disaster_type": "flooding",
+    "cost_million_usd": 968.1
+  },
+  {
+    "state": "LA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 21528.6
+  },
+  {
+    "state": "MA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1318.2
+  },
+  {
+    "state": "MD",
+    "disaster_type": "flooding",
+    "cost_million_usd": 346.1
+  },
+  {
+    "state": "ME",
+    "disaster_type": "flooding",
+    "cost_million_usd": 601.4
+  },
+  {
+    "state": "MI",
+    "disaster_type": "flooding",
+    "cost_million_usd": 3409.9
+  },
+  {
+    "state": "MN",
+    "disaster_type": "flooding",
+    "cost_million_usd": 6602.1
+  },
+  {
+    "state": "MO",
+    "disaster_type": "flooding",
+    "cost_million_usd": 16272.4
+  },
+  {
+    "state": "MS",
+    "disaster_type": "flooding",
+    "cost_million_usd": 3753.9
+  },
+  {
+    "state": "MT",
+    "disaster_type": "flooding",
+    "cost_million_usd": 357.2
+  },
+  {
+    "state": "NC",
+    "disaster_type": "flooding",
+    "cost_million_usd": 106.5
+  },
+  {
+    "state": "ND",
+    "disaster_type": "flooding",
+    "cost_million_usd": 9758.7
+  },
+  {
+    "state": "NE",
+    "disaster_type": "flooding",
+    "cost_million_usd": 5232.2
+  },
+  {
+    "state": "NH",
+    "disaster_type": "flooding",
+    "cost_million_usd": 72.2
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1357.5
+  },
+  {
+    "state": "NM",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NV",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1089.0
+  },
+  {
+    "state": "NY",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2354.0
+  },
+  {
+    "state": "OH",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1389.9
+  },
+  {
+    "state": "OK",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2598.0
+  },
+  {
+    "state": "OR",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1655.4
+  },
+  {
+    "state": "PA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1354.1
+  },
+  {
+    "state": "PR",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "RI",
+    "disaster_type": "flooding",
+    "cost_million_usd": 240.7
+  },
+  {
+    "state": "SC",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2611.7
+  },
+  {
+    "state": "SD",
+    "disaster_type": "flooding",
+    "cost_million_usd": 5649.5
+  },
+  {
+    "state": "TN",
+    "disaster_type": "flooding",
+    "cost_million_usd": 3988.9
+  },
+  {
+    "state": "TX",
+    "disaster_type": "flooding",
+    "cost_million_usd": 15303.3
+  },
+  {
+    "state": "US",
+    "disaster_type": "flooding",
+    "cost_million_usd": 202956.7
+  },
+  {
+    "state": "UT",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1610.0
+  },
+  {
+    "state": "VA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2301.9
+  },
+  {
+    "state": "VI",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VT",
+    "disaster_type": "flooding",
+    "cost_million_usd": 952.8
+  },
+  {
+    "state": "WA",
+    "disaster_type": "flooding",
+    "cost_million_usd": 1099.0
+  },
+  {
+    "state": "WI",
+    "disaster_type": "flooding",
+    "cost_million_usd": 6401.0
+  },
+  {
+    "state": "WV",
+    "disaster_type": "flooding",
+    "cost_million_usd": 2853.9
+  },
+  {
+    "state": "WY",
+    "disaster_type": "flooding",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AK",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AL",
+    "disaster_type": "freeze",
+    "cost_million_usd": 152.4
+  },
+  {
+    "state": "AR",
+    "disaster_type": "freeze",
+    "cost_million_usd": 298.6
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "CA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 15491.0
+  },
+  {
+    "state": "CO",
+    "disaster_type": "freeze",
+    "cost_million_usd": 105.0
+  },
+  {
+    "state": "CT",
+    "disaster_type": "freeze",
+    "cost_million_usd": 42.0
+  },
+  {
+    "state": "DC",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "freeze",
+    "cost_million_usd": 12.6
+  },
+  {
+    "state": "FL",
+    "disaster_type": "freeze",
+    "cost_million_usd": 13921.4
+  },
+  {
+    "state": "GA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 1315.0
+  },
+  {
+    "state": "GU",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 77.6
+  },
+  {
+    "state": "ID",
+    "disaster_type": "freeze",
+    "cost_million_usd": 12.6
+  },
+  {
+    "state": "IL",
+    "disaster_type": "freeze",
+    "cost_million_usd": 431.9
+  },
+  {
+    "state": "IN",
+    "disaster_type": "freeze",
+    "cost_million_usd": 234.5
+  },
+  {
+    "state": "KS",
+    "disaster_type": "freeze",
+    "cost_million_usd": 175.9
+  },
+  {
+    "state": "KY",
+    "disaster_type": "freeze",
+    "cost_million_usd": 255.6
+  },
+  {
+    "state": "LA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 210.0
+  },
+  {
+    "state": "MA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 50.4
+  },
+  {
+    "state": "MD",
+    "disaster_type": "freeze",
+    "cost_million_usd": 33.6
+  },
+  {
+    "state": "ME",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MI",
+    "disaster_type": "freeze",
+    "cost_million_usd": 50.4
+  },
+  {
+    "state": "MN",
+    "disaster_type": "freeze",
+    "cost_million_usd": 54.6
+  },
+  {
+    "state": "MO",
+    "disaster_type": "freeze",
+    "cost_million_usd": 656.4
+  },
+  {
+    "state": "MS",
+    "disaster_type": "freeze",
+    "cost_million_usd": 129.6
+  },
+  {
+    "state": "MT",
+    "disaster_type": "freeze",
+    "cost_million_usd": 12.6
+  },
+  {
+    "state": "NC",
+    "disaster_type": "freeze",
+    "cost_million_usd": 312.8
+  },
+  {
+    "state": "ND",
+    "disaster_type": "freeze",
+    "cost_million_usd": 12.6
+  },
+  {
+    "state": "NE",
+    "disaster_type": "freeze",
+    "cost_million_usd": 87.0
+  },
+  {
+    "state": "NH",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "freeze",
+    "cost_million_usd": 50.4
+  },
+  {
+    "state": "NM",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NV",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NY",
+    "disaster_type": "freeze",
+    "cost_million_usd": 71.4
+  },
+  {
+    "state": "OH",
+    "disaster_type": "freeze",
+    "cost_million_usd": 418.2
+  },
+  {
+    "state": "OK",
+    "disaster_type": "freeze",
+    "cost_million_usd": 630.0
+  },
+  {
+    "state": "OR",
+    "disaster_type": "freeze",
+    "cost_million_usd": 138.6
+  },
+  {
+    "state": "PA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 105.0
+  },
+  {
+    "state": "PR",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "RI",
+    "disaster_type": "freeze",
+    "cost_million_usd": 8.4
+  },
+  {
+    "state": "SC",
+    "disaster_type": "freeze",
+    "cost_million_usd": 652.2
+  },
+  {
+    "state": "SD",
+    "disaster_type": "freeze",
+    "cost_million_usd": 25.2
+  },
+  {
+    "state": "TN",
+    "disaster_type": "freeze",
+    "cost_million_usd": 196.0
+  },
+  {
+    "state": "TX",
+    "disaster_type": "freeze",
+    "cost_million_usd": 565.3
+  },
+  {
+    "state": "US",
+    "disaster_type": "freeze",
+    "cost_million_usd": 37343.4
+  },
+  {
+    "state": "UT",
+    "disaster_type": "freeze",
+    "cost_million_usd": 12.6
+  },
+  {
+    "state": "VA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 91.6
+  },
+  {
+    "state": "VI",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VT",
+    "disaster_type": "freeze",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "WA",
+    "disaster_type": "freeze",
+    "cost_million_usd": 113.4
+  },
+  {
+    "state": "WI",
+    "disaster_type": "freeze",
+    "cost_million_usd": 50.4
+  },
+  {
+    "state": "WV",
+    "disaster_type": "freeze",
+    "cost_million_usd": 70.2
+  },
+  {
+    "state": "WY",
+    "disaster_type": "freeze",
+    "cost_million_usd": 8.4
+  },
+  {
+    "state": "AK",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AL",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 14669.7
+  },
+  {
+    "state": "AR",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 11951.6
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 5472.0
+  },
+  {
+    "state": "CA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 3533.5
+  },
+  {
+    "state": "CO",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 33317.9
+  },
+  {
+    "state": "CT",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 908.9
+  },
+  {
+    "state": "DC",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 286.2
+  },
+  {
+    "state": "FL",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 6645.3
+  },
+  {
+    "state": "GA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 13120.6
+  },
+  {
+    "state": "GU",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 23085.2
+  },
+  {
+    "state": "ID",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IL",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 28793.7
+  },
+  {
+    "state": "IN",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 15746.5
+  },
+  {
+    "state": "KS",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 13993.2
+  },
+  {
+    "state": "KY",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 16603.2
+  },
+  {
+    "state": "LA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 12929.0
+  },
+  {
+    "state": "MA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 880.4
+  },
+  {
+    "state": "MD",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 3772.8
+  },
+  {
+    "state": "ME",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 244.3
+  },
+  {
+    "state": "MI",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 7112.7
+  },
+  {
+    "state": "MN",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 24933.0
+  },
+  {
+    "state": "MO",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 29335.0
+  },
+  {
+    "state": "MS",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 7010.1
+  },
+  {
+    "state": "MT",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 1281.6
+  },
+  {
+    "state": "NC",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 8742.5
+  },
+  {
+    "state": "ND",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 417.0
+  },
+  {
+    "state": "NE",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 16293.3
+  },
+  {
+    "state": "NH",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 164.1
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 4175.4
+  },
+  {
+    "state": "NM",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 1062.9
+  },
+  {
+    "state": "NV",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 63.0
+  },
+  {
+    "state": "NY",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 4951.6
+  },
+  {
+    "state": "OH",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 18918.5
+  },
+  {
+    "state": "OK",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 27412.5
+  },
+  {
+    "state": "OR",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 107.5
+  },
+  {
+    "state": "PA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 9692.0
+  },
+  {
+    "state": "PR",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "RI",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 224.6
+  },
+  {
+    "state": "SC",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 5144.8
+  },
+  {
+    "state": "SD",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 2296.9
+  },
+  {
+    "state": "TN",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 23587.9
+  },
+  {
+    "state": "TX",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 98418.2
+  },
+  {
+    "state": "US",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 514043.3
+  },
+  {
+    "state": "UT",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 28.8
+  },
+  {
+    "state": "VA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 4030.2
+  },
+  {
+    "state": "VI",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VT",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 185.6
+  },
+  {
+    "state": "WA",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 69.0
+  },
+  {
+    "state": "WI",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 9814.5
+  },
+  {
+    "state": "WV",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 1160.9
+  },
+  {
+    "state": "WY",
+    "disaster_type": "severe storm",
+    "cost_million_usd": 1455.2
+  },
+  {
+    "state": "AK",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AL",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 27197.6
+  },
+  {
+    "state": "AR",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 720.1
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "CA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "CO",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "CT",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 6006.8
+  },
+  {
+    "state": "DC",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1034.8
+  },
+  {
+    "state": "FL",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 422701.6
+  },
+  {
+    "state": "GA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 33040.8
+  },
+  {
+    "state": "GU",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 4420.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 6913.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "ID",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IL",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1082.4
+  },
+  {
+    "state": "IN",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1266.5
+  },
+  {
+    "state": "KS",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "KY",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1585.3
+  },
+  {
+    "state": "LA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 270543.4
+  },
+  {
+    "state": "MA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 3689.0
+  },
+  {
+    "state": "MD",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 6529.1
+  },
+  {
+    "state": "ME",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 143.5
+  },
+  {
+    "state": "MI",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 115.0
+  },
+  {
+    "state": "MN",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MO",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 560.9
+  },
+  {
+    "state": "MS",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 62029.6
+  },
+  {
+    "state": "MT",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NC",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 113340.3
+  },
+  {
+    "state": "ND",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NE",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NH",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 462.8
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 53304.3
+  },
+  {
+    "state": "NM",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 304.6
+  },
+  {
+    "state": "NV",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NY",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 68698.0
+  },
+  {
+    "state": "OH",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 3889.0
+  },
+  {
+    "state": "OK",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "OR",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "PA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 12070.0
+  },
+  {
+    "state": "PR",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 126324.8
+  },
+  {
+    "state": "RI",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1355.7
+  },
+  {
+    "state": "SC",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 28857.5
+  },
+  {
+    "state": "SD",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "TN",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 2518.3
+  },
+  {
+    "state": "TX",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 248011.2
+  },
+  {
+    "state": "US",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1542970.6
+  },
+  {
+    "state": "UT",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 11133.2
+  },
+  {
+    "state": "VI",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 21081.5
+  },
+  {
+    "state": "VT",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 1173.7
+  },
+  {
+    "state": "WA",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "WI",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "WV",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 866.3
+  },
+  {
+    "state": "WY",
+    "disaster_type": "tropical cyclone",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AK",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 2344.4
+  },
+  {
+    "state": "AL",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 733.3
+  },
+  {
+    "state": "AR",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 1356.1
+  },
+  {
+    "state": "CA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 100093.8
+  },
+  {
+    "state": "CO",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 7231.5
+  },
+  {
+    "state": "CT",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DC",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "FL",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 306.2
+  },
+  {
+    "state": "GA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 294.8
+  },
+  {
+    "state": "GU",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 5665.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "ID",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 3557.0
+  },
+  {
+    "state": "IL",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IN",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "KS",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "KY",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "LA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MD",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "ME",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MI",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MN",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 100.4
+  },
+  {
+    "state": "MO",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "MS",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 43.2
+  },
+  {
+    "state": "MT",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 3473.5
+  },
+  {
+    "state": "NC",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 90.5
+  },
+  {
+    "state": "ND",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 13.2
+  },
+  {
+    "state": "NE",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 58.6
+  },
+  {
+    "state": "NH",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NM",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 4520.1
+  },
+  {
+    "state": "NV",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 1247.7
+  },
+  {
+    "state": "NY",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "OH",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "OK",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 348.4
+  },
+  {
+    "state": "OR",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 5913.0
+  },
+  {
+    "state": "PA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "PR",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "RI",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "SC",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "SD",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 108.8
+  },
+  {
+    "state": "TN",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 1834.0
+  },
+  {
+    "state": "TX",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 3166.1
+  },
+  {
+    "state": "US",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 148046.0
+  },
+  {
+    "state": "UT",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 1405.4
+  },
+  {
+    "state": "VA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VI",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VT",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "WA",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 3036.1
+  },
+  {
+    "state": "WI",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "WV",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "WY",
+    "disaster_type": "wildfire",
+    "cost_million_usd": 1104.9
+  },
+  {
+    "state": "AK",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "AL",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 2432.0
+  },
+  {
+    "state": "AR",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1360.4
+  },
+  {
+    "state": "AZ",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "CA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "CO",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 418.9
+  },
+  {
+    "state": "CT",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 3146.3
+  },
+  {
+    "state": "DC",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "DE",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 934.7
+  },
+  {
+    "state": "FL",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 4027.9
+  },
+  {
+    "state": "GA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 2916.1
+  },
+  {
+    "state": "GU",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "HI",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 236.1
+  },
+  {
+    "state": "ID",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "IL",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 2580.4
+  },
+  {
+    "state": "IN",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 799.0
+  },
+  {
+    "state": "KS",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 205.7
+  },
+  {
+    "state": "KY",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1587.6
+  },
+  {
+    "state": "LA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 2317.5
+  },
+  {
+    "state": "MA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 5179.1
+  },
+  {
+    "state": "MD",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 3146.9
+  },
+  {
+    "state": "ME",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1626.6
+  },
+  {
+    "state": "MI",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 677.5
+  },
+  {
+    "state": "MN",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 226.5
+  },
+  {
+    "state": "MO",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 929.2
+  },
+  {
+    "state": "MS",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 4818.7
+  },
+  {
+    "state": "MT",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NC",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 2458.7
+  },
+  {
+    "state": "ND",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 38.9
+  },
+  {
+    "state": "NE",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 42.4
+  },
+  {
+    "state": "NH",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1630.7
+  },
+  {
+    "state": "NJ",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 5707.7
+  },
+  {
+    "state": "NM",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "NV",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 45.6
+  },
+  {
+    "state": "NY",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 7982.6
+  },
+  {
+    "state": "OH",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1795.8
+  },
+  {
+    "state": "OK",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1067.1
+  },
+  {
+    "state": "OR",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1477.9
+  },
+  {
+    "state": "PA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 4021.4
+  },
+  {
+    "state": "PR",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "RI",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1130.5
+  },
+  {
+    "state": "SC",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1563.5
+  },
+  {
+    "state": "SD",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "TN",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 2846.6
+  },
+  {
+    "state": "TX",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 26502.9
+  },
+  {
+    "state": "US",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 104438.5
+  },
+  {
+    "state": "UT",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 3141.7
+  },
+  {
+    "state": "VI",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  },
+  {
+    "state": "VT",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1199.7
+  },
+  {
+    "state": "WA",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 1081.2
+  },
+  {
+    "state": "WI",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 252.0
+  },
+  {
+    "state": "WV",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 884.5
+  },
+  {
+    "state": "WY",
+    "disaster_type": "winter storm",
+    "cost_million_usd": 0.0
+  }
+]
